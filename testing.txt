@@ -1,0 +1,3633 @@
+{'genre': u'Cool Jazz',
+ 'title': u'Dave Brubeck',
+ 'url': u'http://lyrics.wikia.com/wiki/Dave_Brubeck'}
+{'genre': u'Cool Jazz',
+ 'title': u'Gerry Mulligan',
+ 'url': u'http://lyrics.wikia.com/wiki/Gerry_Mulligan'}
+{'genre': u'Cool Jazz',
+ 'title': u'Jazz Caf\xe9: Saxophone & Trumpet (1995)',
+ 'url': u'http://lyrics.wikia.com/wiki/Jazz_Caf%C3%A9:_Saxophone_%26_Trumpet_(1995)'}
+{'genre': u'Cool Jazz',
+ 'title': u'Metronome All Stars',
+ 'url': u'http://lyrics.wikia.com/wiki/Metronome_All_Stars'}
+{'genre': u'Cool Jazz',
+ 'title': u'Paul Desmond',
+ 'url': u'http://lyrics.wikia.com/wiki/Paul_Desmond'}
+{'genre': u'Cool Jazz',
+ 'title': u'Sarah Vaughan',
+ 'url': u'http://lyrics.wikia.com/wiki/Sarah_Vaughan'}
+{'genre': u'Cool Jazz',
+ 'title': u'Shelly Manne',
+ 'url': u'http://lyrics.wikia.com/wiki/Shelly_Manne'}
+{'genre': u'Cool Jazz',
+ 'title': u'Shorty Rogers',
+ 'url': u'http://lyrics.wikia.com/wiki/Shorty_Rogers'}
+{'genre': u'Cool Jazz',
+ 'title': u'The Dave Brubeck Quartet',
+ 'url': u'http://lyrics.wikia.com/wiki/The_Dave_Brubeck_Quartet'}
+{'genre': u'Cool Jazz',
+ 'title': u'The Dave Brubeck Quartet:Jazz Impressions Of New York (1965)',
+ 'url': u'http://lyrics.wikia.com/wiki/The_Dave_Brubeck_Quartet:Jazz_Impressions_Of_New_York_(1965)'}
+{'genre': u'Cool Jazz',
+ 'title': u'The Dave Brubeck Quartet:Time Out (1992)',
+ 'url': u'http://lyrics.wikia.com/wiki/The_Dave_Brubeck_Quartet:Time_Out_(1992)'}
+{'genre': u'Contemporary Folk',
+ 'title': u'Acoustic Junction:Acoustic Junction (1996)',
+ 'url': u'http://lyrics.wikia.com/wiki/Acoustic_Junction:Acoustic_Junction_(1996)'}
+{'genre': u'Contemporary Folk',
+ 'title': u'Acoustic Junction:Love It For What It Is (1991)',
+ 'url': u'http://lyrics.wikia.com/wiki/Acoustic_Junction:Love_It_For_What_It_Is_(1991)'}
+{'genre': u'Contemporary Folk',
+ 'title': u'Acoustic Junction:Strange Days (2000)',
+ 'url': u'http://lyrics.wikia.com/wiki/Acoustic_Junction:Strange_Days_(2000)'}
+{'genre': u'Contemporary Folk',
+ 'title': u'Acoustic Junction:Surrounded By Change (1993)',
+ 'url': u'http://lyrics.wikia.com/wiki/Acoustic_Junction:Surrounded_By_Change_(1993)'}
+{'genre': u'Contemporary Folk',
+ 'title': u'Asher Wolfson',
+ 'url': u'http://lyrics.wikia.com/wiki/Asher_Wolfson'}
+{'genre': u'Contemporary Folk',
+ 'title': u'Carrie Newcomer',
+ 'url': u'http://lyrics.wikia.com/wiki/Carrie_Newcomer'}
+{'genre': u'Contemporary Folk',
+ 'title': u'Don Francisco',
+ 'url': u'http://lyrics.wikia.com/wiki/Don_Francisco'}
+{'genre': u'Contemporary Folk',
+ 'title': u'Edie Carey:Call Me Home (2000)',
+ 'url': u'http://lyrics.wikia.com/wiki/Edie_Carey:Call_Me_Home_(2000)'}
+{'genre': u'Contemporary Folk',
+ 'title': u'Edie Carey:The Falling Places (1998)',
+ 'url': u'http://lyrics.wikia.com/wiki/Edie_Carey:The_Falling_Places_(1998)'}
+{'genre': u'Contemporary Folk',
+ 'title': u'Edie Carey:When I Was Made (2003)',
+ 'url': u'http://lyrics.wikia.com/wiki/Edie_Carey:When_I_Was_Made_(2003)'}
+{'genre': u'Contemporary Folk',
+ 'title': u'Emily Kinney:Blue Toothbrush (2011)',
+ 'url': u'http://lyrics.wikia.com/wiki/Emily_Kinney:Blue_Toothbrush_(2011)'}
+{'genre': u'Contemporary Folk',
+ 'title': u'Fire On Fire',
+ 'url': u'http://lyrics.wikia.com/wiki/Fire_On_Fire'}
+{'genre': u'Contemporary Folk',
+ 'title': u'Gamble Rogers',
+ 'url': u'http://lyrics.wikia.com/wiki/Gamble_Rogers'}
+{'genre': u'Contemporary Folk',
+ 'title': u'Jane Siberry:Jane Siberry (1981)',
+ 'url': u'http://lyrics.wikia.com/wiki/Jane_Siberry:Jane_Siberry_(1981)'}
+{'genre': u'Contemporary Folk',
+ 'title': u'Jane Siberry:Teenager (1996)',
+ 'url': u'http://lyrics.wikia.com/wiki/Jane_Siberry:Teenager_(1996)'}
+{'genre': u'Contemporary Folk',
+ 'title': u'John Gorka:After Yesterday (1998)',
+ 'url': u'http://lyrics.wikia.com/wiki/John_Gorka:After_Yesterday_(1998)'}
+{'genre': u'Contemporary Folk',
+ 'title': u'John Gorka:Between Five And Seven (1996)',
+ 'url': u'http://lyrics.wikia.com/wiki/John_Gorka:Between_Five_And_Seven_(1996)'}
+{'genre': u'Contemporary Folk',
+ 'title': u'John Gorka:I Know (1987)',
+ 'url': u'http://lyrics.wikia.com/wiki/John_Gorka:I_Know_(1987)'}
+{'genre': u'Contemporary Folk',
+ 'title': u"John Gorka:Jack's Crows (1991)",
+ 'url': u'http://lyrics.wikia.com/wiki/John_Gorka:Jack%27s_Crows_(1991)'}
+{'genre': u'Contemporary Folk',
+ 'title': u'John Gorka:Out Of The Valley (1994)',
+ 'url': u'http://lyrics.wikia.com/wiki/John_Gorka:Out_Of_The_Valley_(1994)'}
+{'genre': u'Contemporary Folk',
+ 'title': u'John Gorka:Temporary Road (1992)',
+ 'url': u'http://lyrics.wikia.com/wiki/John_Gorka:Temporary_Road_(1992)'}
+{'genre': u'Contemporary Folk',
+ 'title': u'Lucinda Williams:Car Wheels On A Gravel Road (1998)',
+ 'url': u'http://lyrics.wikia.com/wiki/Lucinda_Williams:Car_Wheels_On_A_Gravel_Road_(1998)'}
+{'genre': u'Contemporary Folk',
+ 'title': u'Marian Call:Got To Fly (2008)',
+ 'url': u'http://lyrics.wikia.com/wiki/Marian_Call:Got_To_Fly_(2008)'}
+{'genre': u'Contemporary Folk',
+ 'title': u'Nick Drake:Pink Moon (1972)',
+ 'url': u'http://lyrics.wikia.com/wiki/Nick_Drake:Pink_Moon_(1972)'}
+{'genre': u'Contemporary Folk',
+ 'title': u'Patty Griffin',
+ 'url': u'http://lyrics.wikia.com/wiki/Patty_Griffin'}
+{'genre': u'Contemporary Folk',
+ 'title': u'Peter Rohland',
+ 'url': u'http://lyrics.wikia.com/wiki/Peter_Rohland'}
+{'genre': u'Contemporary Folk',
+ 'title': u'Richard Thompson:Front Parlour Ballads (2005)',
+ 'url': u'http://lyrics.wikia.com/wiki/Richard_Thompson:Front_Parlour_Ballads_(2005)'}
+{'genre': u'Contemporary Folk',
+ 'title': u'Richard Thompson:Sweet Warrior (2007)',
+ 'url': u'http://lyrics.wikia.com/wiki/Richard_Thompson:Sweet_Warrior_(2007)'}
+{'genre': u'Contemporary Folk',
+ 'title': u'Shawn Colvin:A Few Small Repairs (1996)',
+ 'url': u'http://lyrics.wikia.com/wiki/Shawn_Colvin:A_Few_Small_Repairs_(1996)'}
+{'genre': u'Contemporary Folk',
+ 'title': u'Shawn Colvin:All Fall Down (2012)',
+ 'url': u'http://lyrics.wikia.com/wiki/Shawn_Colvin:All_Fall_Down_(2012)'}
+{'genre': u'Contemporary Folk',
+ 'title': u'Shawn Colvin:Cover Girl (1994)',
+ 'url': u'http://lyrics.wikia.com/wiki/Shawn_Colvin:Cover_Girl_(1994)'}
+{'genre': u'Contemporary Folk',
+ 'title': u'Shawn Colvin:Fat City (1992)',
+ 'url': u'http://lyrics.wikia.com/wiki/Shawn_Colvin:Fat_City_(1992)'}
+{'genre': u'Contemporary Folk',
+ 'title': u'Shawn Colvin:Polaroids-A Greatest Hits Collection (1989-2004) (2004)',
+ 'url': u'http://lyrics.wikia.com/wiki/Shawn_Colvin:Polaroids-A_Greatest_Hits_Collection_(1989-2004)_(2004)'}
+{'genre': u'Contemporary Folk',
+ 'title': u'Shawn Colvin:These Four Walls (2006)',
+ 'url': u'http://lyrics.wikia.com/wiki/Shawn_Colvin:These_Four_Walls_(2006)'}
+{'genre': u'Contemporary Folk',
+ 'title': u'Shawn Colvin:Whole New You (2001)',
+ 'url': u'http://lyrics.wikia.com/wiki/Shawn_Colvin:Whole_New_You_(2001)'}
+{'genre': u'Contemporary Folk',
+ 'title': u'Shaye',
+ 'url': u'http://lyrics.wikia.com/wiki/Shaye'}
+{'genre': u'Contemporary Folk',
+ 'title': u'Shaye:Lake Of Fire (2006)',
+ 'url': u'http://lyrics.wikia.com/wiki/Shaye:Lake_Of_Fire_(2006)'}
+{'genre': u'Contemporary Folk',
+ 'title': u'Shaye:The Bridge (2003)',
+ 'url': u'http://lyrics.wikia.com/wiki/Shaye:The_Bridge_(2003)'}
+{'genre': u'Contemporary Folk',
+ 'title': u'Steven Delopoulos:As If Love Was A Sword: Noisetrade Exclusive B-Sides (2008)',
+ 'url': u'http://lyrics.wikia.com/wiki/Steven_Delopoulos:As_If_Love_Was_A_Sword:_Noisetrade_Exclusive_B-Sides_(2008)'}
+{'genre': u'Contemporary Folk',
+ 'title': u'Steven Delopoulos:Straightjacket (2007)',
+ 'url': u'http://lyrics.wikia.com/wiki/Steven_Delopoulos:Straightjacket_(2007)'}
+{'genre': u'Contemporary Folk',
+ 'title': u'Tara MacLean',
+ 'url': u'http://lyrics.wikia.com/wiki/Tara_MacLean'}
+{'genre': u'Contemporary Folk',
+ 'title': u'Tara MacLean:If You See Me (1997)',
+ 'url': u'http://lyrics.wikia.com/wiki/Tara_MacLean:If_You_See_Me_(1997)'}
+{'genre': u'Contemporary Folk',
+ 'title': u'Tara MacLean:Passenger (1999)',
+ 'url': u'http://lyrics.wikia.com/wiki/Tara_MacLean:Passenger_(1999)'}
+{'genre': u'Contemporary Folk',
+ 'title': u'Tara MacLean:Signs Of Life (2007)',
+ 'url': u'http://lyrics.wikia.com/wiki/Tara_MacLean:Signs_Of_Life_(2007)'}
+{'genre': u'Contemporary Folk',
+ 'title': u'Tara MacLean:Silence (1996)',
+ 'url': u'http://lyrics.wikia.com/wiki/Tara_MacLean:Silence_(1996)'}
+{'genre': u'Contemporary Folk',
+ 'title': u'Tara MacLean:Wake (2008)',
+ 'url': u'http://lyrics.wikia.com/wiki/Tara_MacLean:Wake_(2008)'}
+{'genre': u'Contemporary Folk',
+ 'title': u'\u0395\u03bb\u03b5\u03c5\u03b8\u03b5\u03c1\u03af\u03b1 \u0391\u03c1\u03b2\u03b1\u03bd\u03b9\u03c4\u03ac\u03ba\u03b7:The Very Best Of 1989-1998 (1999)',
+ 'url': u'http://lyrics.wikia.com/wiki/%CE%95%CE%BB%CE%B5%CF%85%CE%B8%CE%B5%CF%81%CE%AF%CE%B1_%CE%91%CF%81%CE%B2%CE%B1%CE%BD%CE%B9%CF%84%CE%AC%CE%BA%CE%B7:The_Very_Best_Of_1989-1998_(1999)'}
+{'genre': u'Contemporary Folk',
+ 'title': u'\u0395\u03bb\u03b5\u03c5\u03b8\u03b5\u03c1\u03af\u03b1 \u0391\u03c1\u03b2\u03b1\u03bd\u03b9\u03c4\u03ac\u03ba\u03b7:\u039c\u03ad\u03bd\u03c9 \u0395\u03ba\u03c4\u03cc\u03c2 (1991)',
+ 'url': u'http://lyrics.wikia.com/wiki/%CE%95%CE%BB%CE%B5%CF%85%CE%B8%CE%B5%CF%81%CE%AF%CE%B1_%CE%91%CF%81%CE%B2%CE%B1%CE%BD%CE%B9%CF%84%CE%AC%CE%BA%CE%B7:%CE%9C%CE%AD%CE%BD%CF%89_%CE%95%CE%BA%CF%84%CF%8C%CF%82_(1991)'}
+{'genre': u'Contemporary Folk',
+ 'title': u'\u0395\u03bb\u03b5\u03c5\u03b8\u03b5\u03c1\u03af\u03b1 \u0391\u03c1\u03b2\u03b1\u03bd\u03b9\u03c4\u03ac\u03ba\u03b7:\u03a4\u03b1 \u039a\u03bf\u03c1\u03bc\u03b9\u03ac \u039a\u03b1\u03b9 \u03a4\u03b1 \u039c\u03b1\u03c7\u03b1\u03af\u03c1\u03b9\u03b1 (1994)',
+ 'url': u'http://lyrics.wikia.com/wiki/%CE%95%CE%BB%CE%B5%CF%85%CE%B8%CE%B5%CF%81%CE%AF%CE%B1_%CE%91%CF%81%CE%B2%CE%B1%CE%BD%CE%B9%CF%84%CE%AC%CE%BA%CE%B7:%CE%A4%CE%B1_%CE%9A%CE%BF%CF%81%CE%BC%CE%B9%CE%AC_%CE%9A%CE%B1%CE%B9_%CE%A4%CE%B1_%CE%9C%CE%B1%CF%87%CE%B1%CE%AF%CF%81%CE%B9%CE%B1_(1994)'}
+{'genre': u'Contemporary Folk',
+ 'title': u'\u0395\u03bb\u03b5\u03c5\u03b8\u03b5\u03c1\u03af\u03b1 \u0391\u03c1\u03b2\u03b1\u03bd\u03b9\u03c4\u03ac\u03ba\u03b7:\u03a4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u0393\u03b9\u03b1 \u03a4\u03bf\u03c5\u03c2 \u039c\u03ae\u03bd\u03b5\u03c2 (1996)',
+ 'url': u'http://lyrics.wikia.com/wiki/%CE%95%CE%BB%CE%B5%CF%85%CE%B8%CE%B5%CF%81%CE%AF%CE%B1_%CE%91%CF%81%CE%B2%CE%B1%CE%BD%CE%B9%CF%84%CE%AC%CE%BA%CE%B7:%CE%A4%CF%81%CE%B1%CE%B3%CE%BF%CF%8D%CE%B4%CE%B9%CE%B1_%CE%93%CE%B9%CE%B1_%CE%A4%CE%BF%CF%85%CF%82_%CE%9C%CE%AE%CE%BD%CE%B5%CF%82_(1996)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'1-Lyfe',
+ 'url': u'http://lyrics.wikia.com/wiki/1-Lyfe'}
+{'genre': u'Contemporary Christian',
+ 'title': u'27 Annual Covenant Hits (2006)',
+ 'url': u'http://lyrics.wikia.com/wiki/27_Annual_Covenant_Hits_(2006)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'2nd Chapter Of Acts',
+ 'url': u'http://lyrics.wikia.com/wiki/2nd_Chapter_Of_Acts'}
+{'genre': u'Contemporary Christian',
+ 'title': u'2nd Chapter Of Acts:Mansion Builder (1978)',
+ 'url': u'http://lyrics.wikia.com/wiki/2nd_Chapter_Of_Acts:Mansion_Builder_(1978)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'2nd Chapter Of Acts:Singer Sower (1983)',
+ 'url': u'http://lyrics.wikia.com/wiki/2nd_Chapter_Of_Acts:Singer_Sower_(1983)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'2nd Chapter Of Acts:Singer Sower (1991)',
+ 'url': u'http://lyrics.wikia.com/wiki/2nd_Chapter_Of_Acts:Singer_Sower_(1991)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'4Him',
+ 'url': u'http://lyrics.wikia.com/wiki/4Him'}
+{'genre': u'Contemporary Christian',
+ 'title': u'4Him:Chapter One... A Decade (2001)',
+ 'url': u'http://lyrics.wikia.com/wiki/4Him:Chapter_One..._A_Decade_(2001)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'4Him:Encore... For Future Generations (2006)',
+ 'url': u'http://lyrics.wikia.com/wiki/4Him:Encore..._For_Future_Generations_(2006)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'4Him:Face The Nation (1991)',
+ 'url': u'http://lyrics.wikia.com/wiki/4Him:Face_The_Nation_(1991)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'4Him:Hymns: A Place Of Worship (2000)',
+ 'url': u'http://lyrics.wikia.com/wiki/4Him:Hymns:_A_Place_Of_Worship_(2000)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'4Him:The Basics Of Life (1992)',
+ 'url': u'http://lyrics.wikia.com/wiki/4Him:The_Basics_Of_Life_(1992)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'4Him:The Ride (1994)',
+ 'url': u'http://lyrics.wikia.com/wiki/4Him:The_Ride_(1994)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'4Him:Visible (2003)',
+ 'url': u'http://lyrics.wikia.com/wiki/4Him:Visible_(2003)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'4Him:Walk On (2001)',
+ 'url': u'http://lyrics.wikia.com/wiki/4Him:Walk_On_(2001)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Aaron Shust',
+ 'url': u'http://lyrics.wikia.com/wiki/Aaron_Shust'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Abraham',
+ 'url': u'http://lyrics.wikia.com/wiki/Abraham'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Acappella',
+ 'url': u'http://lyrics.wikia.com/wiki/Acappella'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Addison Road:Addison Road (2007)',
+ 'url': u'http://lyrics.wikia.com/wiki/Addison_Road:Addison_Road_(2007)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Addison Road:Stories (2010)',
+ 'url': u'http://lyrics.wikia.com/wiki/Addison_Road:Stories_(2010)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Adele Kane',
+ 'url': u'http://lyrics.wikia.com/wiki/Adele_Kane'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Adie',
+ 'url': u'http://lyrics.wikia.com/wiki/Adie'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Adrienne Liesching',
+ 'url': u'http://lyrics.wikia.com/wiki/Adrienne_Liesching'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Al Denson',
+ 'url': u'http://lyrics.wikia.com/wiki/Al_Denson'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Al Denson:Al Denson (1989)',
+ 'url': u'http://lyrics.wikia.com/wiki/Al_Denson:Al_Denson_(1989)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Al Denson:Be The One (1990)',
+ 'url': u'http://lyrics.wikia.com/wiki/Al_Denson:Be_The_One_(1990)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Al Denson:Do You Know This Man? (1995)',
+ 'url': u'http://lyrics.wikia.com/wiki/Al_Denson:Do_You_Know_This_Man%3F_(1995)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Al Denson:From This Day On (2000)',
+ 'url': u'http://lyrics.wikia.com/wiki/Al_Denson:From_This_Day_On_(2000)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Al Denson:Reasons (1993)',
+ 'url': u'http://lyrics.wikia.com/wiki/Al_Denson:Reasons_(1993)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Al Denson:Tabula Rasa (Clean Slate) (1998)',
+ 'url': u'http://lyrics.wikia.com/wiki/Al_Denson:Tabula_Rasa_(Clean_Slate)_(1998)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Al Denson:Take Me To The Cross (1997)',
+ 'url': u'http://lyrics.wikia.com/wiki/Al_Denson:Take_Me_To_The_Cross_(1997)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Al Denson:The Extra Mile (1992)',
+ 'url': u'http://lyrics.wikia.com/wiki/Al_Denson:The_Extra_Mile_(1992)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'All Things New:All Things New (2013)',
+ 'url': u'http://lyrics.wikia.com/wiki/All_Things_New:All_Things_New_(2013)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'America Gomorrah',
+ 'url': u'http://lyrics.wikia.com/wiki/America_Gomorrah'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Amy Grant',
+ 'url': u'http://lyrics.wikia.com/wiki/Amy_Grant'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Andra\xe9 Crouch',
+ 'url': u'http://lyrics.wikia.com/wiki/Andra%C3%A9_Crouch'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Andrew Peterson:Appendix A: Bootlegs & B-Sides (2006)',
+ 'url': u'http://lyrics.wikia.com/wiki/Andrew_Peterson:Appendix_A:_Bootlegs_%26_B-Sides_(2006)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Andrew Peterson:Appendix C: Live With The Captains Courageous (2009)',
+ 'url': u'http://lyrics.wikia.com/wiki/Andrew_Peterson:Appendix_C:_Live_With_The_Captains_Courageous_(2009)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Andrew Peterson:Appendix M: Media / Music / Movies (2007)',
+ 'url': u'http://lyrics.wikia.com/wiki/Andrew_Peterson:Appendix_M:_Media_/_Music_/_Movies_(2007)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Andrew Peterson:Behold The Lamb Of God (10th Anniversary Edition) (2009)',
+ 'url': u'http://lyrics.wikia.com/wiki/Andrew_Peterson:Behold_The_Lamb_Of_God_(10th_Anniversary_Edition)_(2009)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Andrew Peterson:Behold The Lamb Of God (2004)',
+ 'url': u'http://lyrics.wikia.com/wiki/Andrew_Peterson:Behold_The_Lamb_Of_God_(2004)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Andrew Peterson:Carried Along (2000)',
+ 'url': u'http://lyrics.wikia.com/wiki/Andrew_Peterson:Carried_Along_(2000)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Andrew Peterson:Clear To Venus (2001)',
+ 'url': u'http://lyrics.wikia.com/wiki/Andrew_Peterson:Clear_To_Venus_(2001)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Andrew Peterson:Counting Stars (2010)',
+ 'url': u'http://lyrics.wikia.com/wiki/Andrew_Peterson:Counting_Stars_(2010)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Andrew Peterson:Light For The Lost Boy (2012)',
+ 'url': u'http://lyrics.wikia.com/wiki/Andrew_Peterson:Light_For_The_Lost_Boy_(2012)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Andrew Peterson:Love & Thunder (2003)',
+ 'url': u'http://lyrics.wikia.com/wiki/Andrew_Peterson:Love_%26_Thunder_(2003)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Andrew Peterson:Resurrection Letters, Volume II (2008)',
+ 'url': u'http://lyrics.wikia.com/wiki/Andrew_Peterson:Resurrection_Letters,_Volume_II_(2008)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Andrew Peterson:Slugs & Bugs & Lullabies (2006)',
+ 'url': u'http://lyrics.wikia.com/wiki/Andrew_Peterson:Slugs_%26_Bugs_%26_Lullabies_(2006)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Andrew Peterson:The Far Country (2005)',
+ 'url': u'http://lyrics.wikia.com/wiki/Andrew_Peterson:The_Far_Country_(2005)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Andrew Peterson:Walk (1996)',
+ 'url': u'http://lyrics.wikia.com/wiki/Andrew_Peterson:Walk_(1996)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Andrew Smith (UK)',
+ 'url': u'http://lyrics.wikia.com/wiki/Andrew_Smith_(UK)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Andy Park',
+ 'url': u'http://lyrics.wikia.com/wiki/Andy_Park'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Anne Barbour',
+ 'url': u'http://lyrics.wikia.com/wiki/Anne_Barbour'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Annie Herring',
+ 'url': u'http://lyrics.wikia.com/wiki/Annie_Herring'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Annie Herring:Flying Lessons (1989)',
+ 'url': u'http://lyrics.wikia.com/wiki/Annie_Herring:Flying_Lessons_(1989)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Anointed',
+ 'url': u'http://lyrics.wikia.com/wiki/Anointed'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Applehead',
+ 'url': u'http://lyrics.wikia.com/wiki/Applehead'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Audrey Assad',
+ 'url': u'http://lyrics.wikia.com/wiki/Audrey_Assad'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Audrey Assad:Death, Be Not Proud (2014)',
+ 'url': u'http://lyrics.wikia.com/wiki/Audrey_Assad:Death,_Be_Not_Proud_(2014)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Audrey Assad:Fortunate Fall (2013)',
+ 'url': u'http://lyrics.wikia.com/wiki/Audrey_Assad:Fortunate_Fall_(2013)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Audrey Assad:Heart (2012)',
+ 'url': u'http://lyrics.wikia.com/wiki/Audrey_Assad:Heart_(2012)'}
+{'genre': u'Contemporary Christian',
+ 'title': u"Audrey Assad:The House You're Building (2010)",
+ 'url': u'http://lyrics.wikia.com/wiki/Audrey_Assad:The_House_You%27re_Building_(2010)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Avalon:A Maze Of Grace (1997)',
+ 'url': u'http://lyrics.wikia.com/wiki/Avalon:A_Maze_Of_Grace_(1997)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Avalon:Another Time, Another Place: Timeless Christian Classics (2008)',
+ 'url': u'http://lyrics.wikia.com/wiki/Avalon:Another_Time,_Another_Place:_Timeless_Christian_Classics_(2008)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Avalon:Avalon: The Greatest Hits (2009)',
+ 'url': u'http://lyrics.wikia.com/wiki/Avalon:Avalon:_The_Greatest_Hits_(2009)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Avalon:Faith: A Hymns Collection (2006)',
+ 'url': u'http://lyrics.wikia.com/wiki/Avalon:Faith:_A_Hymns_Collection_(2006)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Avalon:In A Different Light (1999)',
+ 'url': u'http://lyrics.wikia.com/wiki/Avalon:In_A_Different_Light_(1999)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Avalon:Oxygen (2001)',
+ 'url': u'http://lyrics.wikia.com/wiki/Avalon:Oxygen_(2001)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Avalon:Reborn (2009)',
+ 'url': u'http://lyrics.wikia.com/wiki/Avalon:Reborn_(2009)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Avalon:Stand (2006)',
+ 'url': u'http://lyrics.wikia.com/wiki/Avalon:Stand_(2006)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Avalon:Testify To Love: The Very Best Of Avalon (2003)',
+ 'url': u'http://lyrics.wikia.com/wiki/Avalon:Testify_To_Love:_The_Very_Best_Of_Avalon_(2003)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Avalon:The Creed (2004)',
+ 'url': u'http://lyrics.wikia.com/wiki/Avalon:The_Creed_(2004)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Awesome God: A Tribute To Rich Mullins (1998)',
+ 'url': u'http://lyrics.wikia.com/wiki/Awesome_God:_A_Tribute_To_Rich_Mullins_(1998)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'B.J. Thomas',
+ 'url': u'http://lyrics.wikia.com/wiki/B.J._Thomas'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Barry McGuire:To The Bride (1975)',
+ 'url': u'http://lyrics.wikia.com/wiki/Barry_McGuire:To_The_Bride_(1975)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'BeBe & CeCe Winans',
+ 'url': u'http://lyrics.wikia.com/wiki/BeBe_%26_CeCe_Winans'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Bebo Norman',
+ 'url': u'http://lyrics.wikia.com/wiki/Bebo_Norman'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Bebo Norman:Bebo Norman (2008)',
+ 'url': u'http://lyrics.wikia.com/wiki/Bebo_Norman:Bebo_Norman_(2008)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Bebo Norman:Between The Dreaming And The Coming True (2006)',
+ 'url': u'http://lyrics.wikia.com/wiki/Bebo_Norman:Between_The_Dreaming_And_The_Coming_True_(2006)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Bebo Norman:Big Blue Sky (2001)',
+ 'url': u'http://lyrics.wikia.com/wiki/Bebo_Norman:Big_Blue_Sky_(2001)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Bebo Norman:Myself When I Am Real (2002)',
+ 'url': u'http://lyrics.wikia.com/wiki/Bebo_Norman:Myself_When_I_Am_Real_(2002)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Bebo Norman:Ocean (2010)',
+ 'url': u'http://lyrics.wikia.com/wiki/Bebo_Norman:Ocean_(2010)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Bebo Norman:Ten Thousand Days (1999)',
+ 'url': u'http://lyrics.wikia.com/wiki/Bebo_Norman:Ten_Thousand_Days_(1999)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Bebo Norman:The Fabric Of Verse (1999)',
+ 'url': u'http://lyrics.wikia.com/wiki/Bebo_Norman:The_Fabric_Of_Verse_(1999)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Bebo Norman:Try (2004)',
+ 'url': u'http://lyrics.wikia.com/wiki/Bebo_Norman:Try_(2004)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Beckah Shae:Butterfly (2006)',
+ 'url': u'http://lyrics.wikia.com/wiki/Beckah_Shae:Butterfly_(2006)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Beckah Shae:Destiny (2011)',
+ 'url': u'http://lyrics.wikia.com/wiki/Beckah_Shae:Destiny_(2011)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Beckah Shae:Emmanuel (2009)',
+ 'url': u'http://lyrics.wikia.com/wiki/Beckah_Shae:Emmanuel_(2009)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Beckah Shae:Joy (2008)',
+ 'url': u'http://lyrics.wikia.com/wiki/Beckah_Shae:Joy_(2008)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Beckah Shae:Life (2010)',
+ 'url': u'http://lyrics.wikia.com/wiki/Beckah_Shae:Life_(2010)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Beckah Shae:Scripture Snacks, Volume 1 (2011)',
+ 'url': u'http://lyrics.wikia.com/wiki/Beckah_Shae:Scripture_Snacks,_Volume_1_(2011)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Beckah Shae:Scripture Snacks, Volume 2 (2012)',
+ 'url': u'http://lyrics.wikia.com/wiki/Beckah_Shae:Scripture_Snacks,_Volume_2_(2012)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Ben Cantelon:Daylight Breaks Through (2007)',
+ 'url': u'http://lyrics.wikia.com/wiki/Ben_Cantelon:Daylight_Breaks_Through_(2007)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Ben Cantelon:Everything In Colour (2012)',
+ 'url': u'http://lyrics.wikia.com/wiki/Ben_Cantelon:Everything_In_Colour_(2012)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Ben Cantelon:Running After You (2009)',
+ 'url': u'http://lyrics.wikia.com/wiki/Ben_Cantelon:Running_After_You_(2009)'}
+{'genre': u'Contemporary Christian',
+ 'title': u"Benjah & Dillavou:Lov'd Ones (2010)",
+ 'url': u'http://lyrics.wikia.com/wiki/Benjah_%26_Dillavou:Lov%27d_Ones_(2010)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Bernard',
+ 'url': u'http://lyrics.wikia.com/wiki/Bernard'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Bethany De Maio',
+ 'url': u'http://lyrics.wikia.com/wiki/Bethany_De_Maio'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Bethany Dillon',
+ 'url': u'http://lyrics.wikia.com/wiki/Bethany_Dillon'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Bethany Dillon:Bethany Dillon (2004)',
+ 'url': u'http://lyrics.wikia.com/wiki/Bethany_Dillon:Bethany_Dillon_(2004)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Bethany Dillon:Stop & Listen (2009)',
+ 'url': u'http://lyrics.wikia.com/wiki/Bethany_Dillon:Stop_%26_Listen_(2009)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Bethany Dillon:The Beautiful Sessions EP (2004)',
+ 'url': u'http://lyrics.wikia.com/wiki/Bethany_Dillon:The_Beautiful_Sessions_EP_(2004)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Bethel Music',
+ 'url': u'http://lyrics.wikia.com/wiki/Bethel_Music'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Billie Mallet',
+ 'url': u'http://lyrics.wikia.com/wiki/Billie_Mallet'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Billy Brown',
+ 'url': u'http://lyrics.wikia.com/wiki/Billy_Brown'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Billy Somerville',
+ 'url': u'http://lyrics.wikia.com/wiki/Billy_Somerville'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Billy Sprague',
+ 'url': u'http://lyrics.wikia.com/wiki/Billy_Sprague'}
+{'genre': u'Contemporary Christian',
+ 'title': u'BJ Allmon',
+ 'url': u'http://lyrics.wikia.com/wiki/BJ_Allmon'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Blanca Vega',
+ 'url': u'http://lyrics.wikia.com/wiki/Blanca_Vega'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Bob Bennett',
+ 'url': u'http://lyrics.wikia.com/wiki/Bob_Bennett'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Bob Bennett:Lord Of The Past: A Compilation (1989)',
+ 'url': u'http://lyrics.wikia.com/wiki/Bob_Bennett:Lord_Of_The_Past:_A_Compilation_(1989)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Bob Carlisle',
+ 'url': u'http://lyrics.wikia.com/wiki/Bob_Carlisle'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Bob Carlisle:Ballads Of Bob Carlisle (1997)',
+ 'url': u'http://lyrics.wikia.com/wiki/Bob_Carlisle:Ballads_Of_Bob_Carlisle_(1997)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Bob Carlisle:Bob Carlisle (1993)',
+ 'url': u'http://lyrics.wikia.com/wiki/Bob_Carlisle:Bob_Carlisle_(1993)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Bob Carlisle:Butterfly Kisses (Shades Of Grace) (1997)',
+ 'url': u'http://lyrics.wikia.com/wiki/Bob_Carlisle:Butterfly_Kisses_(Shades_Of_Grace)_(1997)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Bob Carlisle:Nothing But The Truth (2000)',
+ 'url': u'http://lyrics.wikia.com/wiki/Bob_Carlisle:Nothing_But_The_Truth_(2000)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Bob Carlisle:Stories From The Heart (1998)',
+ 'url': u'http://lyrics.wikia.com/wiki/Bob_Carlisle:Stories_From_The_Heart_(1998)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Bob Carlisle:The Hope Of A Man (1994)',
+ 'url': u'http://lyrics.wikia.com/wiki/Bob_Carlisle:The_Hope_Of_A_Man_(1994)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Bobby Cruz',
+ 'url': u'http://lyrics.wikia.com/wiki/Bobby_Cruz'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Brandon Heath:Early Stuff (2003)',
+ 'url': u'http://lyrics.wikia.com/wiki/Brandon_Heath:Early_Stuff_(2003)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Brandon Heath:Soldier (2004)',
+ 'url': u'http://lyrics.wikia.com/wiki/Brandon_Heath:Soldier_(2004)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Brandon Heath:What If We (2008)',
+ 'url': u'http://lyrics.wikia.com/wiki/Brandon_Heath:What_If_We_(2008)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Brenda Janz',
+ 'url': u'http://lyrics.wikia.com/wiki/Brenda_Janz'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Brenton Brown',
+ 'url': u'http://lyrics.wikia.com/wiki/Brenton_Brown'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Brian Doerksen',
+ 'url': u'http://lyrics.wikia.com/wiki/Brian_Doerksen'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Brian Thiessen',
+ 'url': u'http://lyrics.wikia.com/wiki/Brian_Thiessen'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Bryn Waddell',
+ 'url': u'http://lyrics.wikia.com/wiki/Bryn_Waddell'}
+{'genre': u'Contemporary Christian',
+ 'title': u'By The Tree',
+ 'url': u'http://lyrics.wikia.com/wiki/By_The_Tree'}
+{'genre': u'Contemporary Christian',
+ 'title': u"Caedmon's Call",
+ 'url': u'http://lyrics.wikia.com/wiki/Caedmon%27s_Call'}
+{'genre': u'Contemporary Christian',
+ 'title': u"Caedmon's Call:Chronicles (2004)",
+ 'url': u'http://lyrics.wikia.com/wiki/Caedmon%27s_Call:Chronicles_(2004)'}
+{'genre': u'Contemporary Christian',
+ 'title': u"Caedmon's Call:C\xe6dmon's Call (1997)",
+ 'url': u'http://lyrics.wikia.com/wiki/Caedmon%27s_Call:C%C3%A6dmon%27s_Call_(1997)'}
+{'genre': u'Contemporary Christian',
+ 'title': u"Caedmon's Call:In The Company Of Angels (2001)",
+ 'url': u'http://lyrics.wikia.com/wiki/Caedmon%27s_Call:In_The_Company_Of_Angels_(2001)'}
+{'genre': u'Contemporary Christian',
+ 'title': u"Caedmon's Call:In The Company Of Angels II (2006)",
+ 'url': u'http://lyrics.wikia.com/wiki/Caedmon%27s_Call:In_The_Company_Of_Angels_II_(2006)'}
+{'genre': u'Contemporary Christian',
+ 'title': u"Caedmon's Call:Intimate Portrait (1997)",
+ 'url': u'http://lyrics.wikia.com/wiki/Caedmon%27s_Call:Intimate_Portrait_(1997)'}
+{'genre': u'Contemporary Christian',
+ 'title': u"Caedmon's Call:Just Don't Want Coffee (1995)",
+ 'url': u'http://lyrics.wikia.com/wiki/Caedmon%27s_Call:Just_Don%27t_Want_Coffee_(1995)'}
+{'genre': u'Contemporary Christian',
+ 'title': u"Caedmon's Call:Long Line Of Leavers (2000)",
+ 'url': u'http://lyrics.wikia.com/wiki/Caedmon%27s_Call:Long_Line_Of_Leavers_(2000)'}
+{'genre': u'Contemporary Christian',
+ 'title': u"Caedmon's Call:My Calm // Your Storm (1994)",
+ 'url': u'http://lyrics.wikia.com/wiki/Caedmon%27s_Call:My_Calm_//_Your_Storm_(1994)'}
+{'genre': u'Contemporary Christian',
+ 'title': u"Caedmon's Call:Overdressed (2007)",
+ 'url': u'http://lyrics.wikia.com/wiki/Caedmon%27s_Call:Overdressed_(2007)'}
+{'genre': u'Contemporary Christian',
+ 'title': u"Caedmon's Call:Raising Up The Dead (2010)",
+ 'url': u'http://lyrics.wikia.com/wiki/Caedmon%27s_Call:Raising_Up_The_Dead_(2010)'}
+{'genre': u'Contemporary Christian',
+ 'title': u"Caedmon's Call:Share The Well (2004)",
+ 'url': u'http://lyrics.wikia.com/wiki/Caedmon%27s_Call:Share_The_Well_(2004)'}
+{'genre': u'Contemporary Christian',
+ 'title': u"Caedmon's Call:Thankful: The Best Of Caedmon's Call (2007)",
+ 'url': u'http://lyrics.wikia.com/wiki/Caedmon%27s_Call:Thankful:_The_Best_Of_Caedmon%27s_Call_(2007)'}
+{'genre': u'Contemporary Christian',
+ 'title': u"Caedmon's Call:The Guild Collection, Volume 1 (1997)",
+ 'url': u'http://lyrics.wikia.com/wiki/Caedmon%27s_Call:The_Guild_Collection,_Volume_1_(1997)'}
+{'genre': u'Contemporary Christian',
+ 'title': u"Caedmon's Call:The Guild Collection, Volume 2 (1998)",
+ 'url': u'http://lyrics.wikia.com/wiki/Caedmon%27s_Call:The_Guild_Collection,_Volume_2_(1998)'}
+{'genre': u'Contemporary Christian',
+ 'title': u"Caedmon's Call:The Guild Collection, Volume 3 (2000)",
+ 'url': u'http://lyrics.wikia.com/wiki/Caedmon%27s_Call:The_Guild_Collection,_Volume_3_(2000)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Cameron Denzen Hammon',
+ 'url': u'http://lyrics.wikia.com/wiki/Cameron_Denzen_Hammon'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Carl Tuttle',
+ 'url': u'http://lyrics.wikia.com/wiki/Carl_Tuttle'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Carman',
+ 'url': u'http://lyrics.wikia.com/wiki/Carman'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Carman:Addicted To Jesus (1991)',
+ 'url': u'http://lyrics.wikia.com/wiki/Carman:Addicted_To_Jesus_(1991)'}
+{'genre': u'Contemporary Christian',
+ 'title': u"Carman:Comin' On Strong (1984)",
+ 'url': u'http://lyrics.wikia.com/wiki/Carman:Comin%27_On_Strong_(1984)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Carman:Heart Of A Champion (2000)',
+ 'url': u'http://lyrics.wikia.com/wiki/Carman:Heart_Of_A_Champion_(2000)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Carman:High Praises, Vol. 1 (1991)',
+ 'url': u'http://lyrics.wikia.com/wiki/Carman:High_Praises,_Vol._1_(1991)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Carman:High Praises, Vol. 2 (1991)',
+ 'url': u'http://lyrics.wikia.com/wiki/Carman:High_Praises,_Vol._2_(1991)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Carman:House Of Praise (2002)',
+ 'url': u'http://lyrics.wikia.com/wiki/Carman:House_Of_Praise_(2002)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Carman:Instrument Of Praise (2007)',
+ 'url': u'http://lyrics.wikia.com/wiki/Carman:Instrument_Of_Praise_(2007)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Carman:Live And Reloaded (2005)',
+ 'url': u'http://lyrics.wikia.com/wiki/Carman:Live_And_Reloaded_(2005)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Carman:Live Radically Saved (1988)',
+ 'url': u'http://lyrics.wikia.com/wiki/Carman:Live_Radically_Saved_(1988)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Carman:Lo Mejor (1995)',
+ 'url': u'http://lyrics.wikia.com/wiki/Carman:Lo_Mejor_(1995)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Carman:Lord Of All (1993)',
+ 'url': u'http://lyrics.wikia.com/wiki/Carman:Lord_Of_All_(1993)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Carman:Mission 3:16 (1998)',
+ 'url': u'http://lyrics.wikia.com/wiki/Carman:Mission_3:16_(1998)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Carman:Mission 3:16 - Super Single (1997)',
+ 'url': u'http://lyrics.wikia.com/wiki/Carman:Mission_3:16_-_Super_Single_(1997)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Carman:Passion For Praise (1999)',
+ 'url': u'http://lyrics.wikia.com/wiki/Carman:Passion_For_Praise_(1999)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Carman:R.I.O.T. (Righteous Invasion Of Truth) (1995)',
+ 'url': u'http://lyrics.wikia.com/wiki/Carman:R.I.O.T._(Righteous_Invasion_Of_Truth)_(1995)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Carman:Revival In The Land (1989)',
+ 'url': u'http://lyrics.wikia.com/wiki/Carman:Revival_In_The_Land_(1989)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Carman:Some-O-Dat (1982)',
+ 'url': u'http://lyrics.wikia.com/wiki/Carman:Some-O-Dat_(1982)'}
+{'genre': u'Contemporary Christian',
+ 'title': u"Carman:Sunday's On The Way (1983)",
+ 'url': u'http://lyrics.wikia.com/wiki/Carman:Sunday%27s_On_The_Way_(1983)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Carman:The Champion (1985)',
+ 'url': u'http://lyrics.wikia.com/wiki/Carman:The_Champion_(1985)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Carman:The Standard (1993)',
+ 'url': u'http://lyrics.wikia.com/wiki/Carman:The_Standard_(1993)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Carman:The Ultimate Collection (2007)',
+ 'url': u'http://lyrics.wikia.com/wiki/Carman:The_Ultimate_Collection_(2007)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Carman:Vol. 1-Best Of The Early Years (1997)',
+ 'url': u'http://lyrics.wikia.com/wiki/Carman:Vol._1-Best_Of_The_Early_Years_(1997)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Carman:Yo Kidz! (1992)',
+ 'url': u'http://lyrics.wikia.com/wiki/Carman:Yo_Kidz!_(1992)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Carman:Yo Kidz! 2: The Armour Of God (1994)',
+ 'url': u'http://lyrics.wikia.com/wiki/Carman:Yo_Kidz!_2:_The_Armour_Of_God_(1994)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Casey Corum',
+ 'url': u'http://lyrics.wikia.com/wiki/Casey_Corum'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Casting Crowns',
+ 'url': u'http://lyrics.wikia.com/wiki/Casting_Crowns'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Casting Crowns:Lifesong Live (2006)',
+ 'url': u'http://lyrics.wikia.com/wiki/Casting_Crowns:Lifesong_Live_(2006)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Casting Crowns:Live From Atlanta (2004)',
+ 'url': u'http://lyrics.wikia.com/wiki/Casting_Crowns:Live_From_Atlanta_(2004)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Casting Crowns:Thrive (2014)',
+ 'url': u'http://lyrics.wikia.com/wiki/Casting_Crowns:Thrive_(2014)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'CeCe Winans',
+ 'url': u'http://lyrics.wikia.com/wiki/CeCe_Winans'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Charlie Hines',
+ 'url': u'http://lyrics.wikia.com/wiki/Charlie_Hines'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Charlie Peacock',
+ 'url': u'http://lyrics.wikia.com/wiki/Charlie_Peacock'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Cheri Keaggy:Child Of The Father (1994)',
+ 'url': u'http://lyrics.wikia.com/wiki/Cheri_Keaggy:Child_Of_The_Father_(1994)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Cheri Keaggy:My Faith Will Stay (1996)',
+ 'url': u'http://lyrics.wikia.com/wiki/Cheri_Keaggy:My_Faith_Will_Stay_(1996)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Cheri Keaggy:What Matters Most (1997)',
+ 'url': u'http://lyrics.wikia.com/wiki/Cheri_Keaggy:What_Matters_Most_(1997)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Cherie Call:Beneath The Stars (2005)',
+ 'url': u'http://lyrics.wikia.com/wiki/Cherie_Call:Beneath_The_Stars_(2005)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Cherie Call:He Gives Flowers To Everyone (2001)',
+ 'url': u'http://lyrics.wikia.com/wiki/Cherie_Call:He_Gives_Flowers_To_Everyone_(2001)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Cherie Call:The Ocean In Me (2002)',
+ 'url': u'http://lyrics.wikia.com/wiki/Cherie_Call:The_Ocean_In_Me_(2002)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Chris August',
+ 'url': u'http://lyrics.wikia.com/wiki/Chris_August'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Chris Eaton:Wonderful World (1995)',
+ 'url': u'http://lyrics.wikia.com/wiki/Chris_Eaton:Wonderful_World_(1995)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Chris Lizotte',
+ 'url': u'http://lyrics.wikia.com/wiki/Chris_Lizotte'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Chris McClarney:Defender (2010)',
+ 'url': u'http://lyrics.wikia.com/wiki/Chris_McClarney:Defender_(2010)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Chris McClarney:Everything And Nothing Less (2015)',
+ 'url': u'http://lyrics.wikia.com/wiki/Chris_McClarney:Everything_And_Nothing_Less_(2015)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Chris McClarney:Introducing Chris McClarney (2009)',
+ 'url': u'http://lyrics.wikia.com/wiki/Chris_McClarney:Introducing_Chris_McClarney_(2009)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Chris McClarney:Love Never Fails (2008)',
+ 'url': u'http://lyrics.wikia.com/wiki/Chris_McClarney:Love_Never_Fails_(2008)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Chris Rice:Amusing (2005)',
+ 'url': u'http://lyrics.wikia.com/wiki/Chris_Rice:Amusing_(2005)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Chris Rice:Deep Enough To Dream (1997)',
+ 'url': u'http://lyrics.wikia.com/wiki/Chris_Rice:Deep_Enough_To_Dream_(1997)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Chris Rice:Past The Edges (1998)',
+ 'url': u'http://lyrics.wikia.com/wiki/Chris_Rice:Past_The_Edges_(1998)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Chris Rice:Run The Earth Watch The Sky (2003)',
+ 'url': u'http://lyrics.wikia.com/wiki/Chris_Rice:Run_The_Earth_Watch_The_Sky_(2003)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Chris Rice:Short Term Memories (2004)',
+ 'url': u'http://lyrics.wikia.com/wiki/Chris_Rice:Short_Term_Memories_(2004)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Chris Rice:Smell The Color 9 (2000)',
+ 'url': u'http://lyrics.wikia.com/wiki/Chris_Rice:Smell_The_Color_9_(2000)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Chris Rice:The Living Room Sessions (2001)',
+ 'url': u'http://lyrics.wikia.com/wiki/Chris_Rice:The_Living_Room_Sessions_(2001)'}
+{'genre': u'Contemporary Christian',
+ 'title': u'Chris Rice:What A Heart Is Beating For (2007)',
+ 'url': u'http://lyrics.wikia.com/wiki/Chris_Rice:What_A_Heart_Is_Beating_For_(2007)'}
+{'genre': u'Comedy Rock',
+ 'title': u'Draco And The Malfoys:Draco And The Malfoys (2005)',
+ 'url': u'http://lyrics.wikia.com/wiki/Draco_And_The_Malfoys:Draco_And_The_Malfoys_(2005)'}
+{'genre': u'Comedy Rock',
+ 'title': u'Flatsch!',
+ 'url': u'http://lyrics.wikia.com/wiki/Flatsch!'}
+{'genre': u'Comedy Rock',
+ 'title': u'Flatsch!:Drei - Net Stumbe! (1983)',
+ 'url': u'http://lyrics.wikia.com/wiki/Flatsch!:Drei_-_Net_Stumbe!_(1983)'}
+{'genre': u'Comedy Rock',
+ 'title': u'Frank Zappa:Playground Psychotics (1992)',
+ 'url': u'http://lyrics.wikia.com/wiki/Frank_Zappa:Playground_Psychotics_(1992)'}
+{'genre': u'Comedy Rock',
+ 'title': u'Garotos Podres',
+ 'url': u'http://lyrics.wikia.com/wiki/Garotos_Podres'}
+{'genre': u'Comedy Rock',
+ 'title': u'Gwar',
+ 'url': u'http://lyrics.wikia.com/wiki/Gwar'}
+{'genre': u'Comedy Rock',
+ 'title': u'Jimmy Fallon:The Bathroom Wall (2002)',
+ 'url': u'http://lyrics.wikia.com/wiki/Jimmy_Fallon:The_Bathroom_Wall_(2002)'}
+{'genre': u'Comedy Rock',
+ 'title': u'Knorkator:Das N\xe4chste Album Aller Zeiten (2007)',
+ 'url': u'http://lyrics.wikia.com/wiki/Knorkator:Das_N%C3%A4chste_Album_Aller_Zeiten_(2007)'}
+{'genre': u'Comedy Rock',
+ 'title': u'Knorkator:Es Werde Nicht (2011)',
+ 'url': u'http://lyrics.wikia.com/wiki/Knorkator:Es_Werde_Nicht_(2011)'}
+{'genre': u'Comedy Rock',
+ 'title': u'Knorkator:Hasenchartbreaker (2000)',
+ 'url': u'http://lyrics.wikia.com/wiki/Knorkator:Hasenchartbreaker_(2000)'}
+{'genre': u'Comedy Rock',
+ 'title': u'Knorkator:Ich Hasse Musik (2003)',
+ 'url': u'http://lyrics.wikia.com/wiki/Knorkator:Ich_Hasse_Musik_(2003)'}
+{'genre': u'Comedy Rock',
+ 'title': u'Knorkator:The Schlechtst Of Knorkator (1998)',
+ 'url': u'http://lyrics.wikia.com/wiki/Knorkator:The_Schlechtst_Of_Knorkator_(1998)'}
+{'genre': u'Comedy Rock',
+ 'title': u'Knorkator:Tribute To Uns Selbst (2000)',
+ 'url': u'http://lyrics.wikia.com/wiki/Knorkator:Tribute_To_Uns_Selbst_(2000)'}
+{'genre': u'Comedy Rock',
+ 'title': u'Lemon Demon:Clown Circus (2003)',
+ 'url': u'http://lyrics.wikia.com/wiki/Lemon_Demon:Clown_Circus_(2003)'}
+{'genre': u'Comedy Rock',
+ 'title': u'Lemon Demon:Hip To The Javabean (2004)',
+ 'url': u'http://lyrics.wikia.com/wiki/Lemon_Demon:Hip_To_The_Javabean_(2004)'}
+{'genre': u'Comedy Rock',
+ 'title': u'Lemon Demon:Live From The Haunted Candle Shop (2003)',
+ 'url': u'http://lyrics.wikia.com/wiki/Lemon_Demon:Live_From_The_Haunted_Candle_Shop_(2003)'}
+{'genre': u'Comedy Rock',
+ 'title': u'Linkin Park:Underground 8 (MMM...COOKIES: Sweet Hamster Like Jewels From America!) (2008)',
+ 'url': u'http://lyrics.wikia.com/wiki/Linkin_Park:Underground_8_(MMM...COOKIES:_Sweet_Hamster_Like_Jewels_From_America!)_(2008)'}
+{'genre': u'Comedy Rock',
+ 'title': u'Moxy Fr\xfcvous:Bargainville (1993)',
+ 'url': u'http://lyrics.wikia.com/wiki/Moxy_Fr%C3%BCvous:Bargainville_(1993)'}
+{'genre': u'Comedy Rock',
+ 'title': u'Moxy Fr\xfcvous:Live Noise (1998)',
+ 'url': u'http://lyrics.wikia.com/wiki/Moxy_Fr%C3%BCvous:Live_Noise_(1998)'}
+{'genre': u'Comedy Rock',
+ 'title': u'Moxy Fr\xfcvous:The B Album (1996)',
+ 'url': u'http://lyrics.wikia.com/wiki/Moxy_Fr%C3%BCvous:The_B_Album_(1996)'}
+{'genre': u'Comedy Rock',
+ 'title': u'Moxy Fr\xfcvous:The C Album (2000)',
+ 'url': u'http://lyrics.wikia.com/wiki/Moxy_Fr%C3%BCvous:The_C_Album_(2000)'}
+{'genre': u'Comedy Rock',
+ 'title': u'Moxy Fr\xfcvous:Thornhill (1999)',
+ 'url': u'http://lyrics.wikia.com/wiki/Moxy_Fr%C3%BCvous:Thornhill_(1999)'}
+{'genre': u'Comedy Rock',
+ 'title': u'Moxy Fr\xfcvous:Wood (1995)',
+ 'url': u'http://lyrics.wikia.com/wiki/Moxy_Fr%C3%BCvous:Wood_(1995)'}
+{'genre': u'Comedy Rock',
+ 'title': u'Moxy Fr\xfcvous:You Will Go To The Moon (1997)',
+ 'url': u'http://lyrics.wikia.com/wiki/Moxy_Fr%C3%BCvous:You_Will_Go_To_The_Moon_(1997)'}
+{'genre': u'Comedy Rock',
+ 'title': u'Prophilax:Il Quinto Escremento (2003)',
+ 'url': u'http://lyrics.wikia.com/wiki/Prophilax:Il_Quinto_Escremento_(2003)'}
+{'genre': u'Comedy Rock',
+ 'title': u'Prophilax:Il Signore Delle Fogne (1993)',
+ 'url': u'http://lyrics.wikia.com/wiki/Prophilax:Il_Signore_Delle_Fogne_(1993)'}
+{'genre': u'Comedy Rock',
+ 'title': u'Prophilax:Nerkiology (1996)',
+ 'url': u'http://lyrics.wikia.com/wiki/Prophilax:Nerkiology_(1996)'}
+{'genre': u'Comedy Rock',
+ 'title': u'Prophilax:Under Cool (1994)',
+ 'url': u'http://lyrics.wikia.com/wiki/Prophilax:Under_Cool_(1994)'}
+{'genre': u'Comedy Rock',
+ 'title': u'Psychostick',
+ 'url': u'http://lyrics.wikia.com/wiki/Psychostick'}
+{'genre': u'Comedy Rock',
+ 'title': u'Psychostick:Sandwich (2009)',
+ 'url': u'http://lyrics.wikia.com/wiki/Psychostick:Sandwich_(2009)'}
+{'genre': u'Comedy Rock',
+ 'title': u'Psychostick:Space Vampires Vs. Zombie Dinosaurs In 3D (2011)',
+ 'url': u'http://lyrics.wikia.com/wiki/Psychostick:Space_Vampires_Vs._Zombie_Dinosaurs_In_3D_(2011)'}
+{'genre': u'Comedy Rock',
+ 'title': u'Psychostick:The Digital Appetizer (2010)',
+ 'url': u'http://lyrics.wikia.com/wiki/Psychostick:The_Digital_Appetizer_(2010)'}
+{'genre': u'Comedy Rock',
+ 'title': u'Psychostick:The Flesh Eating Roller Skate Holiday Joyride (2007)',
+ 'url': u'http://lyrics.wikia.com/wiki/Psychostick:The_Flesh_Eating_Roller_Skate_Holiday_Joyride_(2007)'}
+{'genre': u'Comedy Rock',
+ 'title': u"Psychostick:We Couldn't Think Of A Title! (2006)",
+ 'url': u'http://lyrics.wikia.com/wiki/Psychostick:We_Couldn%27t_Think_Of_A_Title!_(2006)'}
+{'genre': u'Comedy Rock',
+ 'title': u'Puscifer',
+ 'url': u'http://lyrics.wikia.com/wiki/Puscifer'}
+{'genre': u'Comedy Rock',
+ 'title': u'Rodgau Monotones',
+ 'url': u'http://lyrics.wikia.com/wiki/Rodgau_Monotones'}
+{'genre': u'Comedy Rock',
+ 'title': u'Skiantos:Inascoltable (1977)',
+ 'url': u'http://lyrics.wikia.com/wiki/Skiantos:Inascoltable_(1977)'}
+{'genre': u'Comedy Rock',
+ 'title': u'Skiantos:Kinotto (1979)',
+ 'url': u'http://lyrics.wikia.com/wiki/Skiantos:Kinotto_(1979)'}
+{'genre': u'Comedy Rock',
+ 'title': u'Skiantos:MONO Tono (1978)',
+ 'url': u'http://lyrics.wikia.com/wiki/Skiantos:MONO_Tono_(1978)'}
+{'genre': u'Comedy Rock',
+ 'title': u"Skiantos:Non C'\xe8 Gusto In Italia Ad Essere Intelligenti (1987)",
+ 'url': u'http://lyrics.wikia.com/wiki/Skiantos:Non_C%27%C3%A8_Gusto_In_Italia_Ad_Essere_Intelligenti_(1987)'}
+{'genre': u'Comedy Rock',
+ 'title': u'Skiantos:Pesissimo! (1980)',
+ 'url': u'http://lyrics.wikia.com/wiki/Skiantos:Pesissimo!_(1980)'}
+{'genre': u'Comedy Rock',
+ 'title': u'Spinal Tap:Back From The Dead (2009)',
+ 'url': u'http://lyrics.wikia.com/wiki/Spinal_Tap:Back_From_The_Dead_(2009)'}
+{'genre': u'Comedy Rock',
+ 'title': u'Tenacious D:Rize Of The Fenix (2012)',
+ 'url': u'http://lyrics.wikia.com/wiki/Tenacious_D:Rize_Of_The_Fenix_(2012)'}
+{'genre': u'Comedy Rock',
+ 'title': u'The Bonzo Dog Doo-Dah Band:The Peel Sessions (1969)',
+ 'url': u'http://lyrics.wikia.com/wiki/The_Bonzo_Dog_Doo-Dah_Band:The_Peel_Sessions_(1969)'}
+{'genre': u'Comedy Rock',
+ 'title': u'The Refreshments',
+ 'url': u'http://lyrics.wikia.com/wiki/The_Refreshments'}
+{'genre': u'Comedy Rock',
+ 'title': u'The Scaffold',
+ 'url': u'http://lyrics.wikia.com/wiki/The_Scaffold'}
+{'genre': u'Comedy Rock',
+ 'title': u'Trainwreck (US)',
+ 'url': u'http://lyrics.wikia.com/wiki/Trainwreck_(US)'}
+{'genre': u'Comedy Rock',
+ 'title': u'Trainwreck:The Wreckoning (2010)',
+ 'url': u'http://lyrics.wikia.com/wiki/Trainwreck:The_Wreckoning_(2010)'}
+{'genre': u'Comedy',
+ 'title': u'"Weird Al" Yankovic',
+ 'url': u'http://lyrics.wikia.com/wiki/%22Weird_Al%22_Yankovic'}
+{'genre': u'Comedy',
+ 'title': u'"Weird Al" Yankovic:"Weird Al" Yankovic (1983)',
+ 'url': u'http://lyrics.wikia.com/wiki/%22Weird_Al%22_Yankovic:%22Weird_Al%22_Yankovic_(1983)'}
+{'genre': u'Comedy',
+ 'title': u'"Weird Al" Yankovic:"Weird Al" Yankovic In 3-D (1984)',
+ 'url': u'http://lyrics.wikia.com/wiki/%22Weird_Al%22_Yankovic:%22Weird_Al%22_Yankovic_In_3-D_(1984)'}
+{'genre': u'Comedy',
+ 'title': u'"Weird Al" Yankovic:Alapalooza (1993)',
+ 'url': u'http://lyrics.wikia.com/wiki/%22Weird_Al%22_Yankovic:Alapalooza_(1993)'}
+{'genre': u'Comedy',
+ 'title': u'"Weird Al" Yankovic:Alpocalypse (2011)',
+ 'url': u'http://lyrics.wikia.com/wiki/%22Weird_Al%22_Yankovic:Alpocalypse_(2011)'}
+{'genre': u'Comedy',
+ 'title': u'"Weird Al" Yankovic:Bad Hair Day (1996)',
+ 'url': u'http://lyrics.wikia.com/wiki/%22Weird_Al%22_Yankovic:Bad_Hair_Day_(1996)'}
+{'genre': u'Comedy',
+ 'title': u'"Weird Al" Yankovic:Dare To Be Stupid (1985)',
+ 'url': u'http://lyrics.wikia.com/wiki/%22Weird_Al%22_Yankovic:Dare_To_Be_Stupid_(1985)'}
+{'genre': u'Comedy',
+ 'title': u'"Weird Al" Yankovic:Even Worse (1988)',
+ 'url': u'http://lyrics.wikia.com/wiki/%22Weird_Al%22_Yankovic:Even_Worse_(1988)'}
+{'genre': u'Comedy',
+ 'title': u'"Weird Al" Yankovic:Greatest Hits Volume II (1994)',
+ 'url': u'http://lyrics.wikia.com/wiki/%22Weird_Al%22_Yankovic:Greatest_Hits_Volume_II_(1994)'}
+{'genre': u'Comedy',
+ 'title': u'"Weird Al" Yankovic:I Want A New Duck (1985)',
+ 'url': u'http://lyrics.wikia.com/wiki/%22Weird_Al%22_Yankovic:I_Want_A_New_Duck_(1985)'}
+{'genre': u'Comedy',
+ 'title': u'"Weird Al" Yankovic:Mandatory Fun (2014)',
+ 'url': u'http://lyrics.wikia.com/wiki/%22Weird_Al%22_Yankovic:Mandatory_Fun_(2014)'}
+{'genre': u'Comedy',
+ 'title': u'"Weird Al" Yankovic:My Bologna (1979)',
+ 'url': u'http://lyrics.wikia.com/wiki/%22Weird_Al%22_Yankovic:My_Bologna_(1979)'}
+{'genre': u'Comedy',
+ 'title': u'"Weird Al" Yankovic:Off The Deep End (1992)',
+ 'url': u'http://lyrics.wikia.com/wiki/%22Weird_Al%22_Yankovic:Off_The_Deep_End_(1992)'}
+{'genre': u'Comedy',
+ 'title': u'"Weird Al" Yankovic:Permanent Record: Al In The Box (1994)',
+ 'url': u'http://lyrics.wikia.com/wiki/%22Weird_Al%22_Yankovic:Permanent_Record:_Al_In_The_Box_(1994)'}
+{'genre': u'Comedy',
+ 'title': u'"Weird Al" Yankovic:Peter And The Wolf (1988)',
+ 'url': u'http://lyrics.wikia.com/wiki/%22Weird_Al%22_Yankovic:Peter_And_The_Wolf_(1988)'}
+{'genre': u'Comedy',
+ 'title': u'"Weird Al" Yankovic:Polka Party! (1986)',
+ 'url': u'http://lyrics.wikia.com/wiki/%22Weird_Al%22_Yankovic:Polka_Party!_(1986)'}
+{'genre': u'Comedy',
+ 'title': u'"Weird Al" Yankovic:Poodle Hat (2003)',
+ 'url': u'http://lyrics.wikia.com/wiki/%22Weird_Al%22_Yankovic:Poodle_Hat_(2003)'}
+{'genre': u'Comedy',
+ 'title': u'"Weird Al" Yankovic:Running With Scissors (1999)',
+ 'url': u'http://lyrics.wikia.com/wiki/%22Weird_Al%22_Yankovic:Running_With_Scissors_(1999)'}
+{'genre': u'Comedy',
+ 'title': u'"Weird Al" Yankovic:Straight Outta Lynwood (2006)',
+ 'url': u'http://lyrics.wikia.com/wiki/%22Weird_Al%22_Yankovic:Straight_Outta_Lynwood_(2006)'}
+{'genre': u'Comedy',
+ 'title': u'"Weird Al" Yankovic:The Essential "Weird Al" Yankovic (2009)',
+ 'url': u'http://lyrics.wikia.com/wiki/%22Weird_Al%22_Yankovic:The_Essential_%22Weird_Al%22_Yankovic_(2009)'}
+{'genre': u'Comedy',
+ 'title': u'"Weird Al" Yankovic:The Food Album (1993)',
+ 'url': u'http://lyrics.wikia.com/wiki/%22Weird_Al%22_Yankovic:The_Food_Album_(1993)'}
+{'genre': u'Comedy',
+ 'title': u'"Weird Al" Yankovic:The TV Album (1995)',
+ 'url': u'http://lyrics.wikia.com/wiki/%22Weird_Al%22_Yankovic:The_TV_Album_(1995)'}
+{'genre': u'Comedy',
+ 'title': u'2 Live Jews',
+ 'url': u'http://lyrics.wikia.com/wiki/2_Live_Jews'}
+{'genre': u'Comedy',
+ 'title': u'2 Live Jews:Disco Jews (1994)',
+ 'url': u'http://lyrics.wikia.com/wiki/2_Live_Jews:Disco_Jews_(1994)'}
+{'genre': u'Comedy',
+ 'title': u'A Halo Called Fred',
+ 'url': u'http://lyrics.wikia.com/wiki/A_Halo_Called_Fred'}
+{'genre': u'Comedy',
+ 'title': u'Aaron Ackerson',
+ 'url': u'http://lyrics.wikia.com/wiki/Aaron_Ackerson'}
+{'genre': u'Comedy',
+ 'title': u'Abbott And Costello',
+ 'url': u'http://lyrics.wikia.com/wiki/Abbott_And_Costello'}
+{'genre': u'Comedy',
+ 'title': u'Abst\xfcrzende Brieftauben',
+ 'url': u'http://lyrics.wikia.com/wiki/Abst%C3%BCrzende_Brieftauben'}
+{'genre': u'Comedy',
+ 'title': u'Achim Amme',
+ 'url': u'http://lyrics.wikia.com/wiki/Achim_Amme'}
+{'genre': u'Comedy',
+ 'title': u'Action Adventure World',
+ 'url': u'http://lyrics.wikia.com/wiki/Action_Adventure_World'}
+{'genre': u'Comedy',
+ 'title': u'Adam And Andrew:Earection (2006)',
+ 'url': u'http://lyrics.wikia.com/wiki/Adam_And_Andrew:Earection_(2006)'}
+{'genre': u'Comedy',
+ 'title': u'Adam And Andrew:I Now Pronounce You - An EP (2012)',
+ 'url': u'http://lyrics.wikia.com/wiki/Adam_And_Andrew:I_Now_Pronounce_You_-_An_EP_(2012)'}
+{'genre': u'Comedy',
+ 'title': u'Adam And Andrew:Music Pimp$ (2006)',
+ 'url': u'http://lyrics.wikia.com/wiki/Adam_And_Andrew:Music_Pimp$_(2006)'}
+{'genre': u'Comedy',
+ 'title': u'Adam And Andrew:Still Not Famous (2007)',
+ 'url': u'http://lyrics.wikia.com/wiki/Adam_And_Andrew:Still_Not_Famous_(2007)'}
+{'genre': u'Comedy',
+ 'title': u'Adam And Joe',
+ 'url': u'http://lyrics.wikia.com/wiki/Adam_And_Joe'}
+{'genre': u'Comedy',
+ 'title': u'Adam Sandler',
+ 'url': u'http://lyrics.wikia.com/wiki/Adam_Sandler'}
+{'genre': u'Comedy',
+ 'title': u"Adam Sandler:Shhh...Don't Tell (2004)",
+ 'url': u'http://lyrics.wikia.com/wiki/Adam_Sandler:Shhh...Don%27t_Tell_(2004)'}
+{'genre': u'Comedy',
+ 'title': u"Adam Sandler:Stan And Judy's Kid (1999)",
+ 'url': u'http://lyrics.wikia.com/wiki/Adam_Sandler:Stan_And_Judy%27s_Kid_(1999)'}
+{'genre': u'Comedy',
+ 'title': u"Adam Sandler:They're All Gonna Laugh At You (1993)",
+ 'url': u'http://lyrics.wikia.com/wiki/Adam_Sandler:They%27re_All_Gonna_Laugh_At_You_(1993)'}
+{'genre': u'Comedy',
+ 'title': u'Adam Sandler:What The Hell Happened To Me? (1996)',
+ 'url': u'http://lyrics.wikia.com/wiki/Adam_Sandler:What_The_Hell_Happened_To_Me%3F_(1996)'}
+{'genre': u'Comedy',
+ 'title': u"Adam Sandler:What's Your Name? (1997)",
+ 'url': u'http://lyrics.wikia.com/wiki/Adam_Sandler:What%27s_Your_Name%3F_(1997)'}
+{'genre': u'Comedy',
+ 'title': u'Afroman',
+ 'url': u'http://lyrics.wikia.com/wiki/Afroman'}
+{'genre': u'Comedy',
+ 'title': u'Ajs Nigrutin',
+ 'url': u'http://lyrics.wikia.com/wiki/Ajs_Nigrutin'}
+{'genre': u'Comedy',
+ 'title': u'Alfred Dorfer',
+ 'url': u'http://lyrics.wikia.com/wiki/Alfred_Dorfer'}
+{'genre': u'Comedy',
+ 'title': u'Allan Sherman:Allan In Wonderland (1964)',
+ 'url': u'http://lyrics.wikia.com/wiki/Allan_Sherman:Allan_In_Wonderland_(1964)'}
+{'genre': u'Comedy',
+ 'title': u"Allan Sherman:For Swingin' Livers Only! (1964)",
+ 'url': u'http://lyrics.wikia.com/wiki/Allan_Sherman:For_Swingin%27_Livers_Only!_(1964)'}
+{'genre': u'Comedy',
+ 'title': u'Allan Sherman:My Name Is Allan (1965)',
+ 'url': u'http://lyrics.wikia.com/wiki/Allan_Sherman:My_Name_Is_Allan_(1965)'}
+{'genre': u'Comedy',
+ 'title': u'Allan Sherman:My Son, The Celebrity (1963)',
+ 'url': u'http://lyrics.wikia.com/wiki/Allan_Sherman:My_Son,_The_Celebrity_(1963)'}
+{'genre': u'Comedy',
+ 'title': u'Allan Sherman:My Son, The Folk Singer (1962)',
+ 'url': u'http://lyrics.wikia.com/wiki/Allan_Sherman:My_Son,_The_Folk_Singer_(1962)'}
+{'genre': u'Comedy',
+ 'title': u'Allan Sherman:My Son, The Nut (1963)',
+ 'url': u'http://lyrics.wikia.com/wiki/Allan_Sherman:My_Son,_The_Nut_(1963)'}
+{'genre': u'Comedy',
+ 'title': u'Allan Sherman:Togetherness (1967)',
+ 'url': u'http://lyrics.wikia.com/wiki/Allan_Sherman:Togetherness_(1967)'}
+{'genre': u'Comedy',
+ 'title': u'Amateur Transplants',
+ 'url': u'http://lyrics.wikia.com/wiki/Amateur_Transplants'}
+{'genre': u'Comedy',
+ 'title': u'Amateur Transplants:Fitness To Practice (2004)',
+ 'url': u'http://lyrics.wikia.com/wiki/Amateur_Transplants:Fitness_To_Practice_(2004)'}
+{'genre': u'Comedy',
+ 'title': u'Amateur Transplants:Have Yourself A Sweary Little Christmas (2010)',
+ 'url': u'http://lyrics.wikia.com/wiki/Amateur_Transplants:Have_Yourself_A_Sweary_Little_Christmas_(2010)'}
+{'genre': u'Comedy',
+ 'title': u'Amateur Transplants:In Theatre (2009)',
+ 'url': u'http://lyrics.wikia.com/wiki/Amateur_Transplants:In_Theatre_(2009)'}
+{'genre': u'Comedy',
+ 'title': u'Amateur Transplants:Unfit To Practise (2008)',
+ 'url': u'http://lyrics.wikia.com/wiki/Amateur_Transplants:Unfit_To_Practise_(2008)'}
+{'genre': u'Comedy',
+ 'title': u'Andy Griffith',
+ 'url': u'http://lyrics.wikia.com/wiki/Andy_Griffith'}
+{'genre': u'Comedy',
+ 'title': u'Ant & Dec',
+ 'url': u'http://lyrics.wikia.com/wiki/Ant_%26_Dec'}
+{'genre': u'Comedy',
+ 'title': u'AsapSCIENCE:AsapSCIENCE Music (2013)',
+ 'url': u'http://lyrics.wikia.com/wiki/AsapSCIENCE:AsapSCIENCE_Music_(2013)'}
+{'genre': u'Comedy',
+ 'title': u'Aunty Jack',
+ 'url': u'http://lyrics.wikia.com/wiki/Aunty_Jack'}
+{'genre': u'Comedy',
+ 'title': u'Babs Gonzales',
+ 'url': u'http://lyrics.wikia.com/wiki/Babs_Gonzales'}
+{'genre': u'Comedy',
+ 'title': u'Badesalz',
+ 'url': u'http://lyrics.wikia.com/wiki/Badesalz'}
+{'genre': u'Comedy',
+ 'title': u'BaierWestrupP',
+ 'url': u'http://lyrics.wikia.com/wiki/BaierWestrupP'}
+{'genre': u'Comedy',
+ 'title': u'Barbara Peters',
+ 'url': u'http://lyrics.wikia.com/wiki/Barbara_Peters'}
+{'genre': u'Comedy',
+ 'title': u'Barnes & Barnes:Spazchow (1981)',
+ 'url': u'http://lyrics.wikia.com/wiki/Barnes_%26_Barnes:Spazchow_(1981)'}
+{'genre': u'Comedy',
+ 'title': u'Barnes & Barnes:Voobaha (1980)',
+ 'url': u'http://lyrics.wikia.com/wiki/Barnes_%26_Barnes:Voobaha_(1980)'}
+{'genre': u'Comedy',
+ 'title': u'Bebe Neuwirth',
+ 'url': u'http://lyrics.wikia.com/wiki/Bebe_Neuwirth'}
+{'genre': u'Comedy',
+ 'title': u'Bernd Stelter',
+ 'url': u'http://lyrics.wikia.com/wiki/Bernd_Stelter'}
+{'genre': u'Comedy',
+ 'title': u'Bernies Autobahn Band',
+ 'url': u'http://lyrics.wikia.com/wiki/Bernies_Autobahn_Band'}
+{'genre': u'Comedy',
+ 'title': u'Bette Midler',
+ 'url': u'http://lyrics.wikia.com/wiki/Bette_Midler'}
+{'genre': u'Comedy',
+ 'title': u'Big Daddy',
+ 'url': u'http://lyrics.wikia.com/wiki/Big_Daddy'}
+{'genre': u'Comedy',
+ 'title': u'Bill Cosby:Bill Cosby Sings Hooray For The Salvation Army Band! (1968)',
+ 'url': u'http://lyrics.wikia.com/wiki/Bill_Cosby:Bill_Cosby_Sings_Hooray_For_The_Salvation_Army_Band!_(1968)'}
+{'genre': u'Comedy',
+ 'title': u'Bill Engvall:15\xb0 Off Cool (2007)',
+ 'url': u'http://lyrics.wikia.com/wiki/Bill_Engvall:15%C2%B0_Off_Cool_(2007)'}
+{'genre': u'Comedy',
+ 'title': u'Bill Engvall:Aged And Confused (2009)',
+ 'url': u'http://lyrics.wikia.com/wiki/Bill_Engvall:Aged_And_Confused_(2009)'}
+{'genre': u'Comedy',
+ 'title': u'Bill Engvall:Dorkfish (1998)',
+ 'url': u'http://lyrics.wikia.com/wiki/Bill_Engvall:Dorkfish_(1998)'}
+{'genre': u'Comedy',
+ 'title': u"Bill Engvall:Here's Your Christmas Album (1999)",
+ 'url': u'http://lyrics.wikia.com/wiki/Bill_Engvall:Here%27s_Your_Christmas_Album_(1999)'}
+{'genre': u'Comedy',
+ 'title': u"Bill Engvall:Here's Your Sign (1996)",
+ 'url': u'http://lyrics.wikia.com/wiki/Bill_Engvall:Here%27s_Your_Sign_(1996)'}
+{'genre': u'Comedy',
+ 'title': u"Bill Engvall:Here's Your Sign Reloaded (2003)",
+ 'url': u'http://lyrics.wikia.com/wiki/Bill_Engvall:Here%27s_Your_Sign_Reloaded_(2003)'}
+{'genre': u'Comedy',
+ 'title': u"Bill Engvall:Now That's Awesome (2000)",
+ 'url': u'http://lyrics.wikia.com/wiki/Bill_Engvall:Now_That%27s_Awesome_(2000)'}
+{'genre': u'Comedy',
+ 'title': u'Billy Crystal:Mahvelous! (1985)',
+ 'url': u'http://lyrics.wikia.com/wiki/Billy_Crystal:Mahvelous!_(1985)'}
+{'genre': u'Comedy',
+ 'title': u'Bj\xf6rn Rosenstr\xf6m',
+ 'url': u'http://lyrics.wikia.com/wiki/Bj%C3%B6rn_Rosenstr%C3%B6m'}
+{'genre': u'Comedy',
+ 'title': u'Bloodhound Gang',
+ 'url': u'http://lyrics.wikia.com/wiki/Bloodhound_Gang'}
+{'genre': u'Comedy',
+ 'title': u'Bo Burnham:Bo Burnham (2009)',
+ 'url': u'http://lyrics.wikia.com/wiki/Bo_Burnham:Bo_Burnham_(2009)'}
+{'genre': u'Comedy',
+ 'title': u'Bo Burnham:Bo Fo Sho (2008)',
+ 'url': u'http://lyrics.wikia.com/wiki/Bo_Burnham:Bo_Fo_Sho_(2008)'}
+{'genre': u'Comedy',
+ 'title': u'Bo Burnham:What. (2013)',
+ 'url': u'http://lyrics.wikia.com/wiki/Bo_Burnham:What._(2013)'}
+{'genre': u'Comedy',
+ 'title': u'Bo Burnham:Words Words Words (2010)',
+ 'url': u'http://lyrics.wikia.com/wiki/Bo_Burnham:Words_Words_Words_(2010)'}
+{'genre': u'Comedy',
+ 'title': u'Bob & Doug McKenzie',
+ 'url': u'http://lyrics.wikia.com/wiki/Bob_%26_Doug_McKenzie'}
+{'genre': u'Comedy',
+ 'title': u'Bob & Doug McKenzie:Great White North (1981)',
+ 'url': u'http://lyrics.wikia.com/wiki/Bob_%26_Doug_McKenzie:Great_White_North_(1981)'}
+{'genre': u'Comedy',
+ 'title': u'Bob & Tom:Dead Air (2009)',
+ 'url': u'http://lyrics.wikia.com/wiki/Bob_%26_Tom:Dead_Air_(2009)'}
+{'genre': u'Comedy',
+ 'title': u'Bob Hope',
+ 'url': u'http://lyrics.wikia.com/wiki/Bob_Hope'}
+{'genre': u'Comedy',
+ 'title': u'Bob Rivers',
+ 'url': u'http://lyrics.wikia.com/wiki/Bob_Rivers'}
+{'genre': u'Comedy',
+ 'title': u'Bob Rivers:I Am Santa Claus (1993)',
+ 'url': u'http://lyrics.wikia.com/wiki/Bob_Rivers:I_Am_Santa_Claus_(1993)'}
+{'genre': u'Comedy',
+ 'title': u'Bob Rivers:Twisted Christmas (1990)',
+ 'url': u'http://lyrics.wikia.com/wiki/Bob_Rivers:Twisted_Christmas_(1990)'}
+{'genre': u'Comedy',
+ 'title': u'Bobby Gaylor',
+ 'url': u'http://lyrics.wikia.com/wiki/Bobby_Gaylor'}
+{'genre': u'Comedy',
+ 'title': u'Bogi95caritd',
+ 'url': u'http://lyrics.wikia.com/wiki/Bogi95caritd'}
+{'genre': u'Comedy',
+ 'title': u'Borat',
+ 'url': u'http://lyrics.wikia.com/wiki/Borat'}
+{'genre': u'Comedy',
+ 'title': u'Boyd Rice',
+ 'url': u'http://lyrics.wikia.com/wiki/Boyd_Rice'}
+{'genre': u'Comedy',
+ 'title': u'Brentalfloss:Bits Of Me (2012)',
+ 'url': u'http://lyrics.wikia.com/wiki/Brentalfloss:Bits_Of_Me_(2012)'}
+{'genre': u'Comedy',
+ 'title': u'Brentalfloss:Flossophy (2014)',
+ 'url': u'http://lyrics.wikia.com/wiki/Brentalfloss:Flossophy_(2014)'}
+{'genre': u'Comedy',
+ 'title': u'Brentalfloss:Shades Of Gray (2005)',
+ 'url': u'http://lyrics.wikia.com/wiki/Brentalfloss:Shades_Of_Gray_(2005)'}
+{'genre': u'Comedy',
+ 'title': u'Brentalfloss:What If This CD... Had G-Rated Lyrics? (2011)',
+ 'url': u'http://lyrics.wikia.com/wiki/Brentalfloss:What_If_This_CD..._Had_G-Rated_Lyrics%3F_(2011)'}
+{'genre': u'Comedy',
+ 'title': u'Brentalfloss:What If This CD... Had Lyrics? (2010)',
+ 'url': u'http://lyrics.wikia.com/wiki/Brentalfloss:What_If_This_CD..._Had_Lyrics%3F_(2010)'}
+{'genre': u'Comedy',
+ 'title': u'Brian Haner',
+ 'url': u'http://lyrics.wikia.com/wiki/Brian_Haner'}
+{'genre': u'Comedy',
+ 'title': u'Brigitte Mira',
+ 'url': u'http://lyrics.wikia.com/wiki/Brigitte_Mira'}
+{'genre': u'Comedy',
+ 'title': u'Bruce McCulloch',
+ 'url': u'http://lyrics.wikia.com/wiki/Bruce_McCulloch'}
+{'genre': u'Comedy',
+ 'title': u'Bruce McCulloch:Drunk Baby Project (2002)',
+ 'url': u'http://lyrics.wikia.com/wiki/Bruce_McCulloch:Drunk_Baby_Project_(2002)'}
+{'genre': u'Comedy',
+ 'title': u'Bruce McCulloch:Shame-Based Man (1995)',
+ 'url': u'http://lyrics.wikia.com/wiki/Bruce_McCulloch:Shame-Based_Man_(1995)'}
+{'genre': u'Comedy',
+ 'title': u'Buddy Wasisname And The Other Fellers',
+ 'url': u'http://lyrics.wikia.com/wiki/Buddy_Wasisname_And_The_Other_Fellers'}
+{'genre': u'Comedy',
+ 'title': u'Cal Chuchesta',
+ 'url': u'http://lyrics.wikia.com/wiki/Cal_Chuchesta'}
+{'genre': u'Comedy',
+ 'title': u'Cal Chuchesta:The New Calassic (2015)',
+ 'url': u'http://lyrics.wikia.com/wiki/Cal_Chuchesta:The_New_Calassic_(2015)'}
+{'genre': u'Comedy',
+ 'title': u'Capitol Steps',
+ 'url': u'http://lyrics.wikia.com/wiki/Capitol_Steps'}
+{'genre': u'Comedy',
+ 'title': u'Capitol Steps:Campaign And Suffering (2008)',
+ 'url': u'http://lyrics.wikia.com/wiki/Capitol_Steps:Campaign_And_Suffering_(2008)'}
+{'genre': u'Comedy',
+ 'title': u"Capitol Steps:I'm So Indicted (2006)",
+ 'url': u'http://lyrics.wikia.com/wiki/Capitol_Steps:I%27m_So_Indicted_(2006)'}
+{'genre': u'Comedy',
+ 'title': u'Cartoon Planet:Brak Presents The Brak Album Starring Brak (2000)',
+ 'url': u'http://lyrics.wikia.com/wiki/Cartoon_Planet:Brak_Presents_The_Brak_Album_Starring_Brak_(2000)'}
+{'genre': u'Comedy',
+ 'title': u"Cartoon Planet:Space Ghost's Musical Bar-B-Que: Featuring 25 Hickory-Smoked Harmonies (1997)",
+ 'url': u'http://lyrics.wikia.com/wiki/Cartoon_Planet:Space_Ghost%27s_Musical_Bar-B-Que:_Featuring_25_Hickory-Smoked_Harmonies_(1997)'}
+{'genre': u'Comedy',
+ 'title': u'Checco Zalone:...Se Non Avrei Fatto Il Cantande (2006)',
+ 'url': u'http://lyrics.wikia.com/wiki/Checco_Zalone:...Se_Non_Avrei_Fatto_Il_Cantande_(2006)'}
+{'genre': u'Comedy',
+ 'title': u"Checco Zalone:Se Ce L'o' Fatta Io...Ce La Puoi Farcela Anche Tu (2007)",
+ 'url': u'http://lyrics.wikia.com/wiki/Checco_Zalone:Se_Ce_L%27o%27_Fatta_Io...Ce_La_Puoi_Farcela_Anche_Tu_(2007)'}
+{'genre': u'Comedy',
+ 'title': u'Cheech & Chong:Big Bamb\xfa (1972)',
+ 'url': u'http://lyrics.wikia.com/wiki/Cheech_%26_Chong:Big_Bamb%C3%BA_(1972)'}
+{'genre': u'Comedy',
+ 'title': u"Cheech & Chong:Cheech & Chong's Wedding Album (1974)",
+ 'url': u'http://lyrics.wikia.com/wiki/Cheech_%26_Chong:Cheech_%26_Chong%27s_Wedding_Album_(1974)'}
+{'genre': u'Comedy',
+ 'title': u'Cheech & Chong:Cheech And Chong (1971)',
+ 'url': u'http://lyrics.wikia.com/wiki/Cheech_%26_Chong:Cheech_And_Chong_(1971)'}
+{'genre': u'Comedy',
+ 'title': u"Cheech & Chong:Let's Make A New Dope Deal (1980)",
+ 'url': u'http://lyrics.wikia.com/wiki/Cheech_%26_Chong:Let%27s_Make_A_New_Dope_Deal_(1980)'}
+{'genre': u'Comedy',
+ 'title': u'Cheech & Chong:Los Cochinos (1973)',
+ 'url': u'http://lyrics.wikia.com/wiki/Cheech_%26_Chong:Los_Cochinos_(1973)'}
+{'genre': u'Comedy',
+ 'title': u'Cheech & Chong:Sleeping Beauty (1976)',
+ 'url': u'http://lyrics.wikia.com/wiki/Cheech_%26_Chong:Sleeping_Beauty_(1976)'}
+{'genre': u'Comedy',
+ 'title': u'Cheech & Chong:Up In Smoke (1978)',
+ 'url': u'http://lyrics.wikia.com/wiki/Cheech_%26_Chong:Up_In_Smoke_(1978)'}
+{'genre': u'Comedy',
+ 'title': u'Chris Rock',
+ 'url': u'http://lyrics.wikia.com/wiki/Chris_Rock'}
+{'genre': u'Comedy',
+ 'title': u'Christof St\xe4hlin',
+ 'url': u'http://lyrics.wikia.com/wiki/Christof_St%C3%A4hlin'}
+{'genre': u'Comedy',
+ 'title': u'Christopher B. Cerf',
+ 'url': u'http://lyrics.wikia.com/wiki/Christopher_B._Cerf'}
+{'genre': u'Comedy',
+ 'title': u'Cledus T. Judd',
+ 'url': u'http://lyrics.wikia.com/wiki/Cledus_T._Judd'}
+{'genre': u'Comedy',
+ 'title': u'Colin Mochrie',
+ 'url': u'http://lyrics.wikia.com/wiki/Colin_Mochrie'}
+{'genre': u'Comedy',
+ 'title': u'Corky And The Juice Pigs',
+ 'url': u'http://lyrics.wikia.com/wiki/Corky_And_The_Juice_Pigs'}
+{'genre': u'Comedy',
+ 'title': u'Crampe En Masse',
+ 'url': u'http://lyrics.wikia.com/wiki/Crampe_En_Masse'}
+{'genre': u'Comedy',
+ 'title': u'Curt Bois',
+ 'url': u'http://lyrics.wikia.com/wiki/Curt_Bois'}
+{'genre': u'Comedy',
+ 'title': u"Da Vinci's Notebook",
+ 'url': u'http://lyrics.wikia.com/wiki/Da_Vinci%27s_Notebook'}
+{'genre': u'Comedy',
+ 'title': u'Da Yoopers:For Diehards Only (1995)',
+ 'url': u'http://lyrics.wikia.com/wiki/Da_Yoopers:For_Diehards_Only_(1995)'}
+{'genre': u'Comedy',
+ 'title': u'Dane Cook',
+ 'url': u'http://lyrics.wikia.com/wiki/Dane_Cook'}
+{'genre': u'Comedy',
+ 'title': u'Dane Cook:Retaliation (2005)',
+ 'url': u'http://lyrics.wikia.com/wiki/Dane_Cook:Retaliation_(2005)'}
+{'genre': u'Comedy',
+ 'title': u'De John Sisters',
+ 'url': u'http://lyrics.wikia.com/wiki/De_John_Sisters'}
+{'genre': u'Comedy',
+ 'title': u'Der Black',
+ 'url': u'http://lyrics.wikia.com/wiki/Der_Black'}
+{'genre': u'Comedy',
+ 'title': u'Dicke Lippe',
+ 'url': u'http://lyrics.wikia.com/wiki/Dicke_Lippe'}
+{'genre': u'Comedy',
+ 'title': u'Die 3 Tornados',
+ 'url': u'http://lyrics.wikia.com/wiki/Die_3_Tornados'}
+{'genre': u'Comedy',
+ 'title': u'Die 3 Tornados:Flipperschau - Eine Klare Vorstellung (1977)',
+ 'url': u'http://lyrics.wikia.com/wiki/Die_3_Tornados:Flipperschau_-_Eine_Klare_Vorstellung_(1977)'}
+{'genre': u'Comedy',
+ 'title': u'Die 3 Tornados:Tornados A Gogo (1979)',
+ 'url': u'http://lyrics.wikia.com/wiki/Die_3_Tornados:Tornados_A_Gogo_(1979)'}
+{'genre': u'Comedy',
+ 'title': u'Die Doofen',
+ 'url': u'http://lyrics.wikia.com/wiki/Die_Doofen'}
+{'genre': u'Comedy',
+ 'title': u'Die Doofen:Lieder, Die Die Welt Nicht Braucht (1995)',
+ 'url': u'http://lyrics.wikia.com/wiki/Die_Doofen:Lieder,_Die_Die_Welt_Nicht_Braucht_(1995)'}
+{'genre': u'Comedy',
+ 'title': u'Die Doofen:Melodien F\xfcr Melonen (1996)',
+ 'url': u'http://lyrics.wikia.com/wiki/Die_Doofen:Melodien_F%C3%BCr_Melonen_(1996)'}
+{'genre': u'Comedy',
+ 'title': u'Die Gerd Show',
+ 'url': u'http://lyrics.wikia.com/wiki/Die_Gerd_Show'}
+{'genre': u'Comedy',
+ 'title': u'Die Hektiker:Echt (1997)',
+ 'url': u'http://lyrics.wikia.com/wiki/Die_Hektiker:Echt_(1997)'}
+{'genre': u'Comedy',
+ 'title': u'Die Peheiros',
+ 'url': u'http://lyrics.wikia.com/wiki/Die_Peheiros'}
+{'genre': u'Comedy',
+ 'title': u'Dieter F.H. Kosanke',
+ 'url': u'http://lyrics.wikia.com/wiki/Dieter_F.H._Kosanke'}
+{'genre': u'Comedy',
+ 'title': u'Dieter F.H. Kosanke:Singt, Swingt Und Pinkt Joachim Von Fachenreuther (1973)',
+ 'url': u'http://lyrics.wikia.com/wiki/Dieter_F.H._Kosanke:Singt,_Swingt_Und_Pinkt_Joachim_Von_Fachenreuther_(1973)'}
+{'genre': u'Comedy',
+ 'title': u'Dieter Hallervorden',
+ 'url': u'http://lyrics.wikia.com/wiki/Dieter_Hallervorden'}
+{'genre': u'Comedy',
+ 'title': u'Dieter Hallervorden:Ich Bin Der Sch\xf6nste Mann In Unserer Mietskaserne (1976)',
+ 'url': u'http://lyrics.wikia.com/wiki/Dieter_Hallervorden:Ich_Bin_Der_Sch%C3%B6nste_Mann_In_Unserer_Mietskaserne_(1976)'}
+{'genre': u'Comedy',
+ 'title': u'Dieter Hallervorden:Mit Dem Gesicht... (1976)',
+ 'url': u'http://lyrics.wikia.com/wiki/Dieter_Hallervorden:Mit_Dem_Gesicht..._(1976)'}
+{'genre': u'Comedy',
+ 'title': u'Dieter Hallervorden:Nonsens Nach Noten (1980)',
+ 'url': u'http://lyrics.wikia.com/wiki/Dieter_Hallervorden:Nonsens_Nach_Noten_(1980)'}
+{'genre': u'Comedy',
+ 'title': u'Diether Krebs',
+ 'url': u'http://lyrics.wikia.com/wiki/Diether_Krebs'}
+{'genre': u'Comedy',
+ 'title': u'Dietrich Kittner',
+ 'url': u'http://lyrics.wikia.com/wiki/Dietrich_Kittner'}
+{'genre': u'Comedy',
+ 'title': u'Dirk Bach',
+ 'url': u'http://lyrics.wikia.com/wiki/Dirk_Bach'}
+{'genre': u'Comedy',
+ 'title': u'Doug Anthony All Stars:Dead & Alive (1994)',
+ 'url': u'http://lyrics.wikia.com/wiki/Doug_Anthony_All_Stars:Dead_%26_Alive_(1994)'}
+{'genre': u'Comedy',
+ 'title': u'Doug Anthony All Stars:Icon (1990)',
+ 'url': u'http://lyrics.wikia.com/wiki/Doug_Anthony_All_Stars:Icon_(1990)'}
+{'genre': u'Comedy',
+ 'title': u'Doug Anthony All Stars:The Last Concert (1994)',
+ 'url': u'http://lyrics.wikia.com/wiki/Doug_Anthony_All_Stars:The_Last_Concert_(1994)'}
+{'genre': u'Comedy',
+ 'title': u'Dr. Demento Presents The Greatest Christmas Novelty CD Of All Time (1989)',
+ 'url': u'http://lyrics.wikia.com/wiki/Dr._Demento_Presents_The_Greatest_Christmas_Novelty_CD_Of_All_Time_(1989)'}
+{'genre': u'Comedy',
+ 'title': u'Eddie Murphy',
+ 'url': u'http://lyrics.wikia.com/wiki/Eddie_Murphy'}
+{'genre': u'Comedy',
+ 'title': u'Eddie Murphy:Eddie Murphy (1982)',
+ 'url': u'http://lyrics.wikia.com/wiki/Eddie_Murphy:Eddie_Murphy_(1982)'}
+{'genre': u'Comedy',
+ 'title': u'Eddie Murphy:Greatest Comedy Hits (1997)',
+ 'url': u'http://lyrics.wikia.com/wiki/Eddie_Murphy:Greatest_Comedy_Hits_(1997)'}
+{'genre': u'Comedy',
+ 'title': u'Emma Blackery:Fuck You Google+ (2014)',
+ 'url': u'http://lyrics.wikia.com/wiki/Emma_Blackery:Fuck_You_Google%2B_(2014)'}
+{'genre': u'Comedy',
+ 'title': u'Enrico Beruschi',
+ 'url': u'http://lyrics.wikia.com/wiki/Enrico_Beruschi'}
+{'genre': u'Comedy',
+ 'title': u'Erste Allgemeine Verunsicherung',
+ 'url': u'http://lyrics.wikia.com/wiki/Erste_Allgemeine_Verunsicherung'}
+{'genre': u'Comedy',
+ 'title': u'Ettore Petrolini',
+ 'url': u'http://lyrics.wikia.com/wiki/Ettore_Petrolini'}
+{'genre': u'Comedy',
+ 'title': u'Eugenio Derbez',
+ 'url': u'http://lyrics.wikia.com/wiki/Eugenio_Derbez'}
+{'genre': u'Comedy',
+ 'title': u'Eugenio Derbez:Za Za Za: Caballo Que M\xe1s Le Trote... (2004)',
+ 'url': u'http://lyrics.wikia.com/wiki/Eugenio_Derbez:Za_Za_Za:_Caballo_Que_M%C3%A1s_Le_Trote..._(2004)'}
+{'genre': u'Comedy',
+ 'title': u'Eure M\xfctter',
+ 'url': u'http://lyrics.wikia.com/wiki/Eure_M%C3%BCtter'}
+{'genre': u'Comedy',
+ 'title': u'Evelyn K\xfcnneke',
+ 'url': u'http://lyrics.wikia.com/wiki/Evelyn_K%C3%BCnneke'}
+{'genre': u'Comedy',
+ 'title': u'Fanny Brice',
+ 'url': u'http://lyrics.wikia.com/wiki/Fanny_Brice'}
+{'genre': u'Comedy',
+ 'title': u'Federico Salvatore',
+ 'url': u'http://lyrics.wikia.com/wiki/Federico_Salvatore'}
+{'genre': u'Comedy',
+ 'title': u'Flatsch!',
+ 'url': u'http://lyrics.wikia.com/wiki/Flatsch!'}
+{'genre': u'Comedy',
+ 'title': u'Flight Of The Conchords',
+ 'url': u'http://lyrics.wikia.com/wiki/Flight_Of_The_Conchords'}
+{'genre': u'Comedy',
+ 'title': u'Flight Of The Conchords:Flight Of The Conchords (2008)',
+ 'url': u'http://lyrics.wikia.com/wiki/Flight_Of_The_Conchords:Flight_Of_The_Conchords_(2008)'}
+{'genre': u'Comedy',
+ 'title': u'Flight Of The Conchords:Folk The World Tour (2002)',
+ 'url': u'http://lyrics.wikia.com/wiki/Flight_Of_The_Conchords:Folk_The_World_Tour_(2002)'}
+{'genre': u'Comedy',
+ 'title': u'Flight Of The Conchords:I Told You I Was Freaky (2009)',
+ 'url': u'http://lyrics.wikia.com/wiki/Flight_Of_The_Conchords:I_Told_You_I_Was_Freaky_(2009)'}
+{'genre': u'Comedy',
+ 'title': u'Flight Of The Conchords:The Distant Future (2007)',
+ 'url': u'http://lyrics.wikia.com/wiki/Flight_Of_The_Conchords:The_Distant_Future_(2007)'}
+{'genre': u'Comedy',
+ 'title': u'Floh De Cologne',
+ 'url': u'http://lyrics.wikia.com/wiki/Floh_De_Cologne'}
+{'genre': u'Comedy',
+ 'title': u'Font Et Val',
+ 'url': u'http://lyrics.wikia.com/wiki/Font_Et_Val'}
+{'genre': u'Comedy',
+ 'title': u'Francis Blanche',
+ 'url': u'http://lyrics.wikia.com/wiki/Francis_Blanche'}
+{'genre': u'Comedy',
+ 'title': u'Francis Blanche:Chansons D\xe9cal\xe9es (2007)',
+ 'url': u'http://lyrics.wikia.com/wiki/Francis_Blanche:Chansons_D%C3%A9cal%C3%A9es_(2007)'}
+{'genre': u'Comedy',
+ 'title': u'Frank Zander',
+ 'url': u'http://lyrics.wikia.com/wiki/Frank_Zander'}
+{'genre': u'Comedy',
+ 'title': u'Frank Zander:Die Unglaublichen Hits (1990)',
+ 'url': u'http://lyrics.wikia.com/wiki/Frank_Zander:Die_Unglaublichen_Hits_(1990)'}
+{'genre': u'Comedy',
+ 'title': u'Frank Zander:Kurt (Quo Vadis) (1990)',
+ 'url': u'http://lyrics.wikia.com/wiki/Frank_Zander:Kurt_(Quo_Vadis)_(1990)'}
+{'genre': u'Comedy',
+ 'title': u'Franz Hohler',
+ 'url': u'http://lyrics.wikia.com/wiki/Franz_Hohler'}
+{'genre': u'Comedy',
+ 'title': u'Franz Hohler:Celloballaden (1970)',
+ 'url': u'http://lyrics.wikia.com/wiki/Franz_Hohler:Celloballaden_(1970)'}
+{'genre': u'Comedy',
+ 'title': u'Fredl Fesl',
+ 'url': u'http://lyrics.wikia.com/wiki/Fredl_Fesl'}
+{'genre': u'Comedy',
+ 'title': u'Fredy Sieg',
+ 'url': u'http://lyrics.wikia.com/wiki/Fredy_Sieg'}
+{'genre': u'Comedy',
+ 'title': u'Free Beer',
+ 'url': u'http://lyrics.wikia.com/wiki/Free_Beer'}
+{'genre': u'Comedy',
+ 'title': u'Frenchy:Friendzone (2015)',
+ 'url': u'http://lyrics.wikia.com/wiki/Frenchy:Friendzone_(2015)'}
+{'genre': u'Comedy',
+ 'title': u'Fresh Dumbledore',
+ 'url': u'http://lyrics.wikia.com/wiki/Fresh_Dumbledore'}
+{'genre': u'Comedy',
+ 'title': u'Friedrich Hollaender',
+ 'url': u'http://lyrics.wikia.com/wiki/Friedrich_Hollaender'}
+{'genre': u'Comedy',
+ 'title': u'Friedrich Liechtenstein',
+ 'url': u'http://lyrics.wikia.com/wiki/Friedrich_Liechtenstein'}
+{'genre': u'Comedy',
+ 'title': u'Fritz Stavenhagen',
+ 'url': u'http://lyrics.wikia.com/wiki/Fritz_Stavenhagen'}
+{'genre': u'Comedy',
+ 'title': u'Gallagher & Shean',
+ 'url': u'http://lyrics.wikia.com/wiki/Gallagher_%26_Shean'}
+{'genre': u'Comedy',
+ 'title': u'Ganz Sch\xf6n Feist:G\xe4nsebl\xfcmchen (1997)',
+ 'url': u'http://lyrics.wikia.com/wiki/Ganz_Sch%C3%B6n_Feist:G%C3%A4nsebl%C3%BCmchen_(1997)'}
+{'genre': u'Comedy',
+ 'title': u'Garfunkel And Oates',
+ 'url': u'http://lyrics.wikia.com/wiki/Garfunkel_And_Oates'}
+{'genre': u'College Rock',
+ 'title': u"Cassettes Won't Listen",
+ 'url': u'http://lyrics.wikia.com/wiki/Cassettes_Won%27t_Listen'}
+{'genre': u'College Rock',
+ 'title': u'Daniel Ash',
+ 'url': u'http://lyrics.wikia.com/wiki/Daniel_Ash'}
+{'genre': u'College Rock',
+ 'title': u'Herndon',
+ 'url': u'http://lyrics.wikia.com/wiki/Herndon'}
+{'genre': u'College Rock',
+ 'title': u'Love And Rockets',
+ 'url': u'http://lyrics.wikia.com/wiki/Love_And_Rockets'}
+{'genre': u'College Rock',
+ 'title': u'Michael Stipe',
+ 'url': u'http://lyrics.wikia.com/wiki/Michael_Stipe'}
+{'genre': u'College Rock',
+ 'title': u'R.E.M.',
+ 'url': u'http://lyrics.wikia.com/wiki/R.E.M.'}
+{'genre': u'College Rock',
+ 'title': u'Steven Drozd',
+ 'url': u'http://lyrics.wikia.com/wiki/Steven_Drozd'}
+{'genre': u'College Rock',
+ 'title': u'Tears For Fears',
+ 'url': u'http://lyrics.wikia.com/wiki/Tears_For_Fears'}
+{'genre': u'College Rock',
+ 'title': u'The Feelies',
+ 'url': u'http://lyrics.wikia.com/wiki/The_Feelies'}
+{'genre': u'College Rock',
+ 'title': u'The Replacements',
+ 'url': u'http://lyrics.wikia.com/wiki/The_Replacements'}
+{'genre': u'College Rock',
+ 'title': u'The The',
+ 'url': u'http://lyrics.wikia.com/wiki/The_The'}
+{'genre': u'College Rock',
+ 'title': u'Toad The Wet Sprocket',
+ 'url': u'http://lyrics.wikia.com/wiki/Toad_The_Wet_Sprocket'}
+{'genre': u'Coldwave',
+ 'title': u'16 Volt',
+ 'url': u'http://lyrics.wikia.com/wiki/16_Volt'}
+{'genre': u'Coldwave',
+ 'title': u'Acumen Nation',
+ 'url': u'http://lyrics.wikia.com/wiki/Acumen_Nation'}
+{'genre': u'Coldwave',
+ 'title': u'Apparatus',
+ 'url': u'http://lyrics.wikia.com/wiki/Apparatus'}
+{'genre': u'Coldwave',
+ 'title': u'Chemlab',
+ 'url': u'http://lyrics.wikia.com/wiki/Chemlab'}
+{'genre': u'Coldwave',
+ 'title': u'Christ Analogue',
+ 'url': u'http://lyrics.wikia.com/wiki/Christ_Analogue'}
+{'genre': u'Coldwave',
+ 'title': u'Contagion',
+ 'url': u'http://lyrics.wikia.com/wiki/Contagion'}
+{'genre': u'Coldwave',
+ 'title': u'Cyanotic',
+ 'url': u'http://lyrics.wikia.com/wiki/Cyanotic'}
+{'genre': u'Coldwave',
+ 'title': u'Diatribe',
+ 'url': u'http://lyrics.wikia.com/wiki/Diatribe'}
+{'genre': u'Coldwave',
+ 'title': u'Die Form',
+ 'url': u'http://lyrics.wikia.com/wiki/Die_Form'}
+{'genre': u'Coldwave',
+ 'title': u'Firewerk',
+ 'url': u'http://lyrics.wikia.com/wiki/Firewerk'}
+{'genre': u'Coldwave',
+ 'title': u'Full Frequency',
+ 'url': u'http://lyrics.wikia.com/wiki/Full_Frequency'}
+{'genre': u'Coldwave',
+ 'title': u'Hate Dept.',
+ 'url': u'http://lyrics.wikia.com/wiki/Hate_Dept.'}
+{'genre': u'Coldwave',
+ 'title': u'Insight 23',
+ 'url': u'http://lyrics.wikia.com/wiki/Insight_23'}
+{'genre': u'Coldwave',
+ 'title': u'Luxt',
+ 'url': u'http://lyrics.wikia.com/wiki/Luxt'}
+{'genre': u'Coldwave',
+ 'title': u'Penal Colony',
+ 'url': u'http://lyrics.wikia.com/wiki/Penal_Colony'}
+{'genre': u'Coldwave',
+ 'title': u'Society Burning',
+ 'url': u'http://lyrics.wikia.com/wiki/Society_Burning'}
+{'genre': u'Classical',
+ 'title': u'2Cellos',
+ 'url': u'http://lyrics.wikia.com/wiki/2Cellos'}
+{'genre': u'Classical',
+ 'title': u'A Challenge Of Honour:Monuments (2004)',
+ 'url': u'http://lyrics.wikia.com/wiki/A_Challenge_Of_Honour:Monuments_(2004)'}
+{'genre': u'Classical',
+ 'title': u'A Challenge Of Honour:Seven Samurai (2005)',
+ 'url': u'http://lyrics.wikia.com/wiki/A_Challenge_Of_Honour:Seven_Samurai_(2005)'}
+{'genre': u'Classical',
+ 'title': u'A. R. Rahman',
+ 'url': u'http://lyrics.wikia.com/wiki/A._R._Rahman'}
+{'genre': u'Classical',
+ 'title': u'Aaron Doyle',
+ 'url': u'http://lyrics.wikia.com/wiki/Aaron_Doyle'}
+{'genre': u'Classical',
+ 'title': u'Agnes Obel',
+ 'url': u'http://lyrics.wikia.com/wiki/Agnes_Obel'}
+{'genre': u'Classical',
+ 'title': u'Alan Stivell',
+ 'url': u'http://lyrics.wikia.com/wiki/Alan_Stivell'}
+{'genre': u'Classical',
+ 'title': u'Alessandro Esseno',
+ 'url': u'http://lyrics.wikia.com/wiki/Alessandro_Esseno'}
+{'genre': u'Classical',
+ 'title': u'Alessandro Safina:Insieme A Te (1999)',
+ 'url': u'http://lyrics.wikia.com/wiki/Alessandro_Safina:Insieme_A_Te_(1999)'}
+{'genre': u'Classical',
+ 'title': u'Alessandro Safina:Musica Di Te (2003)',
+ 'url': u'http://lyrics.wikia.com/wiki/Alessandro_Safina:Musica_Di_Te_(2003)'}
+{'genre': u'Classical',
+ 'title': u'Alice',
+ 'url': u'http://lyrics.wikia.com/wiki/Alice'}
+{'genre': u'Classical',
+ 'title': u'Alice:M\xe9lodie Passag\xe8re (1988)',
+ 'url': u'http://lyrics.wikia.com/wiki/Alice:M%C3%A9lodie_Passag%C3%A8re_(1988)'}
+{'genre': u'Classical',
+ 'title': u'All Angels:All Angels (2006)',
+ 'url': u'http://lyrics.wikia.com/wiki/All_Angels:All_Angels_(2006)'}
+{'genre': u'Classical',
+ 'title': u'All Angels:Into Paradise (2007)',
+ 'url': u'http://lyrics.wikia.com/wiki/All_Angels:Into_Paradise_(2007)'}
+{'genre': u'Classical',
+ 'title': u'Andrea Bocelli',
+ 'url': u'http://lyrics.wikia.com/wiki/Andrea_Bocelli'}
+{'genre': u'Classical',
+ 'title': u'Andrea Bocelli:Aria: The Opera Album (1998)',
+ 'url': u'http://lyrics.wikia.com/wiki/Andrea_Bocelli:Aria:_The_Opera_Album_(1998)'}
+{'genre': u'Classical',
+ 'title': u'Andrea Bocelli:Bocelli (1995)',
+ 'url': u'http://lyrics.wikia.com/wiki/Andrea_Bocelli:Bocelli_(1995)'}
+{'genre': u'Classical',
+ 'title': u'Andrea Bocelli:Cieli Di Toscana (2001)',
+ 'url': u'http://lyrics.wikia.com/wiki/Andrea_Bocelli:Cieli_Di_Toscana_(2001)'}
+{'genre': u'Classical',
+ 'title': u'Andrea Bocelli:Il Mare Calmo Della Sera (1994)',
+ 'url': u'http://lyrics.wikia.com/wiki/Andrea_Bocelli:Il_Mare_Calmo_Della_Sera_(1994)'}
+{'genre': u'Classical',
+ 'title': u'Andrea Bocelli:Incanto (2008)',
+ 'url': u'http://lyrics.wikia.com/wiki/Andrea_Bocelli:Incanto_(2008)'}
+{'genre': u'Classical',
+ 'title': u'Andrea Bocelli:Sacred Arias (1999)',
+ 'url': u'http://lyrics.wikia.com/wiki/Andrea_Bocelli:Sacred_Arias_(1999)'}
+{'genre': u'Classical',
+ 'title': u'Andrea Bocelli:Sentimento (2002)',
+ 'url': u'http://lyrics.wikia.com/wiki/Andrea_Bocelli:Sentimento_(2002)'}
+{'genre': u'Classical',
+ 'title': u'Andrea Bocelli:Verdi (2000)',
+ 'url': u'http://lyrics.wikia.com/wiki/Andrea_Bocelli:Verdi_(2000)'}
+{'genre': u'Classical',
+ 'title': u'Andrea Bocelli:Viaggio Italiano (1995)',
+ 'url': u'http://lyrics.wikia.com/wiki/Andrea_Bocelli:Viaggio_Italiano_(1995)'}
+{'genre': u'Classical',
+ 'title': u"Andrea Griminelli's Cinema Italiano (2001)",
+ 'url': u'http://lyrics.wikia.com/wiki/Andrea_Griminelli%27s_Cinema_Italiano_(2001)'}
+{'genre': u'Classical',
+ 'title': u'Angelis:Angelis (2006)',
+ 'url': u'http://lyrics.wikia.com/wiki/Angelis:Angelis_(2006)'}
+{'genre': u'Classical',
+ 'title': u'Anna Katharina',
+ 'url': u'http://lyrics.wikia.com/wiki/Anna_Katharina'}
+{'genre': u'Classical',
+ 'title': u'Anna Katharina:Dreiklang (2012)',
+ 'url': u'http://lyrics.wikia.com/wiki/Anna_Katharina:Dreiklang_(2012)'}
+{'genre': u'Classical',
+ 'title': u'Anna Katharina:Neuland (2007)',
+ 'url': u'http://lyrics.wikia.com/wiki/Anna_Katharina:Neuland_(2007)'}
+{'genre': u'Classical',
+ 'title': u'Anna Katharina:Saitensprung (2009)',
+ 'url': u'http://lyrics.wikia.com/wiki/Anna_Katharina:Saitensprung_(2009)'}
+{'genre': u'Classical',
+ 'title': u'Antonio Lucio Vivaldi',
+ 'url': u'http://lyrics.wikia.com/wiki/Antonio_Lucio_Vivaldi'}
+{'genre': u'Classical',
+ 'title': u'Bandits Of The Acoustic Revolution',
+ 'url': u'http://lyrics.wikia.com/wiki/Bandits_Of_The_Acoustic_Revolution'}
+{'genre': u'Classical',
+ 'title': u'Bebe Neuwirth',
+ 'url': u'http://lyrics.wikia.com/wiki/Bebe_Neuwirth'}
+{'genre': u'Classical',
+ 'title': u'Benjamin Britten',
+ 'url': u'http://lyrics.wikia.com/wiki/Benjamin_Britten'}
+{'genre': u'Classical',
+ 'title': u'Benjamin Britten:War Requiem (1962)',
+ 'url': u'http://lyrics.wikia.com/wiki/Benjamin_Britten:War_Requiem_(1962)'}
+{'genre': u'Classical',
+ 'title': u'Billy Joel',
+ 'url': u'http://lyrics.wikia.com/wiki/Billy_Joel'}
+{'genre': u'Classical',
+ 'title': u'Billy Joel:Fantasies & Delusions (2001)',
+ 'url': u'http://lyrics.wikia.com/wiki/Billy_Joel:Fantasies_%26_Delusions_(2001)'}
+{'genre': u'Classical',
+ 'title': u'Bj\xf8rn Eidsv\xe5g:Klassisk Bj\xf8rn Eidsv\xe5g Med Kringkastingsorkestret (2014)',
+ 'url': u'http://lyrics.wikia.com/wiki/Bj%C3%B8rn_Eidsv%C3%A5g:Klassisk_Bj%C3%B8rn_Eidsv%C3%A5g_Med_Kringkastingsorkestret_(2014)'}
+{'genre': u'Classical',
+ 'title': u'Black Violin',
+ 'url': u'http://lyrics.wikia.com/wiki/Black_Violin'}
+{'genre': u'Classical',
+ 'title': u'Bond',
+ 'url': u'http://lyrics.wikia.com/wiki/Bond'}
+{'genre': u'Classical',
+ 'title': u'Carl Orff',
+ 'url': u'http://lyrics.wikia.com/wiki/Carl_Orff'}
+{'genre': u'Classical',
+ 'title': u'Carl Orff:Carmina Burana (1936)',
+ 'url': u'http://lyrics.wikia.com/wiki/Carl_Orff:Carmina_Burana_(1936)'}
+{'genre': u'Classical',
+ 'title': u'Celtic Woman',
+ 'url': u'http://lyrics.wikia.com/wiki/Celtic_Woman'}
+{'genre': u'Classical',
+ 'title': u"Chamber - L'Orchestre De Chambre Noir",
+ 'url': u'http://lyrics.wikia.com/wiki/Chamber_-_L%27Orchestre_De_Chambre_Noir'}
+{'genre': u'Classical',
+ 'title': u'Charlotte Church',
+ 'url': u'http://lyrics.wikia.com/wiki/Charlotte_Church'}
+{'genre': u'Classical',
+ 'title': u'Charlotte Church:Enchantment (2001)',
+ 'url': u'http://lyrics.wikia.com/wiki/Charlotte_Church:Enchantment_(2001)'}
+{'genre': u'Classical',
+ 'title': u'Charlotte Church:Prelude: The Best Of Charlotte Church (2002)',
+ 'url': u'http://lyrics.wikia.com/wiki/Charlotte_Church:Prelude:_The_Best_Of_Charlotte_Church_(2002)'}
+{'genre': u'Classical',
+ 'title': u'Chet Atkins',
+ 'url': u'http://lyrics.wikia.com/wiki/Chet_Atkins'}
+{'genre': u'Classical',
+ 'title': u'Christof St\xe4hlin',
+ 'url': u'http://lyrics.wikia.com/wiki/Christof_St%C3%A4hlin'}
+{'genre': u'Classical',
+ 'title': u'Christopher Lee',
+ 'url': u'http://lyrics.wikia.com/wiki/Christopher_Lee'}
+{'genre': u'Classical',
+ 'title': u'Christopher Lee:Revelation (2006)',
+ 'url': u'http://lyrics.wikia.com/wiki/Christopher_Lee:Revelation_(2006)'}
+{'genre': u'Classical',
+ 'title': u'Christopher Lee:Sings Devils, Rogues & Other Villains (1996)',
+ 'url': u'http://lyrics.wikia.com/wiki/Christopher_Lee:Sings_Devils,_Rogues_%26_Other_Villains_(1996)'}
+{'genre': u'Classical',
+ 'title': u'Clogs',
+ 'url': u'http://lyrics.wikia.com/wiki/Clogs'}
+{'genre': u'Classical',
+ 'title': u'Comedian Harmonists',
+ 'url': u'http://lyrics.wikia.com/wiki/Comedian_Harmonists'}
+{'genre': u'Classical',
+ 'title': u'Corvus Corax:Cantus Buranus - Das Orgelwerk (2008)',
+ 'url': u'http://lyrics.wikia.com/wiki/Corvus_Corax:Cantus_Buranus_-_Das_Orgelwerk_(2008)'}
+{'genre': u'Classical',
+ 'title': u'Dagmar Krause',
+ 'url': u'http://lyrics.wikia.com/wiki/Dagmar_Krause'}
+{'genre': u'Classical',
+ 'title': u'David Bowie:Peter And The Wolf (1978)',
+ 'url': u'http://lyrics.wikia.com/wiki/David_Bowie:Peter_And_The_Wolf_(1978)'}
+{'genre': u'Classical',
+ 'title': u'Donato Y Est\xe9fano',
+ 'url': u'http://lyrics.wikia.com/wiki/Donato_Y_Est%C3%A9fano'}
+{'genre': u'Classical',
+ 'title': u'Dulce Pontes',
+ 'url': u'http://lyrics.wikia.com/wiki/Dulce_Pontes'}
+{'genre': u'Classical',
+ 'title': u'Dune:Forever (1997)',
+ 'url': u'http://lyrics.wikia.com/wiki/Dune:Forever_(1997)'}
+{'genre': u'Classical',
+ 'title': u'Dune:Forever And Ever (1998)',
+ 'url': u'http://lyrics.wikia.com/wiki/Dune:Forever_And_Ever_(1998)'}
+{'genre': u'Classical',
+ 'title': u'E.S. Posthumus',
+ 'url': u'http://lyrics.wikia.com/wiki/E.S._Posthumus'}
+{'genre': u'Classical',
+ 'title': u'Eftos',
+ 'url': u'http://lyrics.wikia.com/wiki/Eftos'}
+{'genre': u'Classical',
+ 'title': u'Elvis Costello:Il Sogno (2004)',
+ 'url': u'http://lyrics.wikia.com/wiki/Elvis_Costello:Il_Sogno_(2004)'}
+{'genre': u'Classical',
+ 'title': u'Elvis Costello:The Juliet Letters (1993)',
+ 'url': u'http://lyrics.wikia.com/wiki/Elvis_Costello:The_Juliet_Letters_(1993)'}
+{'genre': u'Classical',
+ 'title': u'Emilie Autumn:Laced/Unlaced (2007)',
+ 'url': u'http://lyrics.wikia.com/wiki/Emilie_Autumn:Laced/Unlaced_(2007)'}
+{'genre': u'Classical',
+ 'title': u'Emilie Autumn:On A Day (2000)',
+ 'url': u'http://lyrics.wikia.com/wiki/Emilie_Autumn:On_A_Day_(2000)'}
+{'genre': u'Classical',
+ 'title': u'Epica:The Classical Conspiracy (2009)',
+ 'url': u'http://lyrics.wikia.com/wiki/Epica:The_Classical_Conspiracy_(2009)'}
+{'genre': u'Classical',
+ 'title': u'Frank Zappa:Orchestral Favorites (1979)',
+ 'url': u'http://lyrics.wikia.com/wiki/Frank_Zappa:Orchestral_Favorites_(1979)'}
+{'genre': u'Classical',
+ 'title': u'Franz Schubert',
+ 'url': u'http://lyrics.wikia.com/wiki/Franz_Schubert'}
+{'genre': u'Classical',
+ 'title': u'Franz Schubert:Winterreise (1828)',
+ 'url': u'http://lyrics.wikia.com/wiki/Franz_Schubert:Winterreise_(1828)'}
+{'genre': u'Classical',
+ 'title': u'Fred Bertelmann',
+ 'url': u'http://lyrics.wikia.com/wiki/Fred_Bertelmann'}
+{'genre': u'Classical',
+ 'title': u'Freddie Mercury:Barcelona (1988)',
+ 'url': u'http://lyrics.wikia.com/wiki/Freddie_Mercury:Barcelona_(1988)'}
+{'genre': u'Classical',
+ 'title': u'Freddy Martin',
+ 'url': u'http://lyrics.wikia.com/wiki/Freddy_Martin'}
+{'genre': u'Classical',
+ 'title': u'Friedrich Gulda',
+ 'url': u'http://lyrics.wikia.com/wiki/Friedrich_Gulda'}
+{'genre': u'Classical',
+ 'title': u'Friedrich Schiller',
+ 'url': u'http://lyrics.wikia.com/wiki/Friedrich_Schiller'}
+{'genre': u'Classical',
+ 'title': u'Gabriel Faur\xe9',
+ 'url': u'http://lyrics.wikia.com/wiki/Gabriel_Faur%C3%A9'}
+{'genre': u'Classical',
+ 'title': u'Gabriel Faur\xe9:Requiem (1888)',
+ 'url': u'http://lyrics.wikia.com/wiki/Gabriel_Faur%C3%A9:Requiem_(1888)'}
+{'genre': u'Classical',
+ 'title': u'Gabriel Kahane',
+ 'url': u'http://lyrics.wikia.com/wiki/Gabriel_Kahane'}
+{'genre': u'Classical',
+ 'title': u'Gaye Delorme',
+ 'url': u'http://lyrics.wikia.com/wiki/Gaye_Delorme'}
+{'genre': u'Classical',
+ 'title': u'George Frideric Handel',
+ 'url': u'http://lyrics.wikia.com/wiki/George_Frideric_Handel'}
+{'genre': u'Classical',
+ 'title': u'George Gershwin',
+ 'url': u'http://lyrics.wikia.com/wiki/George_Gershwin'}
+{'genre': u'Classical',
+ 'title': u'Gerhard R\xfchm',
+ 'url': u'http://lyrics.wikia.com/wiki/Gerhard_R%C3%BChm'}
+{'genre': u'Classical',
+ 'title': u'Gordon MacRae',
+ 'url': u'http://lyrics.wikia.com/wiki/Gordon_MacRae'}
+{'genre': u'Classical',
+ 'title': u'Guilherme Arantes',
+ 'url': u'http://lyrics.wikia.com/wiki/Guilherme_Arantes'}
+{'genre': u'Classical',
+ 'title': u'Gunther Emmerlich',
+ 'url': u'http://lyrics.wikia.com/wiki/Gunther_Emmerlich'}
+{'genre': u'Classical',
+ 'title': u'Haindling',
+ 'url': u'http://lyrics.wikia.com/wiki/Haindling'}
+{'genre': u'Classical',
+ 'title': u'Hannes Wader:An Dich Hab Ich Gedacht - Wader Singt Schubert (1997)',
+ 'url': u'http://lyrics.wikia.com/wiki/Hannes_Wader:An_Dich_Hab_Ich_Gedacht_-_Wader_Singt_Schubert_(1997)'}
+{'genre': u'Classical',
+ 'title': u'Hanns Eisler',
+ 'url': u'http://lyrics.wikia.com/wiki/Hanns_Eisler'}
+{'genre': u'Classical',
+ 'title': u'Harry Sosnik',
+ 'url': u'http://lyrics.wikia.com/wiki/Harry_Sosnik'}
+{'genre': u'Classical',
+ 'title': u'Harve Presnell',
+ 'url': u'http://lyrics.wikia.com/wiki/Harve_Presnell'}
+{'genre': u'Classical',
+ 'title': u'Hayley Westenra',
+ 'url': u'http://lyrics.wikia.com/wiki/Hayley_Westenra'}
+{'genre': u'Classical',
+ 'title': u'Hayley Westenra:Hushabye (2013)',
+ 'url': u'http://lyrics.wikia.com/wiki/Hayley_Westenra:Hushabye_(2013)'}
+{'genre': u'Classical',
+ 'title': u'Hayley Westenra:Odyssey (2006)',
+ 'url': u'http://lyrics.wikia.com/wiki/Hayley_Westenra:Odyssey_(2006)'}
+{'genre': u'Classical',
+ 'title': u'Helmut Lotti',
+ 'url': u'http://lyrics.wikia.com/wiki/Helmut_Lotti'}
+{'genre': u'Classical',
+ 'title': u'Ilaria Graziano',
+ 'url': u'http://lyrics.wikia.com/wiki/Ilaria_Graziano'}
+{'genre': u'Classical',
+ 'title': u'Inglenook',
+ 'url': u'http://lyrics.wikia.com/wiki/Inglenook'}
+{'genre': u'Classical',
+ 'title': u'Ingo Insterburg',
+ 'url': u'http://lyrics.wikia.com/wiki/Ingo_Insterburg'}
+{'genre': u'Classical',
+ 'title': u'Ira Gershwin',
+ 'url': u'http://lyrics.wikia.com/wiki/Ira_Gershwin'}
+{'genre': u'Classical',
+ 'title': u'Jacques Offenbach',
+ 'url': u'http://lyrics.wikia.com/wiki/Jacques_Offenbach'}
+{'genre': u'Classical',
+ 'title': u'James Last',
+ 'url': u'http://lyrics.wikia.com/wiki/James_Last'}
+{'genre': u'Classical',
+ 'title': u'Jan Garbarek',
+ 'url': u'http://lyrics.wikia.com/wiki/Jan_Garbarek'}
+{'genre': u'Classical',
+ 'title': u'Jan Werner',
+ 'url': u'http://lyrics.wikia.com/wiki/Jan_Werner'}
+{'genre': u'Classical',
+ 'title': u'Jean Michel Jarre:The Symphonic Jean Michel Jarre (2006)',
+ 'url': u'http://lyrics.wikia.com/wiki/Jean_Michel_Jarre:The_Symphonic_Jean_Michel_Jarre_(2006)'}
+{'genre': u'Classical',
+ 'title': u'Jean Sibelius',
+ 'url': u'http://lyrics.wikia.com/wiki/Jean_Sibelius'}
+{'genre': u'Classical',
+ 'title': u'Joe Hisaishi',
+ 'url': u'http://lyrics.wikia.com/wiki/Joe_Hisaishi'}
+{'genre': u'Classical',
+ 'title': u'Joe Jackson',
+ 'url': u'http://lyrics.wikia.com/wiki/Joe_Jackson'}
+{'genre': u'Classical',
+ 'title': u'Joe Jackson:Heaven & Hell (1997)',
+ 'url': u'http://lyrics.wikia.com/wiki/Joe_Jackson:Heaven_%26_Hell_(1997)'}
+{'genre': u'Classical',
+ 'title': u'Joe Jackson:Night Music (1994)',
+ 'url': u'http://lyrics.wikia.com/wiki/Joe_Jackson:Night_Music_(1994)'}
+{'genre': u'Classical',
+ 'title': u'Joe Jackson:Symphony No. 1 (1999)',
+ 'url': u'http://lyrics.wikia.com/wiki/Joe_Jackson:Symphony_No._1_(1999)'}
+{'genre': u'Classical',
+ 'title': u'Joe Jackson:Will Power (1987)',
+ 'url': u'http://lyrics.wikia.com/wiki/Joe_Jackson:Will_Power_(1987)'}
+{'genre': u'Classical',
+ 'title': u'Joe McElderry:Classic (2011)',
+ 'url': u'http://lyrics.wikia.com/wiki/Joe_McElderry:Classic_(2011)'}
+{'genre': u'Classical',
+ 'title': u'Johann Pachelbel',
+ 'url': u'http://lyrics.wikia.com/wiki/Johann_Pachelbel'}
+{'genre': u'Classical',
+ 'title': u'Johann Sebastian Bach',
+ 'url': u'http://lyrics.wikia.com/wiki/Johann_Sebastian_Bach'}
+{'genre': u'Classical',
+ 'title': u'John Cale',
+ 'url': u'http://lyrics.wikia.com/wiki/John_Cale'}
+{'genre': u'Classical',
+ 'title': u'John Cale:Words For The Dying (1989)',
+ 'url': u'http://lyrics.wikia.com/wiki/John_Cale:Words_For_The_Dying_(1989)'}
+{'genre': u'Classical',
+ 'title': u'John McLaughlin',
+ 'url': u'http://lyrics.wikia.com/wiki/John_McLaughlin'}
+{'genre': u'Classical',
+ 'title': u'John Powell',
+ 'url': u'http://lyrics.wikia.com/wiki/John_Powell'}
+{'genre': u'Classical',
+ 'title': u'Jon Lord',
+ 'url': u'http://lyrics.wikia.com/wiki/Jon_Lord'}
+{'genre': u'Classical',
+ 'title': u'Jonathan Elias',
+ 'url': u'http://lyrics.wikia.com/wiki/Jonathan_Elias'}
+{'genre': u'Classical',
+ 'title': u'Josh Groban:Closer (2003)',
+ 'url': u'http://lyrics.wikia.com/wiki/Josh_Groban:Closer_(2003)'}
+{'genre': u'Classical',
+ 'title': u'Josh Groban:Josh Groban (2001)',
+ 'url': u'http://lyrics.wikia.com/wiki/Josh_Groban:Josh_Groban_(2001)'}
+{'genre': u'Classical',
+ 'title': u'J\xfcrgen Barz',
+ 'url': u'http://lyrics.wikia.com/wiki/J%C3%BCrgen_Barz'}
+{'genre': u'Classical',
+ 'title': u'Kaada',
+ 'url': u'http://lyrics.wikia.com/wiki/Kaada'}
+{'genre': u'Classical',
+ 'title': u'Klaus Der Geiger',
+ 'url': u'http://lyrics.wikia.com/wiki/Klaus_Der_Geiger'}
+{'genre': u'Classical',
+ 'title': u'Klaus Nomi',
+ 'url': u'http://lyrics.wikia.com/wiki/Klaus_Nomi'}
+{'genre': u'Classical',
+ 'title': u'Konstantin Wecker',
+ 'url': u'http://lyrics.wikia.com/wiki/Konstantin_Wecker'}
+{'genre': u'Classical',
+ 'title': u'Kurt Weill',
+ 'url': u'http://lyrics.wikia.com/wiki/Kurt_Weill'}
+{'genre': u'Classical',
+ 'title': u'Libera',
+ 'url': u'http://lyrics.wikia.com/wiki/Libera'}
+{'genre': u'Classical',
+ 'title': u'Liberace',
+ 'url': u'http://lyrics.wikia.com/wiki/Liberace'}
+{'genre': u'Classical',
+ 'title': u'Lindsey Stirling',
+ 'url': u'http://lyrics.wikia.com/wiki/Lindsey_Stirling'}
+{'genre': u'Classical',
+ 'title': u'Lindsey Stirling:Lindsey Stirling (2012)',
+ 'url': u'http://lyrics.wikia.com/wiki/Lindsey_Stirling:Lindsey_Stirling_(2012)'}
+{'genre': u'Classical',
+ 'title': u'Lindsey Stirling:Shatter Me (2014)',
+ 'url': u'http://lyrics.wikia.com/wiki/Lindsey_Stirling:Shatter_Me_(2014)'}
+{'genre': u'Classical',
+ 'title': u'Lo-Fang',
+ 'url': u'http://lyrics.wikia.com/wiki/Lo-Fang'}
+{'genre': u'Classical',
+ 'title': u'London Philharmonic Orchestra',
+ 'url': u'http://lyrics.wikia.com/wiki/London_Philharmonic_Orchestra'}
+{'genre': u'Classical',
+ 'title': u'Lotte Lenya',
+ 'url': u'http://lyrics.wikia.com/wiki/Lotte_Lenya'}
+{'genre': u'Classical',
+ 'title': u'Ludwig Van Beethoven',
+ 'url': u'http://lyrics.wikia.com/wiki/Ludwig_Van_Beethoven'}
+{'genre': u'Classical',
+ 'title': u'Mantovani',
+ 'url': u'http://lyrics.wikia.com/wiki/Mantovani'}
+{'genre': u'Classical',
+ 'title': u'Martin Tielli',
+ 'url': u'http://lyrics.wikia.com/wiki/Martin_Tielli'}
+{'genre': u'Classical',
+ 'title': u'Mason Williams',
+ 'url': u'http://lyrics.wikia.com/wiki/Mason_Williams'}
+{'genre': u'Classical',
+ 'title': u'Maurice Ravel',
+ 'url': u'http://lyrics.wikia.com/wiki/Maurice_Ravel'}
+{'genre': u'Classical',
+ 'title': u'Mayte Mart\xedn',
+ 'url': u'http://lyrics.wikia.com/wiki/Mayte_Mart%C3%ADn'}
+{'genre': u'Classical',
+ 'title': u'Medi\xe6val B\xe6bes',
+ 'url': u'http://lyrics.wikia.com/wiki/Medi%C3%A6val_B%C3%A6bes'}
+{'genre': u'Classical',
+ 'title': u'Michael Brook',
+ 'url': u'http://lyrics.wikia.com/wiki/Michael_Brook'}
+{'genre': u'Classical',
+ 'title': u'Michael Heltau',
+ 'url': u'http://lyrics.wikia.com/wiki/Michael_Heltau'}
+{'genre': u'Classical',
+ 'title': u'Mike Oldfield:Music Of The Spheres (2008)',
+ 'url': u'http://lyrics.wikia.com/wiki/Mike_Oldfield:Music_Of_The_Spheres_(2008)'}
+{'genre': u'Classical',
+ 'title': u'M\xe1ir\xe9ad Nesbitt',
+ 'url': u'http://lyrics.wikia.com/wiki/M%C3%A1ir%C3%A9ad_Nesbitt'}
+{'genre': u'Classical',
+ 'title': u'Nitronoise',
+ 'url': u'http://lyrics.wikia.com/wiki/Nitronoise'}
+{'genre': u'Classical',
+ 'title': u'Paco De Luc\xeda',
+ 'url': u'http://lyrics.wikia.com/wiki/Paco_De_Luc%C3%ADa'}
+{'genre': u'Classical',
+ 'title': u'Patrick Goble',
+ 'url': u'http://lyrics.wikia.com/wiki/Patrick_Goble'}
+{'genre': u'Classical',
+ 'title': u'Paul McCartney',
+ 'url': u'http://lyrics.wikia.com/wiki/Paul_McCartney'}
+{'genre': u'Classical',
+ 'title': u'Paul McCartney:Ecce Cor Meum (2006)',
+ 'url': u'http://lyrics.wikia.com/wiki/Paul_McCartney:Ecce_Cor_Meum_(2006)'}
+{'genre': u'Classical',
+ 'title': u"Paul McCartney:Paul McCartney's Liverpool Oratorio (1991)",
+ 'url': u'http://lyrics.wikia.com/wiki/Paul_McCartney:Paul_McCartney%27s_Liverpool_Oratorio_(1991)'}
+{'genre': u'Classical',
+ 'title': u'Paul Potts:One Chance (2007)',
+ 'url': u'http://lyrics.wikia.com/wiki/Paul_Potts:One_Chance_(2007)'}
+{'genre': u'Classical',
+ 'title': u'Paul Robeson',
+ 'url': u'http://lyrics.wikia.com/wiki/Paul_Robeson'}
+{'genre': u'Classical',
+ 'title': u'Peter Horton',
+ 'url': u'http://lyrics.wikia.com/wiki/Peter_Horton'}
+{'genre': u'Classical',
+ 'title': u'Petula Clark',
+ 'url': u'http://lyrics.wikia.com/wiki/Petula_Clark'}
+{'genre': u'Classical',
+ 'title': u'Philip Glass:Orion (2005)',
+ 'url': u'http://lyrics.wikia.com/wiki/Philip_Glass:Orion_(2005)'}
+{'genre': u'Classical',
+ 'title': u'Piotr Rubik',
+ 'url': u'http://lyrics.wikia.com/wiki/Piotr_Rubik'}
+{'genre': u'Classical',
+ 'title': u'Piotr Rubik:Psa\u0142terz Wrze\u015bniowy (2006)',
+ 'url': u'http://lyrics.wikia.com/wiki/Piotr_Rubik:Psa%C5%82terz_Wrze%C5%9Bniowy_(2006)'}
+{'genre': u'Classical',
+ 'title': u'Piotr Rubik:Tu Es Petrus (2005)',
+ 'url': u'http://lyrics.wikia.com/wiki/Piotr_Rubik:Tu_Es_Petrus_(2005)'}
+{'genre': u'Classical',
+ 'title': u'Piotr Rubik:\u015awi\u0119tokrzyska Golgota (2004)',
+ 'url': u'http://lyrics.wikia.com/wiki/Piotr_Rubik:%C5%9Awi%C4%99tokrzyska_Golgota_(2004)'}
+{'genre': u'Classical',
+ 'title': u'Punch Brothers',
+ 'url': u'http://lyrics.wikia.com/wiki/Punch_Brothers'}
+{'genre': u'Classical',
+ 'title': u'Richard Tauber',
+ 'url': u'http://lyrics.wikia.com/wiki/Richard_Tauber'}
+{'genre': u'Classical',
+ 'title': u'Rick Wakeman',
+ 'url': u'http://lyrics.wikia.com/wiki/Rick_Wakeman'}
+{'genre': u'Classical',
+ 'title': u'Rosinha De Valen\xe7a',
+ 'url': u'http://lyrics.wikia.com/wiki/Rosinha_De_Valen%C3%A7a'}
+{'genre': u'Classical',
+ 'title': u'Samantha Barks',
+ 'url': u'http://lyrics.wikia.com/wiki/Samantha_Barks'}
+{'genre': u'Classical',
+ 'title': u'Scott MacIntyre:Brothers For All Seasons (1999)',
+ 'url': u'http://lyrics.wikia.com/wiki/Scott_MacIntyre:Brothers_For_All_Seasons_(1999)'}
+{'genre': u'Classical',
+ 'title': u'Scott MacIntyre:Grand Classics (2000)',
+ 'url': u'http://lyrics.wikia.com/wiki/Scott_MacIntyre:Grand_Classics_(2000)'}
+{'genre': u'Classical',
+ 'title': u'Sea + Air',
+ 'url': u'http://lyrics.wikia.com/wiki/Sea_%2B_Air'}
+{'genre': u'Classical',
+ 'title': u'Sebasti\xe3o Tapaj\xf3s',
+ 'url': u'http://lyrics.wikia.com/wiki/Sebasti%C3%A3o_Tapaj%C3%B3s'}
+{'genre': u'Classical',
+ 'title': u'Shaun Davey:The Relief Of Derry Symphony (1990)',
+ 'url': u'http://lyrics.wikia.com/wiki/Shaun_Davey:The_Relief_Of_Derry_Symphony_(1990)'}
+{'genre': u'Classical',
+ 'title': u'Sheldon Allman',
+ 'url': u'http://lyrics.wikia.com/wiki/Sheldon_Allman'}
+{'genre': u'Classical',
+ 'title': u'Silence:Musical Accompaniment For The End Of The World (Songs For Two Pianos, Tactful Synths And Voice) (2012)',
+ 'url': u'http://lyrics.wikia.com/wiki/Silence:Musical_Accompaniment_For_The_End_Of_The_World_(Songs_For_Two_Pianos,_Tactful_Synths_And_Voice)_(2012)'}
+{'genre': u'Classical',
+ 'title': u'Sissel:In Symphony (2001)',
+ 'url': u'http://lyrics.wikia.com/wiki/Sissel:In_Symphony_(2001)'}
+{'genre': u'Classical',
+ 'title': u'Sissel:My Heart (2003)',
+ 'url': u'http://lyrics.wikia.com/wiki/Sissel:My_Heart_(2003)'}
+{'genre': u'Classical',
+ 'title': u'Sonic Youth:SYR4: Goodbye 20th Century (1999)',
+ 'url': u'http://lyrics.wikia.com/wiki/Sonic_Youth:SYR4:_Goodbye_20th_Century_(1999)'}
+{'genre': u'Classical',
+ 'title': u'Steve Hackett',
+ 'url': u'http://lyrics.wikia.com/wiki/Steve_Hackett'}
+{'genre': u'Classical',
+ 'title': u'Steve Hackett:Metamorpheus (2005)',
+ 'url': u'http://lyrics.wikia.com/wiki/Steve_Hackett:Metamorpheus_(2005)'}
+{'genre': u'Classical',
+ 'title': u'Steve Hackett:Sketches Of Satie (2000)',
+ 'url': u'http://lyrics.wikia.com/wiki/Steve_Hackett:Sketches_Of_Satie_(2000)'}
+{'genre': u'Classical',
+ 'title': u'Steve Hackett:Tribute (2008)',
+ 'url': u'http://lyrics.wikia.com/wiki/Steve_Hackett:Tribute_(2008)'}
+{'genre': u'Classical',
+ 'title': u'Steve Nieve',
+ 'url': u'http://lyrics.wikia.com/wiki/Steve_Nieve'}
+{'genre': u'Classical',
+ 'title': u'Sting',
+ 'url': u'http://lyrics.wikia.com/wiki/Sting'}
+{'genre': u'Classical',
+ 'title': u'Sting:Songs From The Labyrinth (2006)',
+ 'url': u'http://lyrics.wikia.com/wiki/Sting:Songs_From_The_Labyrinth_(2006)'}
+{'genre': u'Classical',
+ 'title': u'Tarja Turunen',
+ 'url': u'http://lyrics.wikia.com/wiki/Tarja_Turunen'}
+{'genre': u'Classical',
+ 'title': u'Tarja Turunen:Yhden Enkelin Unelma (2004)',
+ 'url': u'http://lyrics.wikia.com/wiki/Tarja_Turunen:Yhden_Enkelin_Unelma_(2004)'}
+{'genre': u'Classical',
+ 'title': u'Terre Roche',
+ 'url': u'http://lyrics.wikia.com/wiki/Terre_Roche'}
+{'genre': u'Classical',
+ 'title': u'Terry Bozzio',
+ 'url': u'http://lyrics.wikia.com/wiki/Terry_Bozzio'}
+{'genre': u'Classical',
+ 'title': u'The Choirboys (UK)',
+ 'url': u'http://lyrics.wikia.com/wiki/The_Choirboys_(UK)'}
+{'genre': u'Classical',
+ 'title': u'The Choirboys:The Carols Album (2007)',
+ 'url': u'http://lyrics.wikia.com/wiki/The_Choirboys:The_Carols_Album_(2007)'}
+{'genre': u'Classical',
+ 'title': u'The Choirboys:The Choirboys (2005)',
+ 'url': u'http://lyrics.wikia.com/wiki/The_Choirboys:The_Choirboys_(2005)'}
+{'genre': u'Classical',
+ 'title': u'The Flashbulb',
+ 'url': u'http://lyrics.wikia.com/wiki/The_Flashbulb'}
+{'genre': u'Classical',
+ 'title': u'The Miserable Rich:12 Ways To Count (2008)',
+ 'url': u'http://lyrics.wikia.com/wiki/The_Miserable_Rich:12_Ways_To_Count_(2008)'}
+{'genre': u'Classical',
+ 'title': u'Tim Reynolds',
+ 'url': u'http://lyrics.wikia.com/wiki/Tim_Reynolds'}
+{'genre': u'Classical',
+ 'title': u'Tony Banks',
+ 'url': u'http://lyrics.wikia.com/wiki/Tony_Banks'}
+{'genre': u'Classical',
+ 'title': u'Tony Banks:Seven - A Suite For Orchestra (2002)',
+ 'url': u'http://lyrics.wikia.com/wiki/Tony_Banks:Seven_-_A_Suite_For_Orchestra_(2002)'}
+{'genre': u'Classical',
+ 'title': u'Topology:Perpetual Motion Machine (2003)',
+ 'url': u'http://lyrics.wikia.com/wiki/Topology:Perpetual_Motion_Machine_(2003)'}
+{'genre': u'Classical',
+ 'title': u'Tori Amos',
+ 'url': u'http://lyrics.wikia.com/wiki/Tori_Amos'}
+{'genre': u'Classical',
+ 'title': u'To\u0161e Proeski',
+ 'url': u'http://lyrics.wikia.com/wiki/To%C5%A1e_Proeski'}
+{'genre': u'Classical',
+ 'title': u'Trans-Siberian Orchestra',
+ 'url': u'http://lyrics.wikia.com/wiki/Trans-Siberian_Orchestra'}
+{'genre': u'Classic Rock',
+ 'title': u'Aerosmith',
+ 'url': u'http://lyrics.wikia.com/wiki/Aerosmith'}
+{'genre': u'Classic Rock',
+ 'title': u'Albert Hammond:The Free Electric Band (1973)',
+ 'url': u'http://lyrics.wikia.com/wiki/Albert_Hammond:The_Free_Electric_Band_(1973)'}
+{'genre': u'Classic Rock',
+ 'title': u'Bachman-Turner Overdrive',
+ 'url': u'http://lyrics.wikia.com/wiki/Bachman-Turner_Overdrive'}
+{'genre': u'Classic Rock',
+ 'title': u"Bachman-Turner Overdrive:BTO's Greatest (1986)",
+ 'url': u'http://lyrics.wikia.com/wiki/Bachman-Turner_Overdrive:BTO%27s_Greatest_(1986)'}
+{'genre': u'Classic Rock',
+ 'title': u'Bachman-Turner Overdrive:The Anthology (1993)',
+ 'url': u'http://lyrics.wikia.com/wiki/Bachman-Turner_Overdrive:The_Anthology_(1993)'}
+{'genre': u'Classic Rock',
+ 'title': u'Bachman-Turner Overdrive:Trial By Fire - Greatest And Latest (1996)',
+ 'url': u'http://lyrics.wikia.com/wiki/Bachman-Turner_Overdrive:Trial_By_Fire_-_Greatest_And_Latest_(1996)'}
+{'genre': u'Classic Rock',
+ 'title': u'Baxter (US)',
+ 'url': u'http://lyrics.wikia.com/wiki/Baxter_(US)'}
+{'genre': u'Classic Rock',
+ 'title': u'Billy Joel:Greatest Hits Volume I & Volume II (1985)',
+ 'url': u'http://lyrics.wikia.com/wiki/Billy_Joel:Greatest_Hits_Volume_I_%26_Volume_II_(1985)'}
+{'genre': u'Classic Rock',
+ 'title': u'Black Country Communion:Afterglow (2012)',
+ 'url': u'http://lyrics.wikia.com/wiki/Black_Country_Communion:Afterglow_(2012)'}
+{'genre': u'Classic Rock',
+ 'title': u'Boston',
+ 'url': u'http://lyrics.wikia.com/wiki/Boston'}
+{'genre': u'Classic Rock',
+ 'title': u'Brother Firetribe',
+ 'url': u'http://lyrics.wikia.com/wiki/Brother_Firetribe'}
+{'genre': u'Classic Rock',
+ 'title': u'Burton Cummings',
+ 'url': u'http://lyrics.wikia.com/wiki/Burton_Cummings'}
+{'genre': u'Classic Rock',
+ 'title': u'Chris Robinson Brotherhood:Big Moon Ritual (2012)',
+ 'url': u'http://lyrics.wikia.com/wiki/Chris_Robinson_Brotherhood:Big_Moon_Ritual_(2012)'}
+{'genre': u'Classic Rock',
+ 'title': u'Chris Robinson Brotherhood:The Magic Door (2012)',
+ 'url': u'http://lyrics.wikia.com/wiki/Chris_Robinson_Brotherhood:The_Magic_Door_(2012)'}
+{'genre': u'Classic Rock',
+ 'title': u'Chris Robinson:New Earth Mud (2002)',
+ 'url': u'http://lyrics.wikia.com/wiki/Chris_Robinson:New_Earth_Mud_(2002)'}
+{'genre': u'Classic Rock',
+ 'title': u'Classic Rock Gold (2005)',
+ 'url': u'http://lyrics.wikia.com/wiki/Classic_Rock_Gold_(2005)'}
+{'genre': u'Classic Rock',
+ 'title': u'Climax:Climax Featuring Sonny Geraci (1972)',
+ 'url': u'http://lyrics.wikia.com/wiki/Climax:Climax_Featuring_Sonny_Geraci_(1972)'}
+{'genre': u'Classic Rock',
+ 'title': u'Crank It Up! Classic Rock Party (2011)',
+ 'url': u'http://lyrics.wikia.com/wiki/Crank_It_Up!_Classic_Rock_Party_(2011)'}
+{'genre': u'Classic Rock',
+ 'title': u'Crank Up The Classic Rock (2007)',
+ 'url': u'http://lyrics.wikia.com/wiki/Crank_Up_The_Classic_Rock_(2007)'}
+{'genre': u'Classic Rock',
+ 'title': u'Crosby, Stills & Nash',
+ 'url': u'http://lyrics.wikia.com/wiki/Crosby,_Stills_%26_Nash'}
+{'genre': u'Classic Rock',
+ 'title': u'Crosby, Stills, Nash & Young',
+ 'url': u'http://lyrics.wikia.com/wiki/Crosby,_Stills,_Nash_%26_Young'}
+{'genre': u'Classic Rock',
+ 'title': u'David Gilmour:About Face (1984)',
+ 'url': u'http://lyrics.wikia.com/wiki/David_Gilmour:About_Face_(1984)'}
+{'genre': u'Classic Rock',
+ 'title': u'David Gilmour:David Gilmour (1978)',
+ 'url': u'http://lyrics.wikia.com/wiki/David_Gilmour:David_Gilmour_(1978)'}
+{'genre': u'Classic Rock',
+ 'title': u'David Gilmour:On An Island (2006)',
+ 'url': u'http://lyrics.wikia.com/wiki/David_Gilmour:On_An_Island_(2006)'}
+{'genre': u'Classic Rock',
+ 'title': u'Denny Laine:Holly Days (1977)',
+ 'url': u'http://lyrics.wikia.com/wiki/Denny_Laine:Holly_Days_(1977)'}
+{'genre': u'Classic Rock',
+ 'title': u'Derek And The Dominos:Layla And Other Assorted Love Songs (1970)',
+ 'url': u'http://lyrics.wikia.com/wiki/Derek_And_The_Dominos:Layla_And_Other_Assorted_Love_Songs_(1970)'}
+{'genre': u'Classic Rock',
+ 'title': u"Electric Light Orchestra:I'm Alive (1980)",
+ 'url': u'http://lyrics.wikia.com/wiki/Electric_Light_Orchestra:I%27m_Alive_(1980)'}
+{'genre': u'Classic Rock',
+ 'title': u'Elf:Trying To Burn The Sun (1975)',
+ 'url': u'http://lyrics.wikia.com/wiki/Elf:Trying_To_Burn_The_Sun_(1975)'}
+{'genre': u'Classic Rock',
+ 'title': u'Elton John',
+ 'url': u'http://lyrics.wikia.com/wiki/Elton_John'}
+{'genre': u'Classic Rock',
+ 'title': u'Fighter',
+ 'url': u'http://lyrics.wikia.com/wiki/Fighter'}
+{'genre': u'Classic Rock',
+ 'title': u'Gene Simmons',
+ 'url': u'http://lyrics.wikia.com/wiki/Gene_Simmons'}
+{'genre': u'Classic Rock',
+ 'title': u'Genesis',
+ 'url': u'http://lyrics.wikia.com/wiki/Genesis'}
+{'genre': u'Classic Rock',
+ 'title': u'Genesis:Archive Number 2 1976-1992 (2000)',
+ 'url': u'http://lyrics.wikia.com/wiki/Genesis:Archive_Number_2_1976-1992_(2000)'}
+{'genre': u'Classic Rock',
+ 'title': u'Genesis:Live Over Europe 2007 (2007)',
+ 'url': u'http://lyrics.wikia.com/wiki/Genesis:Live_Over_Europe_2007_(2007)'}
+{'genre': u'Classic Rock',
+ 'title': u'Genesis:The Way We Walk, Volume One: The Shorts (1992)',
+ 'url': u'http://lyrics.wikia.com/wiki/Genesis:The_Way_We_Walk,_Volume_One:_The_Shorts_(1992)'}
+{'genre': u'Classic Rock',
+ 'title': u'Genesis:The Way We Walk, Volume Two: The Longs (1993)',
+ 'url': u'http://lyrics.wikia.com/wiki/Genesis:The_Way_We_Walk,_Volume_Two:_The_Longs_(1993)'}
+{'genre': u'Classic Rock',
+ 'title': u'Geordie:Hope You Like It (1973)',
+ 'url': u'http://lyrics.wikia.com/wiki/Geordie:Hope_You_Like_It_(1973)'}
+{'genre': u'Classic Rock',
+ 'title': u'Iris (RO)',
+ 'url': u'http://lyrics.wikia.com/wiki/Iris_(RO)'}
+{'genre': u'Classic Rock',
+ 'title': u'Jethro Tull:A (1980)',
+ 'url': u'http://lyrics.wikia.com/wiki/Jethro_Tull:A_(1980)'}
+{'genre': u'Classic Rock',
+ 'title': u'Jethro Tull:The Broadsword And The Beast (1982)',
+ 'url': u'http://lyrics.wikia.com/wiki/Jethro_Tull:The_Broadsword_And_The_Beast_(1982)'}
+{'genre': u'Classic Rock',
+ 'title': u"Jethro Tull:Too Old To Rock 'n' Roll: Too Young To Die! (1976)",
+ 'url': u'http://lyrics.wikia.com/wiki/Jethro_Tull:Too_Old_To_Rock_%27n%27_Roll:_Too_Young_To_Die!_(1976)'}
+{'genre': u'Classic Rock',
+ 'title': u'Jethro Tull:Under Wraps (1984)',
+ 'url': u'http://lyrics.wikia.com/wiki/Jethro_Tull:Under_Wraps_(1984)'}
+{'genre': u'Classic Rock',
+ 'title': u'Jimi Hendrix',
+ 'url': u'http://lyrics.wikia.com/wiki/Jimi_Hendrix'}
+{'genre': u'Classic Rock',
+ 'title': u'John Lennon',
+ 'url': u'http://lyrics.wikia.com/wiki/John_Lennon'}
+{'genre': u'Classic Rock',
+ 'title': u'Kerry Livgren',
+ 'url': u'http://lyrics.wikia.com/wiki/Kerry_Livgren'}
+{'genre': u'Classic Rock',
+ 'title': u'Led Zeppelin',
+ 'url': u'http://lyrics.wikia.com/wiki/Led_Zeppelin'}
+{'genre': u'Classic Rock',
+ 'title': u'Lynyrd Skynyrd',
+ 'url': u'http://lyrics.wikia.com/wiki/Lynyrd_Skynyrd'}
+{'genre': u'Classic Rock',
+ 'title': u'Michael Moorcock & The Deep Fix',
+ 'url': u'http://lyrics.wikia.com/wiki/Michael_Moorcock_%26_The_Deep_Fix'}
+{'genre': u'Classic Rock',
+ 'title': u'Mudcrutch',
+ 'url': u'http://lyrics.wikia.com/wiki/Mudcrutch'}
+{'genre': u'Classic Rock',
+ 'title': u'Mylon LeFevre/Alvin Lee',
+ 'url': u'http://lyrics.wikia.com/wiki/Mylon_LeFevre/Alvin_Lee'}
+{'genre': u'Classic Rock',
+ 'title': u"Now That's What I Call Classic Rock (2008)",
+ 'url': u'http://lyrics.wikia.com/wiki/Now_That%27s_What_I_Call_Classic_Rock_(2008)'}
+{'genre': u'Classic Rock',
+ 'title': u'Off Cause',
+ 'url': u'http://lyrics.wikia.com/wiki/Off_Cause'}
+{'genre': u'Classic Rock',
+ 'title': u'Paul McCartney',
+ 'url': u'http://lyrics.wikia.com/wiki/Paul_McCartney'}
+{'genre': u'Classic Rock',
+ 'title': u'Paul Stanley',
+ 'url': u'http://lyrics.wikia.com/wiki/Paul_Stanley'}
+{'genre': u'Classic Rock',
+ 'title': u'Pink Floyd',
+ 'url': u'http://lyrics.wikia.com/wiki/Pink_Floyd'}
+{'genre': u'Classic Rock',
+ 'title': u'Procol Harum',
+ 'url': u'http://lyrics.wikia.com/wiki/Procol_Harum'}
+{'genre': u'Classic Rock',
+ 'title': u'Randy Bachman',
+ 'url': u'http://lyrics.wikia.com/wiki/Randy_Bachman'}
+{'genre': u'Classic Rock',
+ 'title': u'Randy Stonehill',
+ 'url': u'http://lyrics.wikia.com/wiki/Randy_Stonehill'}
+{'genre': u'Classic Rock',
+ 'title': u'Renaissance',
+ 'url': u'http://lyrics.wikia.com/wiki/Renaissance'}
+{'genre': u'Classic Rock',
+ 'title': u'Rich Robinson:The Ceaseless Sight (2014)',
+ 'url': u'http://lyrics.wikia.com/wiki/Rich_Robinson:The_Ceaseless_Sight_(2014)'}
+{'genre': u'Classic Rock',
+ 'title': u'Roger Waters:Radio K.A.O.S. (1987)',
+ 'url': u'http://lyrics.wikia.com/wiki/Roger_Waters:Radio_K.A.O.S._(1987)'}
+{'genre': u'Classic Rock',
+ 'title': u'Sammy Hagar',
+ 'url': u'http://lyrics.wikia.com/wiki/Sammy_Hagar'}
+{'genre': u'Classic Rock',
+ 'title': u'Sammy Hagar:Classic Masters (2002)',
+ 'url': u'http://lyrics.wikia.com/wiki/Sammy_Hagar:Classic_Masters_(2002)'}
+{'genre': u'Classic Rock',
+ 'title': u'Sammy Hagar:Rematch (1982)',
+ 'url': u'http://lyrics.wikia.com/wiki/Sammy_Hagar:Rematch_(1982)'}
+{'genre': u'Classic Rock',
+ 'title': u"Sarah 'n' Tormy",
+ 'url': u'http://lyrics.wikia.com/wiki/Sarah_%27n%27_Tormy'}
+{'genre': u'Classic Rock',
+ 'title': u'Savoy Brown',
+ 'url': u'http://lyrics.wikia.com/wiki/Savoy_Brown'}
+{'genre': u'Classic Rock',
+ 'title': u'Scorpions:The Sails Of Charon',
+ 'url': u'http://lyrics.wikia.com/wiki/Scorpions:The_Sails_Of_Charon'}
+{'genre': u'Classic Rock',
+ 'title': u'Steppenwolf',
+ 'url': u'http://lyrics.wikia.com/wiki/Steppenwolf'}
+{'genre': u'Classic Rock',
+ 'title': u'Steve Hackett',
+ 'url': u'http://lyrics.wikia.com/wiki/Steve_Hackett'}
+{'genre': u'Classic Rock',
+ 'title': u'Stone Axe',
+ 'url': u'http://lyrics.wikia.com/wiki/Stone_Axe'}
+{'genre': u'Classic Rock',
+ 'title': u'Styx',
+ 'url': u'http://lyrics.wikia.com/wiki/Styx'}
+{'genre': u'Classic Rock',
+ 'title': u'Tank (UK)',
+ 'url': u'http://lyrics.wikia.com/wiki/Tank_(UK)'}
+{'genre': u'Classic Rock',
+ 'title': u'The Animals',
+ 'url': u'http://lyrics.wikia.com/wiki/The_Animals'}
+{'genre': u'Classic Rock',
+ 'title': u'The Black Crowes:Croweology (2010)',
+ 'url': u'http://lyrics.wikia.com/wiki/The_Black_Crowes:Croweology_(2010)'}
+{'genre': u'Classic Rock',
+ 'title': u'The Black Crowes:Warpaint (2008)',
+ 'url': u'http://lyrics.wikia.com/wiki/The_Black_Crowes:Warpaint_(2008)'}
+{'genre': u'Classic Rock',
+ 'title': u'The Doors',
+ 'url': u'http://lyrics.wikia.com/wiki/The_Doors'}
+{'genre': u'Classic Rock',
+ 'title': u'The Guess Who',
+ 'url': u'http://lyrics.wikia.com/wiki/The_Guess_Who'}
+{'genre': u'Classic Rock',
+ 'title': u'The Hollies',
+ 'url': u'http://lyrics.wikia.com/wiki/The_Hollies'}
+{'genre': u'Classic Rock',
+ 'title': u'The Jimi Hendrix Experience',
+ 'url': u'http://lyrics.wikia.com/wiki/The_Jimi_Hendrix_Experience'}
+{'genre': u'Classic Rock',
+ 'title': u"The Joe Perry Project:I've Got The Rock 'n' Rolls Again (1981)",
+ 'url': u'http://lyrics.wikia.com/wiki/The_Joe_Perry_Project:I%27ve_Got_The_Rock_%27n%27_Rolls_Again_(1981)'}
+{'genre': u'Classic Rock',
+ 'title': u'The Joe Perry Project:Once A Rocker, Always A Rocker (1983)',
+ 'url': u'http://lyrics.wikia.com/wiki/The_Joe_Perry_Project:Once_A_Rocker,_Always_A_Rocker_(1983)'}
+{'genre': u'Classic Rock',
+ 'title': u'The Kinks',
+ 'url': u'http://lyrics.wikia.com/wiki/The_Kinks'}
+{'genre': u'Classic Rock',
+ 'title': u'The Nice',
+ 'url': u'http://lyrics.wikia.com/wiki/The_Nice'}
+{'genre': u'Classic Rock',
+ 'title': u'The Night Flight Orchestra',
+ 'url': u'http://lyrics.wikia.com/wiki/The_Night_Flight_Orchestra'}
+{'genre': u'Classic Rock',
+ 'title': u'The Night Flight Orchestra:Internal Affairs (2012)',
+ 'url': u'http://lyrics.wikia.com/wiki/The_Night_Flight_Orchestra:Internal_Affairs_(2012)'}
+{'genre': u'Classic Rock',
+ 'title': u'The Pretty Things:S.F. Sorrow (1968)',
+ 'url': u'http://lyrics.wikia.com/wiki/The_Pretty_Things:S.F._Sorrow_(1968)'}
+{'genre': u'Classic Rock',
+ 'title': u'The Rokes',
+ 'url': u'http://lyrics.wikia.com/wiki/The_Rokes'}
+{'genre': u'Classic Rock',
+ 'title': u'The Who',
+ 'url': u'http://lyrics.wikia.com/wiki/The_Who'}
+{'genre': u'Classic Rock',
+ 'title': u'Tin House',
+ 'url': u'http://lyrics.wikia.com/wiki/Tin_House'}
+{'genre': u'Classic Rock',
+ 'title': u'Tom Petty',
+ 'url': u'http://lyrics.wikia.com/wiki/Tom_Petty'}
+{'genre': u'Classic Rock',
+ 'title': u'Tom Petty And The Heartbreakers',
+ 'url': u'http://lyrics.wikia.com/wiki/Tom_Petty_And_The_Heartbreakers'}
+{'genre': u'Classic Rock',
+ 'title': u'Traveling Wilburys:The Traveling Wilburys Collection (2007)',
+ 'url': u'http://lyrics.wikia.com/wiki/Traveling_Wilburys:The_Traveling_Wilburys_Collection_(2007)'}
+{'genre': u'Classic Pop',
+ 'title': u'Barbra Streisand:On A Clear Day You Can See Forever (1970)',
+ 'url': u'http://lyrics.wikia.com/wiki/Barbra_Streisand:On_A_Clear_Day_You_Can_See_Forever_(1970)'}
+{'genre': u'Classic Pop',
+ 'title': u'Barbra Streisand:The Barbra Streisand Album (1963)',
+ 'url': u'http://lyrics.wikia.com/wiki/Barbra_Streisand:The_Barbra_Streisand_Album_(1963)'}
+{'genre': u'Classic Pop',
+ 'title': u'Bing Crosby',
+ 'url': u'http://lyrics.wikia.com/wiki/Bing_Crosby'}
+{'genre': u'Classic Pop',
+ 'title': u'Dean Martin',
+ 'url': u'http://lyrics.wikia.com/wiki/Dean_Martin'}
+{'genre': u'Classic Pop',
+ 'title': u"Dean Martin:(Remember Me) I'm The One Who Loves You (1965)",
+ 'url': u'http://lyrics.wikia.com/wiki/Dean_Martin:(Remember_Me)_I%27m_The_One_Who_Loves_You_(1965)'}
+{'genre': u'Classic Pop',
+ 'title': u'Dean Martin:A Winter Romance (1959)',
+ 'url': u'http://lyrics.wikia.com/wiki/Dean_Martin:A_Winter_Romance_(1959)'}
+{'genre': u'Classic Pop',
+ 'title': u'Dean Martin:All-Time Greatest Hits (1990)',
+ 'url': u'http://lyrics.wikia.com/wiki/Dean_Martin:All-Time_Greatest_Hits_(1990)'}
+{'genre': u'Classic Pop',
+ 'title': u'Dean Martin:Bells Are Ringing (1960)',
+ 'url': u'http://lyrics.wikia.com/wiki/Dean_Martin:Bells_Are_Ringing_(1960)'}
+{'genre': u'Classic Pop',
+ 'title': u'Dean Martin:Best Of Dean Martin (1990)',
+ 'url': u'http://lyrics.wikia.com/wiki/Dean_Martin:Best_Of_Dean_Martin_(1990)'}
+{'genre': u'Classic Pop',
+ 'title': u'Dean Martin:Cha Cha De Amor (1962)',
+ 'url': u'http://lyrics.wikia.com/wiki/Dean_Martin:Cha_Cha_De_Amor_(1962)'}
+{'genre': u'Classic Pop',
+ 'title': u'Dean Martin:Dean Martin Hits Again (1965)',
+ 'url': u'http://lyrics.wikia.com/wiki/Dean_Martin:Dean_Martin_Hits_Again_(1965)'}
+{'genre': u'Classic Pop',
+ 'title': u'Dean Martin:Dean Martin Sings (1953)',
+ 'url': u'http://lyrics.wikia.com/wiki/Dean_Martin:Dean_Martin_Sings_(1953)'}
+{'genre': u'Classic Pop',
+ 'title': u'Dean Martin:Dean Martin Sings - Nicolini Lucchesi Plays (1959)',
+ 'url': u'http://lyrics.wikia.com/wiki/Dean_Martin:Dean_Martin_Sings_-_Nicolini_Lucchesi_Plays_(1959)'}
+{'genre': u'Classic Pop',
+ 'title': u"Dean Martin:Dean Martin's Mambo Italiano (1965)",
+ 'url': u'http://lyrics.wikia.com/wiki/Dean_Martin:Dean_Martin%27s_Mambo_Italiano_(1965)'}
+{'genre': u'Classic Pop',
+ 'title': u'Dean Martin:Dino (1972)',
+ 'url': u'http://lyrics.wikia.com/wiki/Dean_Martin:Dino_(1972)'}
+{'genre': u'Classic Pop',
+ 'title': u'Dean Martin:Dino Latino (1963)',
+ 'url': u'http://lyrics.wikia.com/wiki/Dean_Martin:Dino_Latino_(1963)'}
+{'genre': u'Classic Pop',
+ 'title': u'Dean Martin:Dino: Italian Love Songs (1962)',
+ 'url': u'http://lyrics.wikia.com/wiki/Dean_Martin:Dino:_Italian_Love_Songs_(1962)'}
+{'genre': u'Classic Pop',
+ 'title': u'Dean Martin:Dream With Dean (1964)',
+ 'url': u'http://lyrics.wikia.com/wiki/Dean_Martin:Dream_With_Dean_(1964)'}
+{'genre': u'Classic Pop',
+ 'title': u'Dean Martin:Everybody Loves Somebody (1964)',
+ 'url': u'http://lyrics.wikia.com/wiki/Dean_Martin:Everybody_Loves_Somebody_(1964)'}
+{'genre': u'Classic Pop',
+ 'title': u'Dean Martin:For The Good Times (1971)',
+ 'url': u'http://lyrics.wikia.com/wiki/Dean_Martin:For_The_Good_Times_(1971)'}
+{'genre': u'Classic Pop',
+ 'title': u'Dean Martin:Gentle On My Mind (1968)',
+ 'url': u'http://lyrics.wikia.com/wiki/Dean_Martin:Gentle_On_My_Mind_(1968)'}
+{'genre': u'Classic Pop',
+ 'title': u'Dean Martin:Happiness Is Dean Martin (1967)',
+ 'url': u'http://lyrics.wikia.com/wiki/Dean_Martin:Happiness_Is_Dean_Martin_(1967)'}
+{'genre': u'Classic Pop',
+ 'title': u'Dean Martin:Happy In Love (1966)',
+ 'url': u'http://lyrics.wikia.com/wiki/Dean_Martin:Happy_In_Love_(1966)'}
+{'genre': u'Classic Pop',
+ 'title': u'Dean Martin:Hey, Brother, Pour The Wine (1964)',
+ 'url': u'http://lyrics.wikia.com/wiki/Dean_Martin:Hey,_Brother,_Pour_The_Wine_(1964)'}
+{'genre': u'Classic Pop',
+ 'title': u'Dean Martin:Houston (1965)',
+ 'url': u'http://lyrics.wikia.com/wiki/Dean_Martin:Houston_(1965)'}
+{'genre': u'Classic Pop',
+ 'title': u"Dean Martin:I Can't Give You Anything But Love (1968)",
+ 'url': u'http://lyrics.wikia.com/wiki/Dean_Martin:I_Can%27t_Give_You_Anything_But_Love_(1968)'}
+{'genre': u'Classic Pop',
+ 'title': u'Dean Martin:I Take A Lot Of Pride In What I Am (1969)',
+ 'url': u'http://lyrics.wikia.com/wiki/Dean_Martin:I_Take_A_Lot_Of_Pride_In_What_I_Am_(1969)'}
+{'genre': u'Classic Pop',
+ 'title': u"Dean Martin:Let's Be Friendly (1962)",
+ 'url': u'http://lyrics.wikia.com/wiki/Dean_Martin:Let%27s_Be_Friendly_(1962)'}
+{'genre': u'Classic Pop',
+ 'title': u'Dean Martin:Like Never Before (1967)',
+ 'url': u'http://lyrics.wikia.com/wiki/Dean_Martin:Like_Never_Before_(1967)'}
+{'genre': u'Classic Pop',
+ 'title': u'Dean Martin:Love Songs (2009)',
+ 'url': u'http://lyrics.wikia.com/wiki/Dean_Martin:Love_Songs_(2009)'}
+{'genre': u'Classic Pop',
+ 'title': u'Dean Martin:Love Songs By Dean Martin (1997)',
+ 'url': u'http://lyrics.wikia.com/wiki/Dean_Martin:Love_Songs_By_Dean_Martin_(1997)'}
+{'genre': u'Classic Pop',
+ 'title': u'Dean Martin:Memories Are Made Of This (1997)',
+ 'url': u'http://lyrics.wikia.com/wiki/Dean_Martin:Memories_Are_Made_Of_This_(1997)'}
+{'genre': u'Classic Pop',
+ 'title': u'Dean Martin:My Woman, My Woman, My Wife (1970)',
+ 'url': u'http://lyrics.wikia.com/wiki/Dean_Martin:My_Woman,_My_Woman,_My_Wife_(1970)'}
+{'genre': u'Classic Pop',
+ 'title': u'Dean Martin:Nashville Sessions (1983)',
+ 'url': u'http://lyrics.wikia.com/wiki/Dean_Martin:Nashville_Sessions_(1983)'}
+{'genre': u'Classic Pop',
+ 'title': u'Dean Martin:Once In A While (1978)',
+ 'url': u'http://lyrics.wikia.com/wiki/Dean_Martin:Once_In_A_While_(1978)'}
+{'genre': u'Classic Pop',
+ 'title': u'Dean Martin:Pretty Baby (1957)',
+ 'url': u'http://lyrics.wikia.com/wiki/Dean_Martin:Pretty_Baby_(1957)'}
+{'genre': u'Classic Pop',
+ 'title': u"Dean Martin:Relaxin' (1966)",
+ 'url': u'http://lyrics.wikia.com/wiki/Dean_Martin:Relaxin%27_(1966)'}
+{'genre': u'Classic Pop',
+ 'title': u"Dean Martin:Sittin' On The Top Of The World (1973)",
+ 'url': u'http://lyrics.wikia.com/wiki/Dean_Martin:Sittin%27_On_The_Top_Of_The_World_(1973)'}
+{'genre': u'Classic Pop',
+ 'title': u'Dean Martin:Sleep Warm (1959)',
+ 'url': u'http://lyrics.wikia.com/wiki/Dean_Martin:Sleep_Warm_(1959)'}
+{'genre': u'Classic Pop',
+ 'title': u"Dean Martin:Somewhere There's A Someone (1966)",
+ 'url': u'http://lyrics.wikia.com/wiki/Dean_Martin:Somewhere_There%27s_A_Someone_(1966)'}
+{'genre': u'Classic Pop',
+ 'title': u'Dean Martin:Songs From The Silencers (1966)',
+ 'url': u'http://lyrics.wikia.com/wiki/Dean_Martin:Songs_From_The_Silencers_(1966)'}
+{'genre': u'Classic Pop',
+ 'title': u'Dean Martin:Spotlight On Dean Martin (1995)',
+ 'url': u'http://lyrics.wikia.com/wiki/Dean_Martin:Spotlight_On_Dean_Martin_(1995)'}
+{'genre': u'Classic Pop',
+ 'title': u"Dean Martin:Swingin' Down Yonder (1955)",
+ 'url': u'http://lyrics.wikia.com/wiki/Dean_Martin:Swingin%27_Down_Yonder_(1955)'}
+{'genre': u'Classic Pop',
+ 'title': u'Dean Martin:The Capitol Years (1996)',
+ 'url': u'http://lyrics.wikia.com/wiki/Dean_Martin:The_Capitol_Years_(1996)'}
+{'genre': u'Classic Pop',
+ 'title': u'Dean Martin:The Dean Martin TV Show (1966)',
+ 'url': u'http://lyrics.wikia.com/wiki/Dean_Martin:The_Dean_Martin_TV_Show_(1966)'}
+{'genre': u'Classic Pop',
+ 'title': u'Dean Martin:The Door Is Still Open To My Heart (1964)',
+ 'url': u'http://lyrics.wikia.com/wiki/Dean_Martin:The_Door_Is_Still_Open_To_My_Heart_(1964)'}
+{'genre': u'Classic Pop',
+ 'title': u'Dean Martin:The Great Dean Martin (1993)',
+ 'url': u'http://lyrics.wikia.com/wiki/Dean_Martin:The_Great_Dean_Martin_(1993)'}
+{'genre': u'Classic Pop',
+ 'title': u'Dean Martin:The Lush Years (1965)',
+ 'url': u'http://lyrics.wikia.com/wiki/Dean_Martin:The_Lush_Years_(1965)'}
+{'genre': u'Classic Pop',
+ 'title': u'Dean Martin:This Is Dean Martin (1958)',
+ 'url': u'http://lyrics.wikia.com/wiki/Dean_Martin:This_Is_Dean_Martin_(1958)'}
+{'genre': u'Classic Pop',
+ 'title': u"Dean Martin:This Time I'm Swingin'! (1960)",
+ 'url': u'http://lyrics.wikia.com/wiki/Dean_Martin:This_Time_I%27m_Swingin%27!_(1960)'}
+{'genre': u'Classic Pop',
+ 'title': u'Dean Martin:Welcome To My World (1967)',
+ 'url': u'http://lyrics.wikia.com/wiki/Dean_Martin:Welcome_To_My_World_(1967)'}
+{'genre': u'Classic Pop',
+ 'title': u"Dean Martin:You Can't Love 'Em All (1967)",
+ 'url': u'http://lyrics.wikia.com/wiki/Dean_Martin:You_Can%27t_Love_%27Em_All_(1967)'}
+{'genre': u'Classic Pop',
+ 'title': u"Dean Martin:You're The Best Thing That Ever Happened To Me (1973)",
+ 'url': u'http://lyrics.wikia.com/wiki/Dean_Martin:You%27re_The_Best_Thing_That_Ever_Happened_To_Me_(1973)'}
+{'genre': u'Classic Pop',
+ 'title': u'Dean Martin:Young & Foolish (1969)',
+ 'url': u'http://lyrics.wikia.com/wiki/Dean_Martin:Young_%26_Foolish_(1969)'}
+{'genre': u'Classic Pop',
+ 'title': u'Ella Fitzgerald',
+ 'url': u'http://lyrics.wikia.com/wiki/Ella_Fitzgerald'}
+{'genre': u'Classic Pop',
+ 'title': u'Frank Sinatra',
+ 'url': u'http://lyrics.wikia.com/wiki/Frank_Sinatra'}
+{'genre': u'Classic Pop',
+ 'title': u'Frank Sinatra & Count Basie:It Might As Well Be Swing (1964)',
+ 'url': u'http://lyrics.wikia.com/wiki/Frank_Sinatra_%26_Count_Basie:It_Might_As_Well_Be_Swing_(1964)'}
+{'genre': u'Classic Pop',
+ 'title': u'Frank Sinatra & Count Basie:Sinatra-Basie (1963)',
+ 'url': u'http://lyrics.wikia.com/wiki/Frank_Sinatra_%26_Count_Basie:Sinatra-Basie_(1963)'}
+{'genre': u'Classic Pop',
+ 'title': u"Frank Sinatra & The Tommy Dorsey Orchestra:I'll Be Seeing You (1994)",
+ 'url': u'http://lyrics.wikia.com/wiki/Frank_Sinatra_%26_The_Tommy_Dorsey_Orchestra:I%27ll_Be_Seeing_You_(1994)'}
+{'genre': u'Classic Pop',
+ 'title': u'Frank Sinatra:16 Most Requested Songs (1992)',
+ 'url': u'http://lyrics.wikia.com/wiki/Frank_Sinatra:16_Most_Requested_Songs_(1992)'}
+{'genre': u'Classic Pop',
+ 'title': u'Frank Sinatra:1946: Old Gold Shows (1994)',
+ 'url': u'http://lyrics.wikia.com/wiki/Frank_Sinatra:1946:_Old_Gold_Shows_(1994)'}
+{'genre': u'Classic Pop',
+ 'title': u'Frank Sinatra:A Fine Romance: The Love Songs Of Frank Sinatra (2003)',
+ 'url': u'http://lyrics.wikia.com/wiki/Frank_Sinatra:A_Fine_Romance:_The_Love_Songs_Of_Frank_Sinatra_(2003)'}
+{'genre': u'Classic Pop',
+ 'title': u'Frank Sinatra:A Jolly Christmas From Frank Sinatra (1957)',
+ 'url': u'http://lyrics.wikia.com/wiki/Frank_Sinatra:A_Jolly_Christmas_From_Frank_Sinatra_(1957)'}
+{'genre': u'Classic Pop',
+ 'title': u'Frank Sinatra:A Man Alone: The Words And Music Of McKuen (1969)',
+ 'url': u'http://lyrics.wikia.com/wiki/Frank_Sinatra:A_Man_Alone:_The_Words_And_Music_Of_McKuen_(1969)'}
+{'genre': u'Classic Pop',
+ 'title': u'Frank Sinatra:A Man And His Music (1965)',
+ 'url': u'http://lyrics.wikia.com/wiki/Frank_Sinatra:A_Man_And_His_Music_(1965)'}
+{'genre': u'Classic Pop',
+ 'title': u"Frank Sinatra:A Swingin' Affair! (1957)",
+ 'url': u'http://lyrics.wikia.com/wiki/Frank_Sinatra:A_Swingin%27_Affair!_(1957)'}
+{'genre': u'Classic Pop',
+ 'title': u'Frank Sinatra:All Alone (1962)',
+ 'url': u'http://lyrics.wikia.com/wiki/Frank_Sinatra:All_Alone_(1962)'}
+{'genre': u'Classic Pop',
+ 'title': u'Frank Sinatra:All Or Nothing At All (2002)',
+ 'url': u'http://lyrics.wikia.com/wiki/Frank_Sinatra:All_Or_Nothing_At_All_(2002)'}
+{'genre': u'Classic Pop',
+ 'title': u'Frank Sinatra:All The Way (1961)',
+ 'url': u'http://lyrics.wikia.com/wiki/Frank_Sinatra:All_The_Way_(1961)'}
+{'genre': u'Classic Pop',
+ 'title': u'Frank Sinatra:Christmas Songs By Sinatra (1948)',
+ 'url': u'http://lyrics.wikia.com/wiki/Frank_Sinatra:Christmas_Songs_By_Sinatra_(1948)'}
+{'genre': u'Classic Pop',
+ 'title': u'Frank Sinatra:Classic Duets (2002)',
+ 'url': u'http://lyrics.wikia.com/wiki/Frank_Sinatra:Classic_Duets_(2002)'}
+{'genre': u'Classic Pop',
+ 'title': u'Frank Sinatra:Close To You (1957)',
+ 'url': u'http://lyrics.wikia.com/wiki/Frank_Sinatra:Close_To_You_(1957)'}
+{'genre': u'Classic Pop',
+ 'title': u'Frank Sinatra:Come Dance With Me! (1959)',
+ 'url': u'http://lyrics.wikia.com/wiki/Frank_Sinatra:Come_Dance_With_Me!_(1959)'}
+{'genre': u'Classic Pop',
+ 'title': u'Frank Sinatra:Come Fly With Me (1958)',
+ 'url': u'http://lyrics.wikia.com/wiki/Frank_Sinatra:Come_Fly_With_Me_(1958)'}
+{'genre': u'Classic Pop',
+ 'title': u'Frank Sinatra:Come Swing With Me! (1961)',
+ 'url': u'http://lyrics.wikia.com/wiki/Frank_Sinatra:Come_Swing_With_Me!_(1961)'}
+{'genre': u'Classic Pop',
+ 'title': u'Frank Sinatra:Cycles (1968)',
+ 'url': u'http://lyrics.wikia.com/wiki/Frank_Sinatra:Cycles_(1968)'}
+{'genre': u'Classic Pop',
+ 'title': u'Frank Sinatra:Dedicated To You (1950)',
+ 'url': u'http://lyrics.wikia.com/wiki/Frank_Sinatra:Dedicated_To_You_(1950)'}
+{'genre': u'Classic Pop',
+ 'title': u'Frank Sinatra:Duets (1993)',
+ 'url': u'http://lyrics.wikia.com/wiki/Frank_Sinatra:Duets_(1993)'}
+{'genre': u'Classic Pop',
+ 'title': u'Frank Sinatra:Duets II (1994)',
+ 'url': u'http://lyrics.wikia.com/wiki/Frank_Sinatra:Duets_II_(1994)'}
+{'genre': u'Classic Pop',
+ 'title': u'Frank Sinatra:Everything Happens To Me (1996)',
+ 'url': u'http://lyrics.wikia.com/wiki/Frank_Sinatra:Everything_Happens_To_Me_(1996)'}
+{'genre': u'Classic Pop',
+ 'title': u'Frank Sinatra:Forever Frank (1966)',
+ 'url': u'http://lyrics.wikia.com/wiki/Frank_Sinatra:Forever_Frank_(1966)'}
+{'genre': u'Classic Pop',
+ 'title': u'Frank Sinatra:Francis A. & Edward K. (1968)',
+ 'url': u'http://lyrics.wikia.com/wiki/Frank_Sinatra:Francis_A._%26_Edward_K._(1968)'}
+{'genre': u'Classic Pop',
+ 'title': u'Frank Sinatra:Francis Albert Sinatra & Antonio Carlos Jobim (1967)',
+ 'url': u'http://lyrics.wikia.com/wiki/Frank_Sinatra:Francis_Albert_Sinatra_%26_Antonio_Carlos_Jobim_(1967)'}
+{'genre': u'Classic Pop',
+ 'title': u'Frank Sinatra:Frank Sinatra Remembers The Movies 1943 - 1946 (1997)',
+ 'url': u'http://lyrics.wikia.com/wiki/Frank_Sinatra:Frank_Sinatra_Remembers_The_Movies_1943_-_1946_(1997)'}
+{'genre': u'Classic Pop',
+ 'title': u'Frank Sinatra:Frank Sinatra Sings For Only The Lonely (1958)',
+ 'url': u'http://lyrics.wikia.com/wiki/Frank_Sinatra:Frank_Sinatra_Sings_For_Only_The_Lonely_(1958)'}
+{'genre': u'Classic Pop',
+ 'title': u'Frank Sinatra:Frank Sinatra Sings His Greatest Hits (1997)',
+ 'url': u'http://lyrics.wikia.com/wiki/Frank_Sinatra:Frank_Sinatra_Sings_His_Greatest_Hits_(1997)'}
+{'genre': u'Classic Pop',
+ 'title': u'Frank Sinatra:Frank Sinatra With The Red Norvo Quintet: Live In Australia, 1959 (1997)',
+ 'url': u'http://lyrics.wikia.com/wiki/Frank_Sinatra:Frank_Sinatra_With_The_Red_Norvo_Quintet:_Live_In_Australia,_1959_(1997)'}
+{'genre': u'Classic Pop',
+ 'title': u"Frank Sinatra:Frank Sinatra's Greatest Hits Vol. 2 (1972)",
+ 'url': u'http://lyrics.wikia.com/wiki/Frank_Sinatra:Frank_Sinatra%27s_Greatest_Hits_Vol._2_(1972)'}
+{'genre': u'Classic Pop',
+ 'title': u"Frank Sinatra:Frank Sinatra's Greatest Hits! (1968)",
+ 'url': u'http://lyrics.wikia.com/wiki/Frank_Sinatra:Frank_Sinatra%27s_Greatest_Hits!_(1968)'}
+{'genre': u'Classic Pop',
+ 'title': u'Frank Sinatra:Frankly Sentimental (1949)',
+ 'url': u'http://lyrics.wikia.com/wiki/Frank_Sinatra:Frankly_Sentimental_(1949)'}
+{'genre': u'Classic Pop',
+ 'title': u'Frank Sinatra:Gold (1992)',
+ 'url': u'http://lyrics.wikia.com/wiki/Frank_Sinatra:Gold_(1992)'}
+{'genre': u'Classic Pop',
+ 'title': u'Frank Sinatra:I Remember Tommy.. (1961)',
+ 'url': u'http://lyrics.wikia.com/wiki/Frank_Sinatra:I_Remember_Tommy.._(1961)'}
+{'genre': u'Classic Pop',
+ 'title': u"Frank Sinatra:I've Got A Crush On You (1995)",
+ 'url': u'http://lyrics.wikia.com/wiki/Frank_Sinatra:I%27ve_Got_A_Crush_On_You_(1995)'}
+{'genre': u'Classic Pop',
+ 'title': u'Frank Sinatra:In The Wee Small Hours (1955)',
+ 'url': u'http://lyrics.wikia.com/wiki/Frank_Sinatra:In_The_Wee_Small_Hours_(1955)'}
+{'genre': u'Classic Pop',
+ 'title': u'Frank Sinatra:L.A. Is My Lady (1984)',
+ 'url': u'http://lyrics.wikia.com/wiki/Frank_Sinatra:L.A._Is_My_Lady_(1984)'}
+{'genre': u'Classic Pop',
+ 'title': u'Frank Sinatra:Live From Las Vegas (2005)',
+ 'url': u'http://lyrics.wikia.com/wiki/Frank_Sinatra:Live_From_Las_Vegas_(2005)'}
+{'genre': u'Classic Pop',
+ 'title': u'Frank Sinatra:Look To Your Heart (1959)',
+ 'url': u'http://lyrics.wikia.com/wiki/Frank_Sinatra:Look_To_Your_Heart_(1959)'}
+{'genre': u'Classic Pop',
+ 'title': u'Frank Sinatra:Moonlight Sinatra (1966)',
+ 'url': u'http://lyrics.wikia.com/wiki/Frank_Sinatra:Moonlight_Sinatra_(1966)'}
+{'genre': u'Classic Pop',
+ 'title': u'Frank Sinatra:My Kind Of Broadway (1965)',
+ 'url': u'http://lyrics.wikia.com/wiki/Frank_Sinatra:My_Kind_Of_Broadway_(1965)'}
+{'genre': u'Classic Pop',
+ 'title': u'Frank Sinatra:My Shining Hour (1994)',
+ 'url': u'http://lyrics.wikia.com/wiki/Frank_Sinatra:My_Shining_Hour_(1994)'}
+{'genre': u'Classic Pop',
+ 'title': u'Frank Sinatra:My Way (1969)',
+ 'url': u'http://lyrics.wikia.com/wiki/Frank_Sinatra:My_Way_(1969)'}
+{'genre': u'Classic Pop',
+ 'title': u"Frank Sinatra:Nice 'N' Easy (1960)",
+ 'url': u'http://lyrics.wikia.com/wiki/Frank_Sinatra:Nice_%27N%27_Easy_(1960)'}
+{'genre': u'Classic Pop',
+ 'title': u'Frank Sinatra:Night And Day (1997)',
+ 'url': u'http://lyrics.wikia.com/wiki/Frank_Sinatra:Night_And_Day_(1997)'}
+{'genre': u'Classic Pop',
+ 'title': u'Frank Sinatra:No One Cares (1959)',
+ 'url': u'http://lyrics.wikia.com/wiki/Frank_Sinatra:No_One_Cares_(1959)'}
+{'genre': u'Classic Pop',
+ 'title': u"Frank Sinatra:Ol' Blue Eyes Is Back (1973)",
+ 'url': u'http://lyrics.wikia.com/wiki/Frank_Sinatra:Ol%27_Blue_Eyes_Is_Back_(1973)'}
+{'genre': u'Classic Pop',
+ 'title': u'Frank Sinatra:Point Of No Return (1962)',
+ 'url': u'http://lyrics.wikia.com/wiki/Frank_Sinatra:Point_Of_No_Return_(1962)'}
+{'genre': u'Classic Pop',
+ 'title': u'Frank Sinatra:Put Your Dreams Away (1958)',
+ 'url': u'http://lyrics.wikia.com/wiki/Frank_Sinatra:Put_Your_Dreams_Away_(1958)'}
+{'genre': u'Classic Pop',
+ 'title': u'Frank Sinatra:Ring-A-Ding Ding! (1961)',
+ 'url': u'http://lyrics.wikia.com/wiki/Frank_Sinatra:Ring-A-Ding_Ding!_(1961)'}
+{'genre': u'Classic Pop',
+ 'title': u'Frank Sinatra:September Of My Years (1965)',
+ 'url': u'http://lyrics.wikia.com/wiki/Frank_Sinatra:September_Of_My_Years_(1965)'}
+{'genre': u'Classic Pop',
+ 'title': u'Frank Sinatra:She Shot Me Down (1981)',
+ 'url': u'http://lyrics.wikia.com/wiki/Frank_Sinatra:She_Shot_Me_Down_(1981)'}
+{'genre': u'Classic Pop',
+ 'title': u'Frank Sinatra:Sinatra & Company (1971)',
+ 'url': u'http://lyrics.wikia.com/wiki/Frank_Sinatra:Sinatra_%26_Company_(1971)'}
+{'genre': u'Classic Pop',
+ 'title': u'Frank Sinatra:Sinatra & Strings (1962)',
+ 'url': u'http://lyrics.wikia.com/wiki/Frank_Sinatra:Sinatra_%26_Strings_(1962)'}
+{'genre': u'Classic Pop',
+ 'title': u"Frank Sinatra:Sinatra '65 (1965)",
+ 'url': u'http://lyrics.wikia.com/wiki/Frank_Sinatra:Sinatra_%2765_(1965)'}
+{'genre': u'Classic Pop',
+ 'title': u"Frank Sinatra:Sinatra And Swingin' Brass (1962)",
+ 'url': u'http://lyrics.wikia.com/wiki/Frank_Sinatra:Sinatra_And_Swingin%27_Brass_(1962)'}
+{'genre': u'Classic Pop',
+ 'title': u'Frank Sinatra:Sinatra At The Sands (1966)',
+ 'url': u'http://lyrics.wikia.com/wiki/Frank_Sinatra:Sinatra_At_The_Sands_(1966)'}
+{'genre': u'Classic Pop',
+ 'title': u'Frank Sinatra:Sinatra Sings Cole Porter (2003)',
+ 'url': u'http://lyrics.wikia.com/wiki/Frank_Sinatra:Sinatra_Sings_Cole_Porter_(2003)'}
+{'genre': u'Classic Pop',
+ 'title': u'Frank Sinatra:Sinatra Sings Days Of Wine And Roses, Moon River, And Other Academy Award Winners (1964)',
+ 'url': u'http://lyrics.wikia.com/wiki/Frank_Sinatra:Sinatra_Sings_Days_Of_Wine_And_Roses,_Moon_River,_And_Other_Academy_Award_Winners_(1964)'}
+{'genre': u'Classic Pop',
+ 'title': u'Frank Sinatra:Sinatra Sings Great Songs From Great Britain (1962)',
+ 'url': u'http://lyrics.wikia.com/wiki/Frank_Sinatra:Sinatra_Sings_Great_Songs_From_Great_Britain_(1962)'}
+{'genre': u'Classic Pop',
+ 'title': u'Frank Sinatra:Sinatra Sings...Of Love And Things (1962)',
+ 'url': u'http://lyrics.wikia.com/wiki/Frank_Sinatra:Sinatra_Sings...Of_Love_And_Things_(1962)'}
+{'genre': u'Classic Pop',
+ 'title': u'Frank Sinatra:Sinatra Swings (1961)',
+ 'url': u'http://lyrics.wikia.com/wiki/Frank_Sinatra:Sinatra_Swings_(1961)'}
+{'genre': u'Classic Pop',
+ 'title': u"Frank Sinatra:Sinatra's Sinatra (1963)",
+ 'url': u'http://lyrics.wikia.com/wiki/Frank_Sinatra:Sinatra%27s_Sinatra_(1963)'}
+{'genre': u'Classic Pop',
+ 'title': u"Frank Sinatra:Sinatra's Swingin' Session !!! (1961)",
+ 'url': u'http://lyrics.wikia.com/wiki/Frank_Sinatra:Sinatra%27s_Swingin%27_Session_!!!_(1961)'}
+{'genre': u'Classic Pop',
+ 'title': u'Frank Sinatra:Sing And Dance With Frank Sinatra (1950)',
+ 'url': u'http://lyrics.wikia.com/wiki/Frank_Sinatra:Sing_And_Dance_With_Frank_Sinatra_(1950)'}
+{'genre': u'Classic Pop',
+ 'title': u'Frank Sinatra:Sings The Select Rodgers & Hart (1995)',
+ 'url': u'http://lyrics.wikia.com/wiki/Frank_Sinatra:Sings_The_Select_Rodgers_%26_Hart_(1995)'}
+{'genre': u'Classic Pop',
+ 'title': u'Frank Sinatra:Softly, As I Leave You (1964)',
+ 'url': u'http://lyrics.wikia.com/wiki/Frank_Sinatra:Softly,_As_I_Leave_You_(1964)'}
+{'genre': u'Classic Pop',
+ 'title': u"Frank Sinatra:Some Nice Things I've Missed (1974)",
+ 'url': u'http://lyrics.wikia.com/wiki/Frank_Sinatra:Some_Nice_Things_I%27ve_Missed_(1974)'}
+{'genre': u'Classic Pop',
+ 'title': u'Frank Sinatra:Songs By Sinatra - The Old Gold Shows Volume 4 (1998)',
+ 'url': u'http://lyrics.wikia.com/wiki/Frank_Sinatra:Songs_By_Sinatra_-_The_Old_Gold_Shows_Volume_4_(1998)'}
+{'genre': u'Classic Pop',
+ 'title': u'Frank Sinatra:Songs By Sinatra, Volume 1 (1950)',
+ 'url': u'http://lyrics.wikia.com/wiki/Frank_Sinatra:Songs_By_Sinatra,_Volume_1_(1950)'}
+{'genre': u'Classic Pop',
+ 'title': u"Frank Sinatra:Songs For Swingin' Lovers! (1956)",
+ 'url': u'http://lyrics.wikia.com/wiki/Frank_Sinatra:Songs_For_Swingin%27_Lovers!_(1956)'}
+{'genre': u'Classic Pop',
+ 'title': u'Frank Sinatra:Songs For Young Lovers (1954)',
+ 'url': u'http://lyrics.wikia.com/wiki/Frank_Sinatra:Songs_For_Young_Lovers_(1954)'}
+{'genre': u'Classic Pop',
+ 'title': u'Frank Sinatra:Strangers In The Night (1966)',
+ 'url': u'http://lyrics.wikia.com/wiki/Frank_Sinatra:Strangers_In_The_Night_(1966)'}
+{'genre': u'Classic Pop',
+ 'title': u'Frank Sinatra:Swing And Dance With Frank Sinatra (1996)',
+ 'url': u'http://lyrics.wikia.com/wiki/Frank_Sinatra:Swing_And_Dance_With_Frank_Sinatra_(1996)'}
+{'genre': u'Classic Pop',
+ 'title': u'Frank Sinatra:Swing Easy! (1954)',
+ 'url': u'http://lyrics.wikia.com/wiki/Frank_Sinatra:Swing_Easy!_(1954)'}
+{'genre': u'Classic Pop',
+ 'title': u'Frank Sinatra:Tell Her You Love Her (1963)',
+ 'url': u'http://lyrics.wikia.com/wiki/Frank_Sinatra:Tell_Her_You_Love_Her_(1963)'}
+{'genre': u'Classic Pop',
+ 'title': u"Frank Sinatra:That's Life (1966)",
+ 'url': u'http://lyrics.wikia.com/wiki/Frank_Sinatra:That%27s_Life_(1966)'}
+{'genre': u'Classic Pop',
+ 'title': u'Frank Sinatra:The Best Of The Columbia Years: 1943-1952 (1995)',
+ 'url': u'http://lyrics.wikia.com/wiki/Frank_Sinatra:The_Best_Of_The_Columbia_Years:_1943-1952_(1995)'}
+{'genre': u'Classic Pop',
+ 'title': u'Frank Sinatra:The Capitol Years (1990)',
+ 'url': u'http://lyrics.wikia.com/wiki/Frank_Sinatra:The_Capitol_Years_(1990)'}
+{'genre': u'Classic Pop',
+ 'title': u'Frank Sinatra:The Columbia Years 1943-1952: The Complete Recordings (1993)',
+ 'url': u'http://lyrics.wikia.com/wiki/Frank_Sinatra:The_Columbia_Years_1943-1952:_The_Complete_Recordings_(1993)'}
+{'genre': u'Classic Pop',
+ 'title': u'Frank Sinatra:The Columbia Years 1943-1952: The V-Discs (1998)',
+ 'url': u'http://lyrics.wikia.com/wiki/Frank_Sinatra:The_Columbia_Years_1943-1952:_The_V-Discs_(1998)'}
+{'genre': u'Classic Pop',
+ 'title': u'Frank Sinatra:The Concert Sinatra (1963)',
+ 'url': u'http://lyrics.wikia.com/wiki/Frank_Sinatra:The_Concert_Sinatra_(1963)'}
+{'genre': u'Classic Pop',
+ 'title': u'Frank Sinatra:The Essence Of Frank Sinatra (1994)',
+ 'url': u'http://lyrics.wikia.com/wiki/Frank_Sinatra:The_Essence_Of_Frank_Sinatra_(1994)'}
+{'genre': u'Classic Pop',
+ 'title': u'Frank Sinatra:The Golden Days Of Radio (1998)',
+ 'url': u'http://lyrics.wikia.com/wiki/Frank_Sinatra:The_Golden_Days_Of_Radio_(1998)'}
+{'genre': u'Classic Pop',
+ 'title': u'Frank Sinatra:The Main Event Live (1974)',
+ 'url': u'http://lyrics.wikia.com/wiki/Frank_Sinatra:The_Main_Event_Live_(1974)'}
+{'genre': u'Classic Pop',
+ 'title': u'Frank Sinatra:The Reprise Collection (1990)',
+ 'url': u'http://lyrics.wikia.com/wiki/Frank_Sinatra:The_Reprise_Collection_(1990)'}
+{'genre': u'Classic Pop',
+ 'title': u'Frank Sinatra:The Voice Of Frank Sinatra (1948)',
+ 'url': u'http://lyrics.wikia.com/wiki/Frank_Sinatra:The_Voice_Of_Frank_Sinatra_(1948)'}
+{'genre': u'Classic Pop',
+ 'title': u'Frank Sinatra:The World Of Frank Sinatra (2005)',
+ 'url': u'http://lyrics.wikia.com/wiki/Frank_Sinatra:The_World_Of_Frank_Sinatra_(2005)'}
+{'genre': u'Classic Pop',
+ 'title': u'Frank Sinatra:The World We Knew (1967)',
+ 'url': u'http://lyrics.wikia.com/wiki/Frank_Sinatra:The_World_We_Knew_(1967)'}
+{'genre': u'Classic Pop',
+ 'title': u'Frank Sinatra:This Is Sinatra! (1956)',
+ 'url': u'http://lyrics.wikia.com/wiki/Frank_Sinatra:This_Is_Sinatra!_(1956)'}
+{'genre': u'Classic Pop',
+ 'title': u'Frank Sinatra:This Is Sinatra, Volume Two (1958)',
+ 'url': u'http://lyrics.wikia.com/wiki/Frank_Sinatra:This_Is_Sinatra,_Volume_Two_(1958)'}
+{'genre': u'Classic Pop',
+ 'title': u'Frank Sinatra:Trilogy: Past Present Future (1980)',
+ 'url': u'http://lyrics.wikia.com/wiki/Frank_Sinatra:Trilogy:_Past_Present_Future_(1980)'}
+{'genre': u'Classic Pop',
+ 'title': u'Frank Sinatra:Watertown (1970)',
+ 'url': u'http://lyrics.wikia.com/wiki/Frank_Sinatra:Watertown_(1970)'}
+{'genre': u'Classic Pop',
+ 'title': u'Frank Sinatra:Where Are You? (1957)',
+ 'url': u'http://lyrics.wikia.com/wiki/Frank_Sinatra:Where_Are_You%3F_(1957)'}
+{'genre': u'Classic Pop',
+ 'title': u'Gene Woolfolk, Jr.',
+ 'url': u'http://lyrics.wikia.com/wiki/Gene_Woolfolk,_Jr.'}
+{'genre': u'Classic Pop',
+ 'title': u'Harald Juhnke',
+ 'url': u'http://lyrics.wikia.com/wiki/Harald_Juhnke'}
+{'genre': u'Classic Pop',
+ 'title': u'Harald Juhnke:His Way - Juhnke Singt Sinatra (1998)',
+ 'url': u'http://lyrics.wikia.com/wiki/Harald_Juhnke:His_Way_-_Juhnke_Singt_Sinatra_(1998)'}
+{'genre': u'Classic Pop',
+ 'title': u'Jack Jones',
+ 'url': u'http://lyrics.wikia.com/wiki/Jack_Jones'}
+{'genre': u'Classic Pop',
+ 'title': u'Lonnie Donegan',
+ 'url': u'http://lyrics.wikia.com/wiki/Lonnie_Donegan'}
+{'genre': u'Classic Pop',
+ 'title': u'Louis Armstrong',
+ 'url': u'http://lyrics.wikia.com/wiki/Louis_Armstrong'}
+{'genre': u'Classic Pop',
+ 'title': u'Michael Bolton:Bolton Swings Sinatra (2006)',
+ 'url': u'http://lyrics.wikia.com/wiki/Michael_Bolton:Bolton_Swings_Sinatra_(2006)'}
+{'genre': u'Classic Pop',
+ 'title': u'Patsy Cline',
+ 'url': u'http://lyrics.wikia.com/wiki/Patsy_Cline'}
+{'genre': u'Classic Pop',
+ 'title': u'Ramin Karimloo:Ramin (2012)',
+ 'url': u'http://lyrics.wikia.com/wiki/Ramin_Karimloo:Ramin_(2012)'}
+{'genre': u'Classic Pop',
+ 'title': u'Sammy Davis, Jr.',
+ 'url': u'http://lyrics.wikia.com/wiki/Sammy_Davis,_Jr.'}
+{'genre': u'Classic Pop',
+ 'title': u'Sarah Vaughan',
+ 'url': u'http://lyrics.wikia.com/wiki/Sarah_Vaughan'}
+{'genre': u'Classic Pop',
+ 'title': u'The Four Freshmen',
+ 'url': u'http://lyrics.wikia.com/wiki/The_Four_Freshmen'}
+{'genre': u'Classic Pop',
+ 'title': u'The Four Lads',
+ 'url': u'http://lyrics.wikia.com/wiki/The_Four_Lads'}
+{'genre': u'Classic Pop',
+ 'title': u'The Rat Pack',
+ 'url': u'http://lyrics.wikia.com/wiki/The_Rat_Pack'}
+{'genre': u'Classic Pop',
+ 'title': u'The Rat Pack:Boys Night Out (2004)',
+ 'url': u'http://lyrics.wikia.com/wiki/The_Rat_Pack:Boys_Night_Out_(2004)'}
+{'genre': u'Classic Pop',
+ 'title': u'Tony Bennett',
+ 'url': u'http://lyrics.wikia.com/wiki/Tony_Bennett'}
+{'genre': u'Classic Pop',
+ 'title': u'Vera Lynn',
+ 'url': u'http://lyrics.wikia.com/wiki/Vera_Lynn'}
+{'genre': u'Classic Pop',
+ 'title': u'Vic Damone',
+ 'url': u'http://lyrics.wikia.com/wiki/Vic_Damone'}
+{'genre': u'Christmas',
+ 'title': u'*NSYNC:Home For Christmas (1998)',
+ 'url': u'http://lyrics.wikia.com/wiki/*NSYNC:Home_For_Christmas_(1998)'}
+{'genre': u'Christmas',
+ 'title': u'*NSYNC:The Winter Album (1998)',
+ 'url': u'http://lyrics.wikia.com/wiki/*NSYNC:The_Winter_Album_(1998)'}
+{'genre': u'Christmas',
+ 'title': u'12 Soulful Nights Of Christmas, Pt. 1 (1996)',
+ 'url': u'http://lyrics.wikia.com/wiki/12_Soulful_Nights_Of_Christmas,_Pt._1_(1996)'}
+{'genre': u'Christmas',
+ 'title': u'3LW:Naughty Or Nice (2001)',
+ 'url': u'http://lyrics.wikia.com/wiki/3LW:Naughty_Or_Nice_(2001)'}
+{'genre': u'Christmas',
+ 'title': u'4Him:The Season Of Love (1993)',
+ 'url': u'http://lyrics.wikia.com/wiki/4Him:The_Season_Of_Love_(1993)'}
+{'genre': u'Christmas',
+ 'title': u'98\xb0:This Christmas (1999)',
+ 'url': u'http://lyrics.wikia.com/wiki/98%C2%B0:This_Christmas_(1999)'}
+{'genre': u'Christmas',
+ 'title': u'A Country Superstar Christmas II (1998)',
+ 'url': u'http://lyrics.wikia.com/wiki/A_Country_Superstar_Christmas_II_(1998)'}
+{'genre': u'Christmas',
+ 'title': u'A Gift Of Song (1997)',
+ 'url': u'http://lyrics.wikia.com/wiki/A_Gift_Of_Song_(1997)'}
+{'genre': u'Christmas',
+ 'title': u'A Raw Rock Christmas 2: Electric Boogaloo (2011)',
+ 'url': u'http://lyrics.wikia.com/wiki/A_Raw_Rock_Christmas_2:_Electric_Boogaloo_(2011)'}
+{'genre': u'Christmas',
+ 'title': u"A Santa Cause: It's A Punk Rock Christmas (2003)",
+ 'url': u'http://lyrics.wikia.com/wiki/A_Santa_Cause:_It%27s_A_Punk_Rock_Christmas_(2003)'}
+{'genre': u'Christmas',
+ 'title': u"A Santa Cause: It's A Punk Rock Christmas (2006)",
+ 'url': u'http://lyrics.wikia.com/wiki/A_Santa_Cause:_It%27s_A_Punk_Rock_Christmas_(2006)'}
+{'genre': u'Christmas',
+ 'title': u'A Very Special Acoustic Christmas (2003)',
+ 'url': u'http://lyrics.wikia.com/wiki/A_Very_Special_Acoustic_Christmas_(2003)'}
+{'genre': u'Christmas',
+ 'title': u'A Very Special Christmas (1987)',
+ 'url': u'http://lyrics.wikia.com/wiki/A_Very_Special_Christmas_(1987)'}
+{'genre': u'Christmas',
+ 'title': u'A Very Special Christmas 2 (1992)',
+ 'url': u'http://lyrics.wikia.com/wiki/A_Very_Special_Christmas_2_(1992)'}
+{'genre': u'Christmas',
+ 'title': u'A Very Special Christmas 3 (1997)',
+ 'url': u'http://lyrics.wikia.com/wiki/A_Very_Special_Christmas_3_(1997)'}
+{'genre': u'Christmas',
+ 'title': u'A Very Special Christmas 7 (2009)',
+ 'url': u'http://lyrics.wikia.com/wiki/A_Very_Special_Christmas_7_(2009)'}
+{'genre': u'Christmas',
+ 'title': u'A Very Special Christmas Live (1999)',
+ 'url': u'http://lyrics.wikia.com/wiki/A_Very_Special_Christmas_Live_(1999)'}
+{'genre': u'Christmas',
+ 'title': u'A Very Special Christmas, Vol. 3 (1997)',
+ 'url': u'http://lyrics.wikia.com/wiki/A_Very_Special_Christmas,_Vol._3_(1997)'}
+{'genre': u'Christmas',
+ 'title': u'A Very Special Christmas, Vol. 5 (2001)',
+ 'url': u'http://lyrics.wikia.com/wiki/A_Very_Special_Christmas,_Vol._5_(2001)'}
+{'genre': u'Christmas',
+ 'title': u'A Very Special Christmas, Vol. 7 (2009)',
+ 'url': u'http://lyrics.wikia.com/wiki/A_Very_Special_Christmas,_Vol._7_(2009)'}
+{'genre': u'Christmas',
+ 'title': u'Aaron Neville:Christmas Prayer (2005)',
+ 'url': u'http://lyrics.wikia.com/wiki/Aaron_Neville:Christmas_Prayer_(2005)'}
+{'genre': u'Christmas',
+ 'title': u'Aaron Tippin:A December To Remember (2001)',
+ 'url': u'http://lyrics.wikia.com/wiki/Aaron_Tippin:A_December_To_Remember_(2001)'}
+{'genre': u'Christmas',
+ 'title': u'Acappella:A Savior Is Born (Acappella Carols) (1989)',
+ 'url': u'http://lyrics.wikia.com/wiki/Acappella:A_Savior_Is_Born_(Acappella_Carols)_(1989)'}
+{'genre': u'Christmas',
+ 'title': u'Afroman:Jobe Bells (2004)',
+ 'url': u'http://lyrics.wikia.com/wiki/Afroman:Jobe_Bells_(2004)'}
+{'genre': u'Christmas',
+ 'title': u'Alabama:Alabama Christmas (1985)',
+ 'url': u'http://lyrics.wikia.com/wiki/Alabama:Alabama_Christmas_(1985)'}
+{'genre': u'Christmas',
+ 'title': u'Alabama:Christmas, Vol. 2 (1996)',
+ 'url': u'http://lyrics.wikia.com/wiki/Alabama:Christmas,_Vol._2_(1996)'}
+{'genre': u'Christmas',
+ 'title': u'Alan Jackson:Honky Tonk Christmas (1993)',
+ 'url': u'http://lyrics.wikia.com/wiki/Alan_Jackson:Honky_Tonk_Christmas_(1993)'}
+{'genre': u'Christmas',
+ 'title': u'Alan Jackson:Let It Be Christmas (2002)',
+ 'url': u'http://lyrics.wikia.com/wiki/Alan_Jackson:Let_It_Be_Christmas_(2002)'}
+{'genre': u'Christmas',
+ 'title': u'Alegrijes Y Rebujos:Alegrijes Y Rebujos En Concierto (2003)',
+ 'url': u'http://lyrics.wikia.com/wiki/Alegrijes_Y_Rebujos:Alegrijes_Y_Rebujos_En_Concierto_(2003)'}
+{'genre': u'Christmas',
+ 'title': u'Alegrijes Y Rebujos:Navidad Alegrije (2003)',
+ 'url': u'http://lyrics.wikia.com/wiki/Alegrijes_Y_Rebujos:Navidad_Alegrije_(2003)'}
+{'genre': u'Christmas',
+ 'title': u'Alegrijes Y Rebujos:Navidad Rebujo (2003)',
+ 'url': u'http://lyrics.wikia.com/wiki/Alegrijes_Y_Rebujos:Navidad_Rebujo_(2003)'}
+{'genre': u'Christmas',
+ 'title': u'Ali Lohan:Lohan Holiday (2006)',
+ 'url': u'http://lyrics.wikia.com/wiki/Ali_Lohan:Lohan_Holiday_(2006)'}
+{'genre': u'Christmas',
+ 'title': u'All Wrapped Up (2008)',
+ 'url': u'http://lyrics.wikia.com/wiki/All_Wrapped_Up_(2008)'}
+{'genre': u'Christmas',
+ 'title': u'All-4-One:An All-4-One Christmas (1995)',
+ 'url': u'http://lyrics.wikia.com/wiki/All-4-One:An_All-4-One_Christmas_(1995)'}
+{'genre': u'Christmas',
+ 'title': u'Allison Crowe:Tidings (2004)',
+ 'url': u'http://lyrics.wikia.com/wiki/Allison_Crowe:Tidings_(2004)'}
+{'genre': u'Christmas',
+ 'title': u'Aly & AJ:Acoustic Hearts Of Winter (2006)',
+ 'url': u'http://lyrics.wikia.com/wiki/Aly_%26_AJ:Acoustic_Hearts_Of_Winter_(2006)'}
+{'genre': u'Christmas',
+ 'title': u'American Idol:The Great Holiday Classics (2003)',
+ 'url': u'http://lyrics.wikia.com/wiki/American_Idol:The_Great_Holiday_Classics_(2003)'}
+{'genre': u'Christmas',
+ 'title': u'Amy Grant:A Christmas Album (1983)',
+ 'url': u'http://lyrics.wikia.com/wiki/Amy_Grant:A_Christmas_Album_(1983)'}
+{'genre': u'Christmas',
+ 'title': u'Amy Grant:A Christmas To Remember (1999)',
+ 'url': u'http://lyrics.wikia.com/wiki/Amy_Grant:A_Christmas_To_Remember_(1999)'}
+{'genre': u'Christmas',
+ 'title': u'Amy Grant:Home For Christmas (1992)',
+ 'url': u'http://lyrics.wikia.com/wiki/Amy_Grant:Home_For_Christmas_(1992)'}
+{'genre': u'Christmas',
+ 'title': u'Amy Grant:The Christmas Collection (2008)',
+ 'url': u'http://lyrics.wikia.com/wiki/Amy_Grant:The_Christmas_Collection_(2008)'}
+{'genre': u'Christmas',
+ 'title': u'Andrea Bocelli:My Christmas (2009)',
+ 'url': u'http://lyrics.wikia.com/wiki/Andrea_Bocelli:My_Christmas_(2009)'}
+{'genre': u'Christmas',
+ 'title': u'Andy Williams:Christmas (1995)',
+ 'url': u'http://lyrics.wikia.com/wiki/Andy_Williams:Christmas_(1995)'}
+{'genre': u'Christmas',
+ 'title': u'Andy Williams:Christmas Present (1974)',
+ 'url': u'http://lyrics.wikia.com/wiki/Andy_Williams:Christmas_Present_(1974)'}
+{'genre': u'Christmas',
+ 'title': u'Andy Williams:Merry Christmas (1965)',
+ 'url': u'http://lyrics.wikia.com/wiki/Andy_Williams:Merry_Christmas_(1965)'}
+{'genre': u'Christmas',
+ 'title': u'Andy Williams:The Andy Williams Christmas Album (1963)',
+ 'url': u'http://lyrics.wikia.com/wiki/Andy_Williams:The_Andy_Williams_Christmas_Album_(1963)'}
+{'genre': u'Christmas',
+ 'title': u'Anita Baker:Christmas Fantasy (2005)',
+ 'url': u'http://lyrics.wikia.com/wiki/Anita_Baker:Christmas_Fantasy_(2005)'}
+{'genre': u'Christmas',
+ 'title': u'Annie Villeneuve:No\xebl Chez Moi (2010)',
+ 'url': u'http://lyrics.wikia.com/wiki/Annie_Villeneuve:No%C3%ABl_Chez_Moi_(2010)'}
+{'genre': u'Christmas',
+ 'title': u'Aretha Franklin:This Christmas, Aretha (2008)',
+ 'url': u'http://lyrics.wikia.com/wiki/Aretha_Franklin:This_Christmas,_Aretha_(2008)'}
+{'genre': u'Christmas',
+ 'title': u'Ariana Grande:Christmas & Chill (2015)',
+ 'url': u'http://lyrics.wikia.com/wiki/Ariana_Grande:Christmas_%26_Chill_(2015)'}
+{'genre': u'Christmas',
+ 'title': u'Ariana Grande:Christmas Kisses (2013)',
+ 'url': u'http://lyrics.wikia.com/wiki/Ariana_Grande:Christmas_Kisses_(2013)'}
+{'genre': u'Christmas',
+ 'title': u"Ashanti:Ashanti's Christmas (2003)",
+ 'url': u'http://lyrics.wikia.com/wiki/Ashanti:Ashanti%27s_Christmas_(2003)'}
+{'genre': u'Christmas',
+ 'title': u'Avalon:Joy - A Christmas Collection (2000)',
+ 'url': u'http://lyrics.wikia.com/wiki/Avalon:Joy_-_A_Christmas_Collection_(2000)'}
+{'genre': u'Christmas',
+ 'title': u'Aviators:Canterlot Carols (2012)',
+ 'url': u'http://lyrics.wikia.com/wiki/Aviators:Canterlot_Carols_(2012)'}
+{'genre': u'Christmas',
+ 'title': u'B2K:Santa Hooked Me Up (2002)',
+ 'url': u'http://lyrics.wikia.com/wiki/B2K:Santa_Hooked_Me_Up_(2002)'}
+{'genre': u'Christmas',
+ 'title': u'Babyface:Christmas With Babyface (1998)',
+ 'url': u'http://lyrics.wikia.com/wiki/Babyface:Christmas_With_Babyface_(1998)'}
+{'genre': u'Christmas',
+ 'title': u'Banaroo:Christmas World (2005)',
+ 'url': u'http://lyrics.wikia.com/wiki/Banaroo:Christmas_World_(2005)'}
+{'genre': u'Christmas',
+ 'title': u'Band Of Merrymakers:Welcome To Our Christmas Party (2015)',
+ 'url': u'http://lyrics.wikia.com/wiki/Band_Of_Merrymakers:Welcome_To_Our_Christmas_Party_(2015)'}
+{'genre': u'Christmas',
+ 'title': u'Barbara Orbison Productions:Christmas Traditions (1998)',
+ 'url': u'http://lyrics.wikia.com/wiki/Barbara_Orbison_Productions:Christmas_Traditions_(1998)'}
+{'genre': u'Christmas',
+ 'title': u'Barbra Streisand:A Christmas Album (1967)',
+ 'url': u'http://lyrics.wikia.com/wiki/Barbra_Streisand:A_Christmas_Album_(1967)'}
+{'genre': u'Christmas',
+ 'title': u'Barbra Streisand:Christmas Memories (2001)',
+ 'url': u'http://lyrics.wikia.com/wiki/Barbra_Streisand:Christmas_Memories_(2001)'}
+{'genre': u'Christmas',
+ 'title': u'Barenaked Ladies:Barenaked For The Holidays (2004)',
+ 'url': u'http://lyrics.wikia.com/wiki/Barenaked_Ladies:Barenaked_For_The_Holidays_(2004)'}
+{'genre': u'Christmas',
+ 'title': u'Benjamin Bl\xfcmchen Singt Weihnachtslieder (1992)',
+ 'url': u'http://lyrics.wikia.com/wiki/Benjamin_Bl%C3%BCmchen_Singt_Weihnachtslieder_(1992)'}
+{'genre': u'Christmas',
+ 'title': u'Big Bad Voodoo Daddy:Everything You Want For Christmas (2004)',
+ 'url': u'http://lyrics.wikia.com/wiki/Big_Bad_Voodoo_Daddy:Everything_You_Want_For_Christmas_(2004)'}
+{'genre': u'Christmas',
+ 'title': u'Big Daddy Weave:Christ Is Come (2009)',
+ 'url': u'http://lyrics.wikia.com/wiki/Big_Daddy_Weave:Christ_Is_Come_(2009)'}
+{'genre': u'Christmas',
+ 'title': u'Big Time Rush:Holiday Bundle (2010)',
+ 'url': u'http://lyrics.wikia.com/wiki/Big_Time_Rush:Holiday_Bundle_(2010)'}
+{'genre': u'Christmas',
+ 'title': u'Bill Anderson:Christmas (1969)',
+ 'url': u'http://lyrics.wikia.com/wiki/Bill_Anderson:Christmas_(1969)'}
+{'genre': u'Christmas',
+ 'title': u'Billy Gilman:Classic Christmas (2000)',
+ 'url': u'http://lyrics.wikia.com/wiki/Billy_Gilman:Classic_Christmas_(2000)'}
+{'genre': u'Christmas',
+ 'title': u'Bing Crosby:Merry Christmas (1945)',
+ 'url': u'http://lyrics.wikia.com/wiki/Bing_Crosby:Merry_Christmas_(1945)'}
+{'genre': u'Christmas',
+ 'title': u"Blake Shelton:Cheers, It's Christmas (2012)",
+ 'url': u'http://lyrics.wikia.com/wiki/Blake_Shelton:Cheers,_It%27s_Christmas_(2012)'}
+{'genre': u'Christmas',
+ 'title': u'Bleu:A Bing Bang Holidang (1999)',
+ 'url': u'http://lyrics.wikia.com/wiki/Bleu:A_Bing_Bang_Holidang_(1999)'}
+{'genre': u'Christmas',
+ 'title': u'Bob Dylan:Christmas In The Heart (2009)',
+ 'url': u'http://lyrics.wikia.com/wiki/Bob_Dylan:Christmas_In_The_Heart_(2009)'}
+{'genre': u'Christmas',
+ 'title': u"Bobby Vinton:Kissin' Christmas (1995)",
+ 'url': u'http://lyrics.wikia.com/wiki/Bobby_Vinton:Kissin%27_Christmas_(1995)'}
+{'genre': u'Christmas',
+ 'title': u'Boney M.:Christmas Album (1981)',
+ 'url': u'http://lyrics.wikia.com/wiki/Boney_M.:Christmas_Album_(1981)'}
+{'genre': u'Christmas',
+ 'title': u'Bonnie McKee:California Winter (2014)',
+ 'url': u'http://lyrics.wikia.com/wiki/Bonnie_McKee:California_Winter_(2014)'}
+{'genre': u'Christmas',
+ 'title': u'Boyz II Men:Christmas Interpretations (1993)',
+ 'url': u'http://lyrics.wikia.com/wiki/Boyz_II_Men:Christmas_Interpretations_(1993)'}
+{'genre': u'Christmas',
+ 'title': u'Boyz II Men:Winter/Reflections (2005)',
+ 'url': u'http://lyrics.wikia.com/wiki/Boyz_II_Men:Winter/Reflections_(2005)'}
+{'genre': u'Christmas',
+ 'title': u'Brad Paisley:Brad Paisley Christmas (2006)',
+ 'url': u'http://lyrics.wikia.com/wiki/Brad_Paisley:Brad_Paisley_Christmas_(2006)'}
+{'genre': u'Christmas',
+ 'title': u'Brenda Lee:A Brenda Lee Christmas (1991)',
+ 'url': u'http://lyrics.wikia.com/wiki/Brenda_Lee:A_Brenda_Lee_Christmas_(1991)'}
+{'genre': u'Christmas',
+ 'title': u"Brenda Lee:Rockin' Around The Christmas Tree (1958)",
+ 'url': u'http://lyrics.wikia.com/wiki/Brenda_Lee:Rockin%27_Around_The_Christmas_Tree_(1958)'}
+{'genre': u'Christmas',
+ 'title': u"Brenda Lee:Rockin' Around The Christmas Tree (1999)",
+ 'url': u'http://lyrics.wikia.com/wiki/Brenda_Lee:Rockin%27_Around_The_Christmas_Tree_(1999)'}
+{'genre': u'Christmas',
+ 'title': u'Brian McKnight:Bethlehem (1998)',
+ 'url': u'http://lyrics.wikia.com/wiki/Brian_McKnight:Bethlehem_(1998)'}
+{'genre': u'Christmas',
+ 'title': u"Brian McKnight:I'll Be Home For Christmas (2008)",
+ 'url': u'http://lyrics.wikia.com/wiki/Brian_McKnight:I%27ll_Be_Home_For_Christmas_(2008)'}
+{'genre': u'Christmas',
+ 'title': u'Brian Wilson:What I Really Want For Christmas (2005)',
+ 'url': u'http://lyrics.wikia.com/wiki/Brian_Wilson:What_I_Really_Want_For_Christmas_(2005)'}
+{'genre': u'Christmas',
+ 'title': u'Burl Ives:Christmas Album (1995)',
+ 'url': u'http://lyrics.wikia.com/wiki/Burl_Ives:Christmas_Album_(1995)'}
+{'genre': u'Christmas',
+ 'title': u'Burl Ives:Have A Holly Jolly Christmas (1965)',
+ 'url': u'http://lyrics.wikia.com/wiki/Burl_Ives:Have_A_Holly_Jolly_Christmas_(1965)'}
+{'genre': u'Christmas',
+ 'title': u'B\xe9la Fleck:Jingle All The Way (2007)',
+ 'url': u'http://lyrics.wikia.com/wiki/B%C3%A9la_Fleck:Jingle_All_The_Way_(2007)'}
+{'genre': u'Christmas',
+ 'title': u'Carbon Leaf:Christmas Child (2010)',
+ 'url': u'http://lyrics.wikia.com/wiki/Carbon_Leaf:Christmas_Child_(2010)'}
+{'genre': u'Christmas',
+ 'title': u'Carman:A Long Time Ago...In A Land Called Bethlehem (1986)',
+ 'url': u'http://lyrics.wikia.com/wiki/Carman:A_Long_Time_Ago...In_A_Land_Called_Bethlehem_(1986)'}
+{'genre': u'Christmas',
+ 'title': u'Carola:Jul I Betlehem (1999)',
+ 'url': u'http://lyrics.wikia.com/wiki/Carola:Jul_I_Betlehem_(1999)'}
+{'genre': u'Christmas',
+ 'title': u'Carole King:A Holiday Carole (2011)',
+ 'url': u'http://lyrics.wikia.com/wiki/Carole_King:A_Holiday_Carole_(2011)'}
+{'genre': u'Christmas',
+ 'title': u'Carpenters:An Old-Fashioned Christmas (1984)',
+ 'url': u'http://lyrics.wikia.com/wiki/Carpenters:An_Old-Fashioned_Christmas_(1984)'}
+{'genre': u'Christmas',
+ 'title': u'Carpenters:Christmas Portrait (1978)',
+ 'url': u'http://lyrics.wikia.com/wiki/Carpenters:Christmas_Portrait_(1978)'}
+{'genre': u'Christmas',
+ 'title': u'Casting Crowns:Peace On Earth (2008)',
+ 'url': u'http://lyrics.wikia.com/wiki/Casting_Crowns:Peace_On_Earth_(2008)'}
+{'genre': u'Christmas',
+ 'title': u'CeCe Winans:His Gift (1998)',
+ 'url': u'http://lyrics.wikia.com/wiki/CeCe_Winans:His_Gift_(1998)'}
+{'genre': u'Christmas',
+ 'title': u"Cee Lo Green:Cee Lo's Magic Moment (2012)",
+ 'url': u'http://lyrics.wikia.com/wiki/Cee_Lo_Green:Cee_Lo%27s_Magic_Moment_(2012)'}
+{'genre': u'Christmas',
+ 'title': u'Charice:Grown-Up Christmas List EP (2010)',
+ 'url': u'http://lyrics.wikia.com/wiki/Charice:Grown-Up_Christmas_List_EP_(2010)'}
+{'genre': u'Christmas',
+ 'title': u'Charles Brown:Charles Brown Sings Christmas Songs (1961)',
+ 'url': u'http://lyrics.wikia.com/wiki/Charles_Brown:Charles_Brown_Sings_Christmas_Songs_(1961)'}
+{'genre': u'Christmas',
+ 'title': u'Charlotte Church:Dream A Dream (2000)',
+ 'url': u'http://lyrics.wikia.com/wiki/Charlotte_Church:Dream_A_Dream_(2000)'}
+{'genre': u'Christmas',
+ 'title': u'Chris Isaak:Christmas (2004)',
+ 'url': u'http://lyrics.wikia.com/wiki/Chris_Isaak:Christmas_(2004)'}
+{'genre': u'Christmas',
+ 'title': u'Chris Rice:The Living Room Sessions: Christmas (2001)',
+ 'url': u'http://lyrics.wikia.com/wiki/Chris_Rice:The_Living_Room_Sessions:_Christmas_(2001)'}
+{'genre': u'Christmas',
+ 'title': u'Chris Tomlin:Glory In The Highest: Christmas Songs Of Worship (2009)',
+ 'url': u'http://lyrics.wikia.com/wiki/Chris_Tomlin:Glory_In_The_Highest:_Christmas_Songs_Of_Worship_(2009)'}
+{'genre': u'Christmas',
+ 'title': u'Christina Aguilera:My Kind Of Christmas (2000)',
+ 'url': u'http://lyrics.wikia.com/wiki/Christina_Aguilera:My_Kind_Of_Christmas_(2000)'}
+{'genre': u'Christmas',
+ 'title': u'Christina Perri:A Very Merry Perri Christmas (2012)',
+ 'url': u'http://lyrics.wikia.com/wiki/Christina_Perri:A_Very_Merry_Perri_Christmas_(2012)'}
+{'genre': u'Christmas',
+ 'title': u'Christmas A Go-Go (2008)',
+ 'url': u'http://lyrics.wikia.com/wiki/Christmas_A_Go-Go_(2008)'}
+{'genre': u'Christmas',
+ 'title': u'Christmas Favorites (2005)',
+ 'url': u'http://lyrics.wikia.com/wiki/Christmas_Favorites_(2005)'}
+{'genre': u'Christmas',
+ 'title': u"City On A Hill: It's Christmas Time (2002)",
+ 'url': u'http://lyrics.wikia.com/wiki/City_On_A_Hill:_It%27s_Christmas_Time_(2002)'}
+{'genre': u'Christmas',
+ 'title': u'Clay Walker:Christmas (2002)',
+ 'url': u'http://lyrics.wikia.com/wiki/Clay_Walker:Christmas_(2002)'}
+{'genre': u'Christmas',
+ 'title': u'Cleopatra Stratan:Colinde Magice (2009)',
+ 'url': u'http://lyrics.wikia.com/wiki/Cleopatra_Stratan:Colinde_Magice_(2009)'}
+{'genre': u'Christmas',
+ 'title': u'Cliff Richard:Carol Singers (1967)',
+ 'url': u'http://lyrics.wikia.com/wiki/Cliff_Richard:Carol_Singers_(1967)'}
+{'genre': u'Christmas',
+ 'title': u'Cliff Richard:Cliff At Christmas (2003)',
+ 'url': u'http://lyrics.wikia.com/wiki/Cliff_Richard:Cliff_At_Christmas_(2003)'}
+{'genre': u'Christmas',
+ 'title': u'Cliff Richard:Together With Cliff Richard (1991)',
+ 'url': u'http://lyrics.wikia.com/wiki/Cliff_Richard:Together_With_Cliff_Richard_(1991)'}
+{'genre': u'Christmas',
+ 'title': u'Clint Black:Looking For Christmas (1995)',
+ 'url': u'http://lyrics.wikia.com/wiki/Clint_Black:Looking_For_Christmas_(1995)'}
+{'genre': u'Christmas',
+ 'title': u'Cocteau Twins:Snow EP (1994)',
+ 'url': u'http://lyrics.wikia.com/wiki/Cocteau_Twins:Snow_EP_(1994)'}
+{'genre': u'Christmas',
+ 'title': u'Colbie Caillat:Christmas In The Sand (2012)',
+ 'url': u'http://lyrics.wikia.com/wiki/Colbie_Caillat:Christmas_In_The_Sand_(2012)'}
+{'genre': u'Christmas',
+ 'title': u'Coldplay:Christmas Lights (2010)',
+ 'url': u'http://lyrics.wikia.com/wiki/Coldplay:Christmas_Lights_(2010)'}
+{'genre': u'Christmas',
+ 'title': u'Connie Francis:Christmas In My Heart (1959)',
+ 'url': u'http://lyrics.wikia.com/wiki/Connie_Francis:Christmas_In_My_Heart_(1959)'}
+{'genre': u'Christmas',
+ 'title': u'Connie Smith:Joy To The World (1975)',
+ 'url': u'http://lyrics.wikia.com/wiki/Connie_Smith:Joy_To_The_World_(1975)'}
+{'genre': u'Christmas',
+ 'title': u"Connie Talbot:Connie Talbot's Christmas Album (2008)",
+ 'url': u'http://lyrics.wikia.com/wiki/Connie_Talbot:Connie_Talbot%27s_Christmas_Album_(2008)'}
+{'genre': u'Christmas',
+ 'title': u"Connie Talbot:Connie Talbot's Holiday Magic (2009)",
+ 'url': u'http://lyrics.wikia.com/wiki/Connie_Talbot:Connie_Talbot%27s_Holiday_Magic_(2009)'}
+{'genre': u'Christmas',
+ 'title': u'Country Christmas Classics (1998)',
+ 'url': u'http://lyrics.wikia.com/wiki/Country_Christmas_Classics_(1998)'}
+{'genre': u'Christmas',
+ 'title': u'Crash Test Dummies:Jingle All The Way (2002)',
+ 'url': u'http://lyrics.wikia.com/wiki/Crash_Test_Dummies:Jingle_All_The_Way_(2002)'}
+{'genre': u'Christmas',
+ 'title': u'Cyndi Lauper:Merry Christmas...Have A Nice Life (1998)',
+ 'url': u'http://lyrics.wikia.com/wiki/Cyndi_Lauper:Merry_Christmas...Have_A_Nice_Life_(1998)'}
+{'genre': u'Christmas',
+ 'title': u'C\xe9line Dion:Chants Et Contes De No\xebl (1983)',
+ 'url': u'http://lyrics.wikia.com/wiki/C%C3%A9line_Dion:Chants_Et_Contes_De_No%C3%ABl_(1983)'}
+{'genre': u'Christmas',
+ 'title': u'C\xe9line Dion:C\xe9line Dion Chante No\xebl (1981)',
+ 'url': u'http://lyrics.wikia.com/wiki/C%C3%A9line_Dion:C%C3%A9line_Dion_Chante_No%C3%ABl_(1981)'}
+{'genre': u'Christmas',
+ 'title': u'C\xe9line Dion:These Are Special Times (1998)',
+ 'url': u'http://lyrics.wikia.com/wiki/C%C3%A9line_Dion:These_Are_Special_Times_(1998)'}
+{'genre': u'Christmas',
+ 'title': u'Darius Rucker:Home For The Holidays (2014)',
+ 'url': u'http://lyrics.wikia.com/wiki/Darius_Rucker:Home_For_The_Holidays_(2014)'}
+{'genre': u'Christmas',
+ 'title': u'Dave Barnes:Very Merry Christmas (2010)',
+ 'url': u'http://lyrics.wikia.com/wiki/Dave_Barnes:Very_Merry_Christmas_(2010)'}
+{'genre': u'Christmas',
+ 'title': u'David Hasselhoff:The Night Before Christmas (2004)',
+ 'url': u'http://lyrics.wikia.com/wiki/David_Hasselhoff:The_Night_Before_Christmas_(2004)'}
+{'genre': u'Christmas',
+ 'title': u'David Seville:Christmas With The Chipmunks (1961)',
+ 'url': u'http://lyrics.wikia.com/wiki/David_Seville:Christmas_With_The_Chipmunks_(1961)'}
+{'genre': u'Christmas',
+ 'title': u'David Seville:Christmas With The Chipmunks, Vol. 2 (1963)',
+ 'url': u'http://lyrics.wikia.com/wiki/David_Seville:Christmas_With_The_Chipmunks,_Vol._2_(1963)'}
+{'genre': u'Christmas',
+ 'title': u'Dean Martin:The Dean Martin Christmas Album (1966)',
+ 'url': u'http://lyrics.wikia.com/wiki/Dean_Martin:The_Dean_Martin_Christmas_Album_(1966)'}
+{'genre': u'Christmas',
+ 'title': u'Deana Carter:Father Christmas (2001)',
+ 'url': u'http://lyrics.wikia.com/wiki/Deana_Carter:Father_Christmas_(2001)'}
+{'genre': u'Christmas',
+ 'title': u'Delta Goodrem:Christmas (2012)',
+ 'url': u'http://lyrics.wikia.com/wiki/Delta_Goodrem:Christmas_(2012)'}
+{'genre': u'Christmas',
+ 'title': u"Destiny's Child:8 Days Of Christmas (2001)",
+ 'url': u'http://lyrics.wikia.com/wiki/Destiny%27s_Child:8_Days_Of_Christmas_(2001)'}
+{'genre': u'Christmas',
+ 'title': u'Diana Krall:Have Yourself A Merry Little Christmas (1998)',
+ 'url': u'http://lyrics.wikia.com/wiki/Diana_Krall:Have_Yourself_A_Merry_Little_Christmas_(1998)'}
+{'genre': u'Christmas',
+ 'title': u'Diana Ross:A Very Special Season (1994)',
+ 'url': u'http://lyrics.wikia.com/wiki/Diana_Ross:A_Very_Special_Season_(1994)'}
+{'genre': u'Christmas',
+ 'title': u'Diana Ross:Christmas In Vienna (1993)',
+ 'url': u'http://lyrics.wikia.com/wiki/Diana_Ross:Christmas_In_Vienna_(1993)'}
+{'genre': u'Christmas',
+ 'title': u'Die Prinzen:Festplatte (1999)',
+ 'url': u'http://lyrics.wikia.com/wiki/Die_Prinzen:Festplatte_(1999)'}
+{'genre': u'Christmas',
+ 'title': u'Dieter S\xfcverkr\xfcp:Stille Nacht, Allerseits! - Dieter S\xfcverkr\xfcp Singt Garstige Weihnachtslieder (1970)',
+ 'url': u'http://lyrics.wikia.com/wiki/Dieter_S%C3%BCverkr%C3%BCp:Stille_Nacht,_Allerseits!_-_Dieter_S%C3%BCverkr%C3%BCp_Singt_Garstige_Weihnachtslieder_(1970)'}
+{'genre': u'Christmas',
+ 'title': u'Disney Channel Holiday (2007)',
+ 'url': u'http://lyrics.wikia.com/wiki/Disney_Channel_Holiday_(2007)'}
+{'genre': u'Christmas',
+ 'title': u'Disney Channel Holiday Playlist (2012)',
+ 'url': u'http://lyrics.wikia.com/wiki/Disney_Channel_Holiday_Playlist_(2012)'}
+{'genre': u'Christmas',
+ 'title': u'Disney Holidays Unwrapped (2013)',
+ 'url': u'http://lyrics.wikia.com/wiki/Disney_Holidays_Unwrapped_(2013)'}
+{'genre': u'Christmas',
+ 'title': u'Dolly Parton:Home For Christmas (1990)',
+ 'url': u'http://lyrics.wikia.com/wiki/Dolly_Parton:Home_For_Christmas_(1990)'}
+{'genre': u'Christmas',
+ 'title': u'Doris Day:Personal Christmas Collection (1994)',
+ 'url': u'http://lyrics.wikia.com/wiki/Doris_Day:Personal_Christmas_Collection_(1994)'}
+{'genre': u'Christmas',
+ 'title': u'Doris Day:The Doris Day Christmas Album (1964)',
+ 'url': u'http://lyrics.wikia.com/wiki/Doris_Day:The_Doris_Day_Christmas_Album_(1964)'}
+{'genre': u'Christmas',
+ 'title': u'Duvall:O Holy Night (2004)',
+ 'url': u'http://lyrics.wikia.com/wiki/Duvall:O_Holy_Night_(2004)'}
+{'genre': u'Christmas',
+ 'title': u'Edyta G\xf3rniak:Zakochaj Si\u0119 Na \u015awi\u0119ta W Kol\u0119dach (2008)',
+ 'url': u'http://lyrics.wikia.com/wiki/Edyta_G%C3%B3rniak:Zakochaj_Si%C4%99_Na_%C5%9Awi%C4%99ta_W_Kol%C4%99dach_(2008)'}
+{'genre': u'Christmas',
+ 'title': u'Elise LeGrow:You, Me, And A Christmas Tree (2012)',
+ 'url': u'http://lyrics.wikia.com/wiki/Elise_LeGrow:You,_Me,_And_A_Christmas_Tree_(2012)'}
+{'genre': u'Christmas',
+ 'title': u'Ella Fitzgerald:Ella Wishes You A Swinging Christmas (1960)',
+ 'url': u'http://lyrics.wikia.com/wiki/Ella_Fitzgerald:Ella_Wishes_You_A_Swinging_Christmas_(1960)'}
+{'genre': u'Christmas',
+ 'title': u'Elliott Yamin:My Kind Of Holiday (2008)',
+ 'url': u'http://lyrics.wikia.com/wiki/Elliott_Yamin:My_Kind_Of_Holiday_(2008)'}
+{'genre': u'Christmas',
+ 'title': u'Elvis Presley:Blue Christmas (1992)',
+ 'url': u'http://lyrics.wikia.com/wiki/Elvis_Presley:Blue_Christmas_(1992)'}
+{'genre': u'Christmas',
+ 'title': u"Emma Roberts:Santa Claus Is Comin' To Town (2005)",
+ 'url': u'http://lyrics.wikia.com/wiki/Emma_Roberts:Santa_Claus_Is_Comin%27_To_Town_(2005)'}
+{'genre': u'Christmas',
+ 'title': u'Emmy Rossum:Carol Of The Bells (2007)',
+ 'url': u'http://lyrics.wikia.com/wiki/Emmy_Rossum:Carol_Of_The_Bells_(2007)'}
+{'genre': u'Christmas',
+ 'title': u'Emmy The Great & Tim Wheeler',
+ 'url': u'http://lyrics.wikia.com/wiki/Emmy_The_Great_%26_Tim_Wheeler'}
+{'genre': u'Christmas',
+ 'title': u'Enrico Ruggeri:Il Regalo Di Natale (2007)',
+ 'url': u'http://lyrics.wikia.com/wiki/Enrico_Ruggeri:Il_Regalo_Di_Natale_(2007)'}
+{'genre': u'Christmas',
+ 'title': u"Eric And Clifford Doebel:Season's Greetings Christmas 2006 (2006)",
+ 'url': u'http://lyrics.wikia.com/wiki/Eric_And_Clifford_Doebel:Season%27s_Greetings_Christmas_2006_(2006)'}
+{'genre': u'Christmas',
+ 'title': u'Eterna Navidad (1986)',
+ 'url': u'http://lyrics.wikia.com/wiki/Eterna_Navidad_(1986)'}
+{'genre': u'Christmas',
+ 'title': u'Evan Taubenfeld:Merry Swiftmas (Even Though I Celebrate Chanukah) (2009)',
+ 'url': u'http://lyrics.wikia.com/wiki/Evan_Taubenfeld:Merry_Swiftmas_(Even_Though_I_Celebrate_Chanukah)_(2009)'}
+{'genre': u'Christmas',
+ 'title': u'EXO:Miracles In December (2013)',
+ 'url': u'http://lyrics.wikia.com/wiki/EXO:Miracles_In_December_(2013)'}
+{'genre': u'Christmas',
+ 'title': u'Eyeshine:Xmas (2011)',
+ 'url': u'http://lyrics.wikia.com/wiki/Eyeshine:Xmas_(2011)'}
+{'genre': u'Christmas',
+ 'title': u'Faith Hill:Joy To The World (2008)',
+ 'url': u'http://lyrics.wikia.com/wiki/Faith_Hill:Joy_To_The_World_(2008)'}
+{'genre': u'Christmas',
+ 'title': u'Feliz Navidad Te Desean (1992)',
+ 'url': u'http://lyrics.wikia.com/wiki/Feliz_Navidad_Te_Desean_(1992)'}
+{'genre': u'Christmas',
+ 'title': u'FFH:One Silent Night: An FFH Christmas (2011)',
+ 'url': u'http://lyrics.wikia.com/wiki/FFH:One_Silent_Night:_An_FFH_Christmas_(2011)'}
+{'genre': u'Christmas',
+ 'title': u"Fishbone:It's A Wonderful Life (1987)",
+ 'url': u'http://lyrics.wikia.com/wiki/Fishbone:It%27s_A_Wonderful_Life_(1987)'}
+{'genre': u'Christmas',
+ 'title': u'Frank Sinatra:Christmas Through The Years (1995)',
+ 'url': u'http://lyrics.wikia.com/wiki/Frank_Sinatra:Christmas_Through_The_Years_(1995)'}
+{'genre': u'Christmas',
+ 'title': u'Frank Sinatra:The Christmas Collection (2004)',
+ 'url': u'http://lyrics.wikia.com/wiki/Frank_Sinatra:The_Christmas_Collection_(2004)'}
+{'genre': u'Christmas',
+ 'title': u'Frank Sinatra:The Sinatra Family Wish You A Merry Christmas (1968)',
+ 'url': u'http://lyrics.wikia.com/wiki/Frank_Sinatra:The_Sinatra_Family_Wish_You_A_Merry_Christmas_(1968)'}
+{'genre': u'Christmas',
+ 'title': u'Fred Hammond:Christmas... Just Remember (2001)',
+ 'url': u'http://lyrics.wikia.com/wiki/Fred_Hammond:Christmas..._Just_Remember_(2001)'}
+{'genre': u'Christmas',
+ 'title': u'Freddy Fender:Merry Christmas - Feliz Navidad (1977)',
+ 'url': u'http://lyrics.wikia.com/wiki/Freddy_Fender:Merry_Christmas_-_Feliz_Navidad_(1977)'}
+{'genre': u'Christmas',
+ 'title': u'Freddy Quinn:Die Sch\xf6nsten Weihnachtslieder (2000)',
+ 'url': u'http://lyrics.wikia.com/wiki/Freddy_Quinn:Die_Sch%C3%B6nsten_Weihnachtslieder_(2000)'}
+{'genre': u'Christmas',
+ 'title': u'Garth Brooks:Beyond The Season (1992)',
+ 'url': u'http://lyrics.wikia.com/wiki/Garth_Brooks:Beyond_The_Season_(1992)'}
+{'genre': u'Christmas',
+ 'title': u'Garth Brooks:The Magic Of Christmas: Songs From Call Me Claus (2001)',
+ 'url': u'http://lyrics.wikia.com/wiki/Garth_Brooks:The_Magic_Of_Christmas:_Songs_From_Call_Me_Claus_(2001)'}
+{'genre': u'Christmas',
+ 'title': u"Gene Autry:A Cowboy's Christmas (1998)",
+ 'url': u'http://lyrics.wikia.com/wiki/Gene_Autry:A_Cowboy%27s_Christmas_(1998)'}
+{'genre': u'Christmas',
+ 'title': u'Gene Autry:A Gene Autry Christmas (1994)',
+ 'url': u'http://lyrics.wikia.com/wiki/Gene_Autry:A_Gene_Autry_Christmas_(1994)'}
+{'genre': u'Christmas',
+ 'title': u'Gene Autry:Rudolph The Red-Nosed Reindeer & Other Christmas Favorites (1957)',
+ 'url': u'http://lyrics.wikia.com/wiki/Gene_Autry:Rudolph_The_Red-Nosed_Reindeer_%26_Other_Christmas_Favorites_(1957)'}
+{'genre': u'Christmas',
+ 'title': u'Gene Autry:The Christmas Cowboy (1992)',
+ 'url': u'http://lyrics.wikia.com/wiki/Gene_Autry:The_Christmas_Cowboy_(1992)'}
+{'genre': u'Christmas',
+ 'title': u'Glen Campbell:That Christmas Feeling (1968)',
+ 'url': u'http://lyrics.wikia.com/wiki/Glen_Campbell:That_Christmas_Feeling_(1968)'}
+{'genre': u'Christmas',
+ 'title': u'Glenn Hughes:A Soulful Christmas (2000)',
+ 'url': u'http://lyrics.wikia.com/wiki/Glenn_Hughes:A_Soulful_Christmas_(2000)'}
+{'genre': u'Christmas',
+ 'title': u'Gloria Estefan:Christmas Through Your Eyes (1993)',
+ 'url': u'http://lyrics.wikia.com/wiki/Gloria_Estefan:Christmas_Through_Your_Eyes_(1993)'}
+{'genre': u'Christmas',
+ 'title': u'G\xf6tz Alsmann:Winterwunderwelt (2006)',
+ 'url': u'http://lyrics.wikia.com/wiki/G%C3%B6tz_Alsmann:Winterwunderwelt_(2006)'}
+{'genre': u'Christmas',
+ 'title': u'Hans Rotmo:V\xe5rres Jul (1990)',
+ 'url': u'http://lyrics.wikia.com/wiki/Hans_Rotmo:V%C3%A5rres_Jul_(1990)'}
+{'genre': u'Christmas',
+ 'title': u'Happy Christmas, Vol. 2 (1999)',
+ 'url': u'http://lyrics.wikia.com/wiki/Happy_Christmas,_Vol._2_(1999)'}
+{'genre': u'Christmas',
+ 'title': u'Happy Christmas, Vol. 3 (2001)',
+ 'url': u'http://lyrics.wikia.com/wiki/Happy_Christmas,_Vol._3_(2001)'}
+{'genre': u'Christmas',
+ 'title': u'Happy Christmas, Vol. 4 (2005)',
+ 'url': u'http://lyrics.wikia.com/wiki/Happy_Christmas,_Vol._4_(2005)'}
+{'genre': u'Christmas',
+ 'title': u'Happy Christmas, Vol. 5 (2010)',
+ 'url': u'http://lyrics.wikia.com/wiki/Happy_Christmas,_Vol._5_(2010)'}
+{'genre': u'Christmas',
+ 'title': u'Hapy Christmas, Vol. 4 (2005)',
+ 'url': u'http://lyrics.wikia.com/wiki/Hapy_Christmas,_Vol._4_(2005)'}
+{'genre': u'Christmas',
+ 'title': u'Harry Belafonte:To Wish You A Merry Christmas (1958)',
+ 'url': u'http://lyrics.wikia.com/wiki/Harry_Belafonte:To_Wish_You_A_Merry_Christmas_(1958)'}
+{'genre': u'Christmas',
+ 'title': u'Harry Connick, Jr.:Harry For The Holidays (2003)',
+ 'url': u'http://lyrics.wikia.com/wiki/Harry_Connick,_Jr.:Harry_For_The_Holidays_(2003)'}
+{'genre': u'Christmas',
+ 'title': u'Harry Connick, Jr.:What A Night! A Christmas Album (2008)',
+ 'url': u'http://lyrics.wikia.com/wiki/Harry_Connick,_Jr.:What_A_Night!_A_Christmas_Album_(2008)'}
+{'genre': u'Christmas',
+ 'title': u'Harry Connick, Jr.:When My Heart Finds Christmas (1993)',
+ 'url': u'http://lyrics.wikia.com/wiki/Harry_Connick,_Jr.:When_My_Heart_Finds_Christmas_(1993)'}
+{'genre': u'Christmas',
+ 'title': u'Hawksley Workman:Almost A Full Moon (2001)',
+ 'url': u'http://lyrics.wikia.com/wiki/Hawksley_Workman:Almost_A_Full_Moon_(2001)'}
+{'genre': u'Christmas',
+ 'title': u'Heintje:Fr\xf6hliche Weihnacht \xdcberall (1971)',
+ 'url': u'http://lyrics.wikia.com/wiki/Heintje:Fr%C3%B6hliche_Weihnacht_%C3%9Cberall_(1971)'}
+{'genre': u'Christmas',
+ 'title': u'Helene Fischer:Weihnachten (2015)',
+ 'url': u'http://lyrics.wikia.com/wiki/Helene_Fischer:Weihnachten_(2015)'}
+{'genre': u'Christmas',
+ 'title': u'Herb Alpert & The Tijuana Brass:Christmas Album (1968)',
+ 'url': u'http://lyrics.wikia.com/wiki/Herb_Alpert_%26_The_Tijuana_Brass:Christmas_Album_(1968)'}
+{'genre': u'Christmas',
+ 'title': u'Hey Monday:The Christmas EP (2011)',
+ 'url': u'http://lyrics.wikia.com/wiki/Hey_Monday:The_Christmas_EP_(2011)'}
+{'genre': u'Christmas',
+ 'title': u'Hilary Duff:Santa Claus Lane (2002)',
+ 'url': u'http://lyrics.wikia.com/wiki/Hilary_Duff:Santa_Claus_Lane_(2002)'}
+{'genre': u'Christmas',
+ 'title': u'Holidays Rule (2012)',
+ 'url': u'http://lyrics.wikia.com/wiki/Holidays_Rule_(2012)'}
+{'genre': u'Christmas',
+ 'title': u'Home Alone Christmas (1993)',
+ 'url': u'http://lyrics.wikia.com/wiki/Home_Alone_Christmas_(1993)'}
+{'genre': u'Christmas',
+ 'title': u'Idina Menzel:Holiday Wishes (2014)',
+ 'url': u'http://lyrics.wikia.com/wiki/Idina_Menzel:Holiday_Wishes_(2014)'}
+{'genre': u'Christian Ska',
+ 'title': u'A Billion Ernies',
+ 'url': u'http://lyrics.wikia.com/wiki/A_Billion_Ernies'}
+{'genre': u'Christian Ska',
+ 'title': u'Five Iron Frenzy:Engine Of A Million Plots (2013)',
+ 'url': u'http://lyrics.wikia.com/wiki/Five_Iron_Frenzy:Engine_Of_A_Million_Plots_(2013)'}
+{'genre': u'Christian Ska',
+ 'title': u'The Insyderz',
+ 'url': u'http://lyrics.wikia.com/wiki/The_Insyderz'}
+{'genre': u'Christian Ska',
+ 'title': u'The O.C. Supertones:Adventures Of The O.C. Supertones (1996)',
+ 'url': u'http://lyrics.wikia.com/wiki/The_O.C._Supertones:Adventures_Of_The_O.C._Supertones_(1996)'}
+{'genre': u'Christian Ska',
+ 'title': u'The O.C. Supertones:Chase The Sun (1999)',
+ 'url': u'http://lyrics.wikia.com/wiki/The_O.C._Supertones:Chase_The_Sun_(1999)'}
+{'genre': u'Christian Ska',
+ 'title': u'The O.C. Supertones:Faith Of A Child (2005)',
+ 'url': u'http://lyrics.wikia.com/wiki/The_O.C._Supertones:Faith_Of_A_Child_(2005)'}
+{'genre': u'Christian Ska',
+ 'title': u'The O.C. Supertones:Hi-Fi Revival (2002)',
+ 'url': u'http://lyrics.wikia.com/wiki/The_O.C._Supertones:Hi-Fi_Revival_(2002)'}
+{'genre': u'Christian Ska',
+ 'title': u'The O.C. Supertones:Live! Vol.1 (2002)',
+ 'url': u'http://lyrics.wikia.com/wiki/The_O.C._Supertones:Live!_Vol.1_(2002)'}
+{'genre': u'Christian Ska',
+ 'title': u'The O.C. Supertones:Loud And Clear (2000)',
+ 'url': u'http://lyrics.wikia.com/wiki/The_O.C._Supertones:Loud_And_Clear_(2000)'}
+{'genre': u'Christian Ska',
+ 'title': u'The O.C. Supertones:Revenge Of The O.C. Supertones (2004)',
+ 'url': u'http://lyrics.wikia.com/wiki/The_O.C._Supertones:Revenge_Of_The_O.C._Supertones_(2004)'}
+{'genre': u'Christian Ska',
+ 'title': u'The O.C. Supertones:Supertones Strike Back (1997)',
+ 'url': u'http://lyrics.wikia.com/wiki/The_O.C._Supertones:Supertones_Strike_Back_(1997)'}
+{'genre': u'Christian Ska',
+ 'title': u'The O.C. Supertones:Unite (2005)',
+ 'url': u'http://lyrics.wikia.com/wiki/The_O.C._Supertones:Unite_(2005)'}
